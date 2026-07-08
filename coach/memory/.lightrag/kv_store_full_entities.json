@@ -1656,5 +1656,456 @@
     "create_time": 1781697326,
     "update_time": 1781697326,
     "_id": "daily::2026-06-03.md::123"
+  },
+  "daily::2026-06-03.md::125": {
+    "entity_names": [
+      "<System>",
+      "<Task",
+      "<Daily Summary>",
+      "<Daily Review>",
+      "<Other>"
+    ],
+    "count": 5,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "daily::2026-06-03.md::125"
+  },
+  "daily::2026-06-03.md::124": {
+    "entity_names": [
+      "Rating",
+      "Session Log",
+      "<rating)<[#|]<Duration"
+    ],
+    "count": 3,
+    "create_time": 1783496121,
+    "update_time": 1783496121,
+    "_id": "daily::2026-06-03.md::124"
+  },
+  "daily::2026-06-03.md::122": {
+    "entity_names": [
+      "more marketing for solar 4G camera campaign"
+    ],
+    "count": 1,
+    "create_time": 1783496430,
+    "update_time": 1783496430,
+    "_id": "daily::2026-06-03.md::122"
+  },
+  "daily::2026-06-01.md::126": {
+    "entity_names": [
+      "Facebook",
+      "Facebook shop",
+      "team"
+    ],
+    "count": 3,
+    "create_time": 1783496549,
+    "update_time": 1783496549,
+    "_id": "daily::2026-06-01.md::126"
+  },
+  "daily::2026-05-31.md::128": {
+    "entity_names": [
+      "entity_name=\"Facebook shop setup\"",
+      "<entity_name=\"Facebook shop setup\"",
+      "entity_name=\"secuview.com analytics\"",
+      "<entity_name=\"secuview.com analytics\"",
+      "entity_name=\"team\"",
+      "Project"
+    ],
+    "count": 6,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "daily::2026-05-31.md::128"
+  },
+  "daily::2026-05-31.md::131": {
+    "entity_names": [
+      "tasks",
+      "Daily Review",
+      "Tasks",
+      "Tomorrow"
+    ],
+    "count": 4,
+    "create_time": 1783496602,
+    "update_time": 1783496602,
+    "_id": "daily::2026-05-31.md::131"
+  },
+  "conversations::conv-20260609-160350.md::132": {
+    "entity_names": [
+      "User",
+      "Coach/Assistant",
+      "Raw Synthesis",
+      "LLM/",
+      "DuckDuckGo"
+    ],
+    "count": 5,
+    "create_time": 1783496764,
+    "update_time": 1783496764,
+    "_id": "conversations::conv-20260609-160350.md::132"
+  },
+  "conversations::conv-20260605-221323.md::133": {
+    "entity_names": [
+      "<ListingWebsite",
+      "<Company"
+    ],
+    "count": 2,
+    "create_time": 1783496800,
+    "update_time": 1783496800,
+    "_id": "conversations::conv-20260605-221323.md::133"
+  },
+  "conversations::conv-20260531-114202.md::134": {
+    "entity_names": [
+      "Key Points",
+      "Facebook Shop Owner",
+      "Questions Asked",
+      "Gut Feeling",
+      "Website",
+      "Facebook Shop",
+      "Potential Outcome"
+    ],
+    "count": 7,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "conversations::conv-20260531-114202.md::134"
+  },
+  "goals::goals.md::135": {
+    "entity_names": [
+      "Prompt Engineer"
+    ],
+    "count": 1,
+    "create_time": 1783496928,
+    "update_time": 1783496928,
+    "_id": "goals::goals.md::135"
+  },
+  "goals::goals.md::136": {
+    "entity_names": [
+      "AI Engineer",
+      "Product,"
+    ],
+    "count": 2,
+    "create_time": 1783496941,
+    "update_time": 1783496941,
+    "_id": "goals::goals.md::136"
+  },
+  "goals::goals.md::137": {
+    "entity_names": [
+      "<target_entity>Business Directory</target_entity>",
+      "<source_entity>Qatar</source_entity>"
+    ],
+    "count": 2,
+    "create_time": 1783496997,
+    "update_time": 1783496997,
+    "_id": "goals::goals.md::137"
+  },
+  "goals::goals.md::138": {
+    "entity_names": [
+      "SEO",
+      "Hugo"
+    ],
+    "count": 2,
+    "create_time": 1783497069,
+    "update_time": 1783497069,
+    "_id": "goals::goals.md::138"
+  },
+  "habits::habits.md::139": {
+    "entity_names": [
+      "Daily Arabic vocab",
+      "vocab"
+    ],
+    "count": 2,
+    "create_time": 1783497090,
+    "update_time": 1783497090,
+    "_id": "habits::habits.md::139"
+  },
+  "habits::habits.md::140": {
+    "entity_names": [
+      "evening",
+      "run"
+    ],
+    "count": 2,
+    "create_time": 1783497115,
+    "update_time": 1783497115,
+    "_id": "habits::habits.md::140"
+  },
+  "habits::habits.md::141": {
+    "entity_names": [
+      "Reading",
+      "<Page",
+      "<Number",
+      "<Page>",
+      "Page",
+      "<Reading>"
+    ],
+    "count": 6,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "habits::habits.md::141"
+  },
+  "checkpoint::checkpoint.md::142": {
+    "entity_names": [
+      "Next Task",
+      "phase",
+      "Solar 4G Camera",
+      "Notes"
+    ],
+    "count": 4,
+    "create_time": 1783497460,
+    "update_time": 1783497460,
+    "_id": "checkpoint::checkpoint.md::142"
+  },
+  "sessions::session-20260624-105632.md::0": {
+    "entity_names": [
+      "DS-9632NXI-I8/S",
+      "RFP",
+      "spec match,",
+      "DST-8632NXI-I8/24P/S",
+      "DST-7732NXI-K4/16P",
+      "DS-9632NI-I8(STD)"
+    ],
+    "count": 6,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "sessions::session-20260624-105632.md::0"
+  },
+  "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0": {
+    "entity_names": [
+      "uses",
+      "OpenVINO",
+      "Qwen"
+    ],
+    "count": 3,
+    "create_time": 1783498472,
+    "update_time": 1783498472,
+    "_id": "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0"
+  },
+  "sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0": {
+    "entity_names": [
+      "Freetoolz",
+      "Kbps",
+      "Hikvision"
+    ],
+    "count": 3,
+    "create_time": 1783498497,
+    "update_time": 1783498497,
+    "_id": "sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0"
+  },
+  "sessions::b8a2e659-e39a-4b1e-80c6-4133679b9118::0": {
+    "entity_names": [
+      "transient",
+      "fix"
+    ],
+    "count": 2,
+    "create_time": 1783498894,
+    "update_time": 1783498894,
+    "_id": "sessions::b8a2e659-e39a-4b1e-80c6-4133679b9118::0"
+  },
+  "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0": {
+    "entity_names": [
+      "Python",
+      "agent"
+    ],
+    "count": 2,
+    "create_time": 1783499100,
+    "update_time": 1783499100,
+    "_id": "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0"
+  },
+  "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0": {
+    "entity_names": [
+      "<Session Streaming",
+      "<aashimkhn>",
+      "<Streaming",
+      "<Plugin",
+      "Windows",
+      "Stash",
+      "<AashimKhn>",
+      "<Opencode Plugin>"
+    ],
+    "count": 8,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0"
+  },
+  "profile::profile.md::143": {
+    "entity_names": [
+      "Automation/AI engineering",
+      "Salwa Road",
+      "React",
+      "Security business operations",
+      "better-paying job",
+      "Starfox 8am–5pm",
+      "Lead gen pipeline",
+      "Next.js",
+      "Recurring revenue",
+      "multiple income streams",
+      "security business operations",
+      "AI Engineering",
+      "Hugo site",
+      "independent income",
+      "Starfox Security System",
+      "Business Directory idea",
+      "Aslielectronics GitHub page",
+      "ship own product",
+      "AI automation/engineering as a service",
+      "Aslielectronics website",
+      "Multiple income streams",
+      "SEO content writing",
+      "Node.js",
+      "Python",
+      "Secuview website",
+      "Prompt foundations",
+      "Ship own product",
+      "SaaS product for recurring revenue",
+      "Quotations for Starfox Security System",
+      "CCTV camera",
+      "recurring revenue",
+      "Code generation",
+      "Independent income",
+      "Java",
+      "WordPress/WooCommerce",
+      "SaaS product",
+      "Hugo website",
+      "Better-paying job",
+      "AI Automation/engineering as a service",
+      "Aslielectronics"
+    ],
+    "count": 40,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "profile::profile.md::143"
+  },
+  "decisions::decisions.md::145": {
+    "entity_names": [
+      "coach",
+      "TF-IDF",
+      "Address",
+      "business",
+      "topic",
+      "decision",
+      "Coach"
+    ],
+    "count": 7,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "decisions::decisions.md::145"
+  },
+  "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0": {
+    "entity_names": [
+      "Installed Ponytail",
+      "freetoolz",
+      "freetoolz/portfolio",
+      "portfolio",
+      "freetoolz/safehome"
+    ],
+    "count": 5,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0"
+  },
+  "insights::insights.md::144": {
+    "entity_names": [
+      "content-seo-phase2",
+      "deploy",
+      "source_entity:sessions",
+      "build",
+      "system-setup",
+      "blog-publishing-solar-4g",
+      "session",
+      "web-development",
+      "source_entity:deploy",
+      "content-writing",
+      "target_entity:content-seo-phase2",
+      "target_entity:seo-optimization",
+      "source_entity:session",
+      "research",
+      "target_entity:hugo-product-page-enhance",
+      "seo-optimization",
+      "target_entity:blog-publishing-solar-4g",
+      "target_entity:id",
+      "dev-utils",
+      "deep-research-tool",
+      "research-struggles",
+      "hugo-product-page-enhance",
+      "target_entity:deploy"
+    ],
+    "count": 23,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "insights::insights.md::144"
+  },
+  "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8": {
+    "entity_names": [
+      "portfolio-og.png",
+      "Added OG meta tags",
+      "OpenGraph",
+      "SVG favicon with gradient lettermark",
+      "pushed to GitHub Pages",
+      "GitHub",
+      "Portfolio"
+    ],
+    "count": 7,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8"
+  },
+  "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7": {
+    "entity_names": [
+      "TELOS",
+      "<TELOS><ISA>",
+      "ISA"
+    ],
+    "count": 3,
+    "create_time": 1783505417,
+    "update_time": 1783505417,
+    "_id": "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7"
+  },
+  "conversations::conv-20260629-110812.md::20": {
+    "entity_names": [
+      "What am I assuming that I haven't verified",
+      "Misinterpretation",
+      "Assumption",
+      "User Feedback",
+      "Domain Expert",
+      "Question 1",
+      "Problem Statement",
+      "What would make the user say 'that's not what I meant'"
+    ],
+    "count": 8,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "conversations::conv-20260629-110812.md::20"
+  },
+  "profile::profile.md::32": {
+    "entity_names": [
+      "lead-gen-pipeline",
+      "recurring-revenue",
+      "aslieelectronics",
+      "saa-product-revenue",
+      "Entity: AI automation/engineering as a service (freelance)",
+      "starfox-8am-5pm",
+      "Entity: Use AI to scale the existing security business operations",
+      "aspiration:< become an ai engineer",
+      "Aspiration:< Become an AI Engineer",
+      "Freetoolz / Khaleej",
+      "ai-automation-service",
+      "qatar-directory",
+      "Entity: Multiple income streams from all of the above",
+      "ai-scaling-operations",
+      "freetoolz/khaleej",
+      "business-directory-idea",
+      "starfox-security-system",
+      "Entity: Lead gen pipeline",
+      "hugo-website",
+      "Qatar Directory idea",
+      "Qatar Directory",
+      "lead-gen-model",
+      "security-business-ops",
+      "github-pages",
+      "business-directory-idea-projects",
+      "Entity: SaaS product for recurring revenue",
+      "freelance-work",
+      "qatar-directory-idea",
+      "domain-ideas"
+    ],
+    "count": 29,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "profile::profile.md::32"
   }
 }

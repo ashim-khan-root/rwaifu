@@ -116,10 +116,11 @@
   "Freetoolz": {
     "chunk_ids": [
       "sessions::session-20260616-083238.md::5-chunk-000",
-      "sessions::session-20260615-123253.md::16-chunk-000"
+      "sessions::session-20260615-123253.md::16-chunk-000",
+      "sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0-chunk-000"
     ],
-    "count": 2,
-    "update_time": 1781675477,
+    "count": 3,
+    "update_time": 1783498497,
     "_id": "Freetoolz"
   },
   "UUID Generator": {
@@ -198,10 +199,11 @@
     "chunk_ids": [
       "sessions::session-20260616-082705.md::6-chunk-000",
       "sessions::session-20260616-081327.md::7-chunk-000",
-      "sessions::session-20260615-110223.md::18-chunk-000"
+      "sessions::session-20260615-110223.md::18-chunk-000",
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
     ],
-    "count": 3,
-    "update_time": 1781678281,
+    "count": 4,
+    "update_time": 1783500849,
     "_id": "freetoolz"
   },
   "subnet calculator": {
@@ -252,10 +254,11 @@
   "Other": {
     "chunk_ids": [
       "sessions::session-20260616-081327.md::7-chunk-000",
-      "sessions::session-20260529-190958.md::78-chunk-000"
+      "sessions::session-20260529-190958.md::78-chunk-000",
+      "sessions::session-20260624-105632.md::0-chunk-000"
     ],
-    "count": 2,
-    "update_time": 1781692089,
+    "count": 3,
+    "update_time": 1783498449,
     "_id": "Other"
   },
   "tool": {
@@ -351,11 +354,11 @@
   },
   "<Skill": {
     "chunk_ids": [
-      "sessions::session-20260616-064311.md::10-chunk-000"
+      "sessions::session-20260616-064311.md::10-chunk-000",
+      "daily::2026-06-03.md::124-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1781674697,
-    "update_time": 1781674697,
+    "count": 2,
+    "update_time": 1783496121,
     "_id": "<Skill"
   },
   "rating": {
@@ -373,10 +376,11 @@
     "chunk_ids": [
       "sessions::session-20260616-063824.md::11-chunk-000",
       "sessions::session-20260615-100322.md::26-chunk-000",
-      "sessions::session-20260526-125038.md::92-chunk-000"
+      "sessions::session-20260526-125038.md::92-chunk-000",
+      "daily::2026-05-31.md::128-chunk-000"
     ],
-    "count": 3,
-    "update_time": 1781693025,
+    "count": 4,
+    "update_time": 1783496577,
     "_id": "Project"
   },
   "Script": {
@@ -392,10 +396,11 @@
     "chunk_ids": [
       "sessions::session-20260616-063824.md::11-chunk-000",
       "sessions::session-20260531-095438.md::64-chunk-000",
-      "sessions::session-20260531-095408.md::67-chunk-000"
+      "sessions::session-20260531-095408.md::67-chunk-000",
+      "decisions::decisions.md::145-chunk-000"
     ],
-    "count": 3,
-    "update_time": 1781689640,
+    "count": 4,
+    "update_time": 1783500628,
     "_id": "Coach"
   },
   "Data File": {
@@ -436,11 +441,11 @@
   },
   "TF-IDF": {
     "chunk_ids": [
-      "sessions::session-20260616-063824.md::11-chunk-000"
+      "sessions::session-20260616-063824.md::11-chunk-000",
+      "decisions::decisions.md::145-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1781674765,
-    "update_time": 1781674765,
+    "count": 2,
+    "update_time": 1783500628,
     "_id": "TF-IDF"
   },
   "Evolve_Skill": {
@@ -472,11 +477,12 @@
   },
   "session": {
     "chunk_ids": [
-      "sessions::session-20260616-062403.md::12-chunk-000"
+      "sessions::session-20260616-062403.md::12-chunk-000",
+      "decisions::decisions.md::145-chunk-000",
+      "insights::insights.md::144-chunk-001"
     ],
-    "count": 1,
-    "create_time": 1781674881,
-    "update_time": 1781674881,
+    "count": 3,
+    "update_time": 1783501244,
     "_id": "session"
   },
   "session_hooks": {
@@ -506,10 +512,11 @@
       "sessions::session-20260530-090745.md::75-chunk-000",
       "sessions::session-20260528-170636.md::81-chunk-000",
       "sessions::session-20260528-142545.md::84-chunk-000",
-      "sessions::session-20260523-084302.md::114-chunk-000"
+      "sessions::session-20260523-084302.md::114-chunk-000",
+      "profile::profile.md::32-chunk-000"
     ],
-    "count": 8,
-    "update_time": 1781696409,
+    "count": 9,
+    "update_time": 1783506394,
     "_id": "Organization"
   },
   "Concept": {
@@ -906,10 +913,11 @@
   "Hugo": {
     "chunk_ids": [
       "sessions::session-20260615-095329.md::27-chunk-000",
-      "sessions::session-20260615-072330.md::40-chunk-000"
+      "sessions::session-20260615-072330.md::40-chunk-000",
+      "goals::goals.md::138-chunk-000"
     ],
-    "count": 2,
-    "update_time": 1781683873,
+    "count": 3,
+    "update_time": 1783497069,
     "_id": "Hugo"
   },
   "Category": {
@@ -925,10 +933,11 @@
   "User": {
     "chunk_ids": [
       "sessions::session-20260615-095329.md::27-chunk-000",
-      "sessions::session-20260524-092944.md::106-chunk-000"
+      "sessions::session-20260524-092944.md::106-chunk-000",
+      "conversations::conv-20260609-160350.md::132-chunk-000"
     ],
-    "count": 2,
-    "update_time": 1781695580,
+    "count": 3,
+    "update_time": 1783496764,
     "_id": "User"
   },
   "HomePage": {
@@ -1401,10 +1410,11 @@
       "sessions::session-20260529-172614.md::79-chunk-000",
       "sessions::session-20260529-171751.md::80-chunk-000",
       "sessions::session-20260528-170636.md::81-chunk-000",
-      "sessions::session-20260527-173554.md::88-chunk-000"
+      "sessions::session-20260527-173554.md::88-chunk-000",
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
     ],
-    "count": 8,
-    "update_time": 1781692644,
+    "count": 9,
+    "update_time": 1783505395,
     "_id": "GitHub"
   },
   "gitignore": {
@@ -1526,11 +1536,11 @@
   },
   "Windows": {
     "chunk_ids": [
-      "sessions::session-20260616-103344.md::2-chunk-000"
+      "sessions::session-20260616-103344.md::2-chunk-000",
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1781679505,
-    "update_time": 1781679505,
+    "count": 2,
+    "update_time": 1783499934,
     "_id": "Windows"
   },
   "MindMap": {
@@ -1652,11 +1662,11 @@
   },
   "fix": {
     "chunk_ids": [
-      "sessions::session-20260616-103344.md::2-chunk-000"
+      "sessions::session-20260616-103344.md::2-chunk-000",
+      "sessions::b8a2e659-e39a-4b1e-80c6-4133679b9118::0-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1781679505,
-    "update_time": 1781679505,
+    "count": 2,
+    "update_time": 1783498894,
     "_id": "fix"
   },
   "system": {
@@ -1875,10 +1885,11 @@
   "Notes": {
     "chunk_ids": [
       "sessions::session-20260615-094813.md::28-chunk-000",
-      "daily::2026-06-03.md::121-chunk-000"
+      "daily::2026-06-03.md::121-chunk-000",
+      "checkpoint::checkpoint.md::142-chunk-000"
     ],
-    "count": 2,
-    "update_time": 1781696867,
+    "count": 3,
+    "update_time": 1783497460,
     "_id": "Notes"
   },
   "minifier": {
@@ -2371,10 +2382,11 @@
     "chunk_ids": [
       "sessions::session-20260615-092836.md::38-chunk-000",
       "sessions::session-20260521-062419.md::119-chunk-000",
-      "sessions::session-20260521-054016.md::120-chunk-000"
+      "sessions::session-20260521-054016.md::120-chunk-000",
+      "daily::2026-06-03.md::124-chunk-000"
     ],
-    "count": 3,
-    "update_time": 1781696746,
+    "count": 4,
+    "update_time": 1783496121,
     "_id": "Rating"
   },
   "/roofing-calculator": {
@@ -2967,20 +2979,20 @@
   },
   "aslielectronics": {
     "chunk_ids": [
-      "sessions::session-20260609-133431.md::49-chunk-000"
+      "sessions::session-20260609-133431.md::49-chunk-000",
+      "profile::profile.md::32-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1781684687,
-    "update_time": 1781684687,
+    "count": 2,
+    "update_time": 1783506394,
     "_id": "aslielectronics"
   },
   "Hugo site": {
     "chunk_ids": [
-      "sessions::session-20260609-133431.md::49-chunk-000"
+      "sessions::session-20260609-133431.md::49-chunk-000",
+      "profile::profile.md::143-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1781684687,
-    "update_time": 1781684687,
+    "count": 2,
+    "update_time": 1783500365,
     "_id": "Hugo site"
   },
   "directory idea": {
@@ -3183,10 +3195,11 @@
   "safehome": {
     "chunk_ids": [
       "sessions::session-20260602-094327.md::55-chunk-000",
-      "sessions::session-20260601-133723.md::59-chunk-000"
+      "sessions::session-20260601-133723.md::59-chunk-000",
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
     ],
-    "count": 2,
-    "update_time": 1781688066,
+    "count": 3,
+    "update_time": 1783500849,
     "_id": "safehome"
   },
   "<aslielectronics.com>": {
@@ -3414,11 +3427,11 @@
   },
   "Solar 4G Camera": {
     "chunk_ids": [
-      "sessions::session-20260601-124355.md::61-chunk-000"
+      "sessions::session-20260601-124355.md::61-chunk-000",
+      "checkpoint::checkpoint.md::142-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1781688519,
-    "update_time": 1781688519,
+    "count": 2,
+    "update_time": 1783497460,
     "_id": "Solar 4G Camera"
   },
   "SecuView": {
@@ -4408,11 +4421,11 @@
   },
   "hugo-product-page-enhance": {
     "chunk_ids": [
-      "sessions::session-20260527-182934.md::87-chunk-000"
+      "sessions::session-20260527-182934.md::87-chunk-000",
+      "insights::insights.md::144-chunk-001"
     ],
-    "count": 1,
-    "create_time": 1781692589,
-    "update_time": 1781692589,
+    "count": 2,
+    "update_time": 1783501244,
     "_id": "hugo-product-page-enhance"
   },
   "Description tab": {
@@ -4805,11 +4818,11 @@
   },
   "content-writing": {
     "chunk_ids": [
-      "sessions::session-20260526-095002.md::95-chunk-000"
+      "sessions::session-20260526-095002.md::95-chunk-000",
+      "insights::insights.md::144-chunk-000"
     ],
-    "count": 1,
-    "create_time": 1781693220,
-    "update_time": 1781693220,
+    "count": 2,
+    "update_time": 1783501244,
     "_id": "content-writing"
   },
   "schema": {
@@ -4950,10 +4963,11 @@
   "Entity": {
     "chunk_ids": [
       "sessions::session-20260525-141427.md::101-chunk-000",
-      "sessions::session-20260521-135009.md::115-chunk-000"
+      "sessions::session-20260521-135009.md::115-chunk-000",
+      "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0-chunk-000"
     ],
-    "count": 2,
-    "update_time": 1781696435,
+    "count": 3,
+    "update_time": 1783499100,
     "_id": "Entity"
   },
   "Platform": {
@@ -5738,5 +5752,1671 @@
     "create_time": 1781697326,
     "update_time": 1781697326,
     "_id": "Reflection"
+  },
+  "<Daily Summary>": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::125-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "<Daily Summary>"
+  },
+  "<Daily Review>": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::125-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "<Daily Review>"
+  },
+  "<Other>": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::125-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "<Other>"
+  },
+  "<System>": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::125-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "<System>"
+  },
+  "<Task": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::125-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "<Task"
+  },
+  "Session Log": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::124-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496121,
+    "update_time": 1783496121,
+    "_id": "Session Log"
+  },
+  "<rating)<[#|]<Duration": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::124-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496121,
+    "update_time": 1783496121,
+    "_id": "<rating)<[#|]<Duration"
+  },
+  "more marketing for solar 4G camera campaign": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::122-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496430,
+    "update_time": 1783496430,
+    "_id": "more marketing for solar 4G camera campaign"
+  },
+  "Facebook shop": {
+    "chunk_ids": [
+      "daily::2026-06-01.md::126-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496549,
+    "update_time": 1783496549,
+    "_id": "Facebook shop"
+  },
+  "Facebook": {
+    "chunk_ids": [
+      "daily::2026-06-01.md::126-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496549,
+    "update_time": 1783496549,
+    "_id": "Facebook"
+  },
+  "team": {
+    "chunk_ids": [
+      "daily::2026-06-01.md::126-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496549,
+    "update_time": 1783496549,
+    "_id": "team"
+  },
+  "<entity_name=\"Facebook shop setup\"": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::128-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "<entity_name=\"Facebook shop setup\""
+  },
+  "<entity_name=\"secuview.com analytics\"": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::128-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "<entity_name=\"secuview.com analytics\""
+  },
+  "entity_name=\"secuview.com analytics\"": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::128-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "entity_name=\"secuview.com analytics\""
+  },
+  "entity_name=\"Facebook shop setup\"": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::128-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "entity_name=\"Facebook shop setup\""
+  },
+  "entity_name=\"team\"": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::128-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "entity_name=\"team\""
+  },
+  "Tasks": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::131-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496602,
+    "update_time": 1783496602,
+    "_id": "Tasks"
+  },
+  "Tomorrow": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::131-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496602,
+    "update_time": 1783496602,
+    "_id": "Tomorrow"
+  },
+  "Daily Review": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::131-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496602,
+    "update_time": 1783496602,
+    "_id": "Daily Review"
+  },
+  "tasks": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::131-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496602,
+    "update_time": 1783496602,
+    "_id": "tasks"
+  },
+  "Coach/Assistant": {
+    "chunk_ids": [
+      "conversations::conv-20260609-160350.md::132-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496764,
+    "update_time": 1783496764,
+    "_id": "Coach/Assistant"
+  },
+  "DuckDuckGo": {
+    "chunk_ids": [
+      "conversations::conv-20260609-160350.md::132-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496764,
+    "update_time": 1783496764,
+    "_id": "DuckDuckGo"
+  },
+  "LLM/": {
+    "chunk_ids": [
+      "conversations::conv-20260609-160350.md::132-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496764,
+    "update_time": 1783496764,
+    "_id": "LLM/"
+  },
+  "Raw Synthesis": {
+    "chunk_ids": [
+      "conversations::conv-20260609-160350.md::132-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496764,
+    "update_time": 1783496764,
+    "_id": "Raw Synthesis"
+  },
+  "<Company": {
+    "chunk_ids": [
+      "conversations::conv-20260605-221323.md::133-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496800,
+    "update_time": 1783496800,
+    "_id": "<Company"
+  },
+  "<ListingWebsite": {
+    "chunk_ids": [
+      "conversations::conv-20260605-221323.md::133-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496800,
+    "update_time": 1783496800,
+    "_id": "<ListingWebsite"
+  },
+  "Website": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Website"
+  },
+  "Facebook Shop": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Facebook Shop"
+  },
+  "Facebook Shop Owner": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Facebook Shop Owner"
+  },
+  "Potential Outcome": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Potential Outcome"
+  },
+  "Gut Feeling": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Gut Feeling"
+  },
+  "Questions Asked": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Questions Asked"
+  },
+  "Key Points": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Key Points"
+  },
+  "Prompt Engineer": {
+    "chunk_ids": [
+      "goals::goals.md::135-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496928,
+    "update_time": 1783496928,
+    "_id": "Prompt Engineer"
+  },
+  "AI Engineer": {
+    "chunk_ids": [
+      "goals::goals.md::136-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496941,
+    "update_time": 1783496941,
+    "_id": "AI Engineer"
+  },
+  "Product,": {
+    "chunk_ids": [
+      "goals::goals.md::136-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496941,
+    "update_time": 1783496941,
+    "_id": "Product,"
+  },
+  "<source_entity>Qatar</source_entity>": {
+    "chunk_ids": [
+      "goals::goals.md::137-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496997,
+    "update_time": 1783496997,
+    "_id": "<source_entity>Qatar</source_entity>"
+  },
+  "<target_entity>Business Directory</target_entity>": {
+    "chunk_ids": [
+      "goals::goals.md::137-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496997,
+    "update_time": 1783496997,
+    "_id": "<target_entity>Business Directory</target_entity>"
+  },
+  "SEO": {
+    "chunk_ids": [
+      "goals::goals.md::138-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497069,
+    "update_time": 1783497069,
+    "_id": "SEO"
+  },
+  "vocab": {
+    "chunk_ids": [
+      "habits::habits.md::139-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497090,
+    "update_time": 1783497090,
+    "_id": "vocab"
+  },
+  "Daily Arabic vocab": {
+    "chunk_ids": [
+      "habits::habits.md::139-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497090,
+    "update_time": 1783497090,
+    "_id": "Daily Arabic vocab"
+  },
+  "run": {
+    "chunk_ids": [
+      "habits::habits.md::140-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497115,
+    "update_time": 1783497115,
+    "_id": "run"
+  },
+  "evening": {
+    "chunk_ids": [
+      "habits::habits.md::140-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497115,
+    "update_time": 1783497115,
+    "_id": "evening"
+  },
+  "Reading": {
+    "chunk_ids": [
+      "habits::habits.md::141-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "Reading"
+  },
+  "Page": {
+    "chunk_ids": [
+      "habits::habits.md::141-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "Page"
+  },
+  "<Page": {
+    "chunk_ids": [
+      "habits::habits.md::141-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "<Page"
+  },
+  "<Number": {
+    "chunk_ids": [
+      "habits::habits.md::141-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "<Number"
+  },
+  "<Reading>": {
+    "chunk_ids": [
+      "habits::habits.md::141-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "<Reading>"
+  },
+  "<Page>": {
+    "chunk_ids": [
+      "habits::habits.md::141-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "<Page>"
+  },
+  "Next Task": {
+    "chunk_ids": [
+      "checkpoint::checkpoint.md::142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497460,
+    "update_time": 1783497460,
+    "_id": "Next Task"
+  },
+  "phase": {
+    "chunk_ids": [
+      "checkpoint::checkpoint.md::142-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497460,
+    "update_time": 1783497460,
+    "_id": "phase"
+  },
+  "DS-9632NI-I8(STD)": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "DS-9632NI-I8(STD)"
+  },
+  "RFP": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "RFP"
+  },
+  "spec match,": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "spec match,"
+  },
+  "DS-9632NXI-I8/S": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "DS-9632NXI-I8/S"
+  },
+  "DST-7732NXI-K4/16P": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "DST-7732NXI-K4/16P"
+  },
+  "DST-8632NXI-I8/24P/S": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "DST-8632NXI-I8/24P/S"
+  },
+  "OpenVINO": {
+    "chunk_ids": [
+      "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498472,
+    "update_time": 1783498472,
+    "_id": "OpenVINO"
+  },
+  "Qwen": {
+    "chunk_ids": [
+      "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498472,
+    "update_time": 1783498472,
+    "_id": "Qwen"
+  },
+  "uses": {
+    "chunk_ids": [
+      "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498472,
+    "update_time": 1783498472,
+    "_id": "uses"
+  },
+  "Hikvision": {
+    "chunk_ids": [
+      "sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498497,
+    "update_time": 1783498497,
+    "_id": "Hikvision"
+  },
+  "Kbps": {
+    "chunk_ids": [
+      "sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498497,
+    "update_time": 1783498497,
+    "_id": "Kbps"
+  },
+  "transient": {
+    "chunk_ids": [
+      "sessions::b8a2e659-e39a-4b1e-80c6-4133679b9118::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498894,
+    "update_time": 1783498894,
+    "_id": "transient"
+  },
+  "Python": {
+    "chunk_ids": [
+      "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0-chunk-000",
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1783500365,
+    "_id": "Python"
+  },
+  "agent": {
+    "chunk_ids": [
+      "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499100,
+    "update_time": 1783499100,
+    "_id": "agent"
+  },
+  "Stash": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "Stash"
+  },
+  "<AashimKhn>": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<AashimKhn>"
+  },
+  "<Opencode Plugin>": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<Opencode Plugin>"
+  },
+  "<Session Streaming": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<Session Streaming"
+  },
+  "<aashimkhn>": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<aashimkhn>"
+  },
+  "<Plugin": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<Plugin"
+  },
+  "<Streaming": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<Streaming"
+  },
+  "Starfox Security System": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000",
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1783506394,
+    "_id": "Starfox Security System"
+  },
+  "Aslielectronics": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000",
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1783506394,
+    "_id": "Aslielectronics"
+  },
+  "Business Directory idea": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000",
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1783506394,
+    "_id": "Business Directory idea"
+  },
+  "Salwa Road": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Salwa Road"
+  },
+  "CCTV camera": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "CCTV camera"
+  },
+  "WordPress/WooCommerce": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "WordPress/WooCommerce"
+  },
+  "Java": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Java"
+  },
+  "React": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "React"
+  },
+  "Node.js": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Node.js"
+  },
+  "Next.js": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Next.js"
+  },
+  "Prompt foundations": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Prompt foundations"
+  },
+  "SEO content writing": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "SEO content writing"
+  },
+  "Code generation": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Code generation"
+  },
+  "AI Engineering": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "AI Engineering"
+  },
+  "Automation/AI engineering": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Automation/AI engineering"
+  },
+  "Lead gen pipeline": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Lead gen pipeline"
+  },
+  "Ship own product": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Ship own product"
+  },
+  "Better-paying job": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Better-paying job"
+  },
+  "Independent income": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Independent income"
+  },
+  "Recurring revenue": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Recurring revenue"
+  },
+  "SaaS product": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "SaaS product"
+  },
+  "AI automation/engineering as a service": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "AI automation/engineering as a service"
+  },
+  "Security business operations": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Security business operations"
+  },
+  "Multiple income streams": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Multiple income streams"
+  },
+  "SaaS product for recurring revenue": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "SaaS product for recurring revenue"
+  },
+  "Secuview website": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Secuview website"
+  },
+  "Aslielectronics website": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics website"
+  },
+  "Aslielectronics GitHub page": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics GitHub page"
+  },
+  "Starfox 8am–5pm": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Starfox 8am–5pm"
+  },
+  "AI Automation/engineering as a service": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "AI Automation/engineering as a service"
+  },
+  "Hugo website": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000",
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1783506394,
+    "_id": "Hugo website"
+  },
+  "ship own product": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "ship own product"
+  },
+  "independent income": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "independent income"
+  },
+  "better-paying job": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "better-paying job"
+  },
+  "recurring revenue": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "recurring revenue"
+  },
+  "security business operations": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "security business operations"
+  },
+  "Quotations for Starfox Security System": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Quotations for Starfox Security System"
+  },
+  "multiple income streams": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "multiple income streams"
+  },
+  "coach": {
+    "chunk_ids": [
+      "decisions::decisions.md::145-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "coach"
+  },
+  "Address": {
+    "chunk_ids": [
+      "decisions::decisions.md::145-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "Address"
+  },
+  "business": {
+    "chunk_ids": [
+      "decisions::decisions.md::145-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "business"
+  },
+  "decision": {
+    "chunk_ids": [
+      "decisions::decisions.md::145-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "decision"
+  },
+  "topic": {
+    "chunk_ids": [
+      "decisions::decisions.md::145-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "topic"
+  },
+  "Installed Ponytail": {
+    "chunk_ids": [
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "Installed Ponytail"
+  },
+  "freetoolz/portfolio": {
+    "chunk_ids": [
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "freetoolz/portfolio"
+  },
+  "freetoolz/safehome": {
+    "chunk_ids": [
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "freetoolz/safehome"
+  },
+  "portfolio": {
+    "chunk_ids": [
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "portfolio"
+  },
+  "deep-research-tool": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "deep-research-tool"
+  },
+  "build": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "build"
+  },
+  "web-development": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "web-development"
+  },
+  "system-setup": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "system-setup"
+  },
+  "dev-utils": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "dev-utils"
+  },
+  "research": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "research"
+  },
+  "deploy": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-000",
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "deploy"
+  },
+  "research-struggles": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "research-struggles"
+  },
+  "blog-publishing-solar-4g": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "blog-publishing-solar-4g"
+  },
+  "content-seo-phase2": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "content-seo-phase2"
+  },
+  "seo-optimization": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "seo-optimization"
+  },
+  "source_entity:deploy": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:deploy"
+  },
+  "target_entity:hugo-product-page-enhance": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "target_entity:hugo-product-page-enhance"
+  },
+  "source_entity:session": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:session"
+  },
+  "target_entity:blog-publishing-solar-4g": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "target_entity:blog-publishing-solar-4g"
+  },
+  "target_entity:deploy": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "target_entity:deploy"
+  },
+  "source_entity:sessions": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:sessions"
+  },
+  "target_entity:content-seo-phase2": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "target_entity:content-seo-phase2"
+  },
+  "target_entity:id": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "target_entity:id"
+  },
+  "target_entity:seo-optimization": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "target_entity:seo-optimization"
+  },
+  "Portfolio": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "Portfolio"
+  },
+  "OpenGraph": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "OpenGraph"
+  },
+  "Added OG meta tags": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "Added OG meta tags"
+  },
+  "portfolio-og.png": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "portfolio-og.png"
+  },
+  "pushed to GitHub Pages": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "pushed to GitHub Pages"
+  },
+  "SVG favicon with gradient lettermark": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "SVG favicon with gradient lettermark"
+  },
+  "TELOS": {
+    "chunk_ids": [
+      "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505417,
+    "update_time": 1783505417,
+    "_id": "TELOS"
+  },
+  "ISA": {
+    "chunk_ids": [
+      "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505417,
+    "update_time": 1783505417,
+    "_id": "ISA"
+  },
+  "<TELOS><ISA>": {
+    "chunk_ids": [
+      "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505417,
+    "update_time": 1783505417,
+    "_id": "<TELOS><ISA>"
+  },
+  "Domain Expert": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "Domain Expert"
+  },
+  "Problem Statement": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "Problem Statement"
+  },
+  "Question 1": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "Question 1"
+  },
+  "User Feedback": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "User Feedback"
+  },
+  "Assumption": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "Assumption"
+  },
+  "What would make the user say 'that's not what I meant'": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "What would make the user say 'that's not what I meant'"
+  },
+  "What am I assuming that I haven't verified": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "What am I assuming that I haven't verified"
+  },
+  "Misinterpretation": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "Misinterpretation"
+  },
+  "Aspiration:< Become an AI Engineer": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Aspiration:< Become an AI Engineer"
+  },
+  "aslieelectronics": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "aslieelectronics"
+  },
+  "business-directory-idea": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "business-directory-idea"
+  },
+  "freetoolz/khaleej": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "freetoolz/khaleej"
+  },
+  "github-pages": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "github-pages"
+  },
+  "domain-ideas": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "domain-ideas"
+  },
+  "hugo-website": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "hugo-website"
+  },
+  "Freetoolz / Khaleej": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Freetoolz / Khaleej"
+  },
+  "starfox-8am-5pm": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "starfox-8am-5pm"
+  },
+  "lead-gen-model": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "lead-gen-model"
+  },
+  "Qatar Directory": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Qatar Directory"
+  },
+  "saa-product-revenue": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "saa-product-revenue"
+  },
+  "Entity: SaaS product for recurring revenue": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Entity: SaaS product for recurring revenue"
+  },
+  "Entity: AI automation/engineering as a service (freelance)": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Entity: AI automation/engineering as a service (freelance)"
+  },
+  "ai-automation-service": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "ai-automation-service"
+  },
+  "recurring-revenue": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "recurring-revenue"
+  },
+  "qatar-directory": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "qatar-directory"
+  },
+  "Entity: Use AI to scale the existing security business operations": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Entity: Use AI to scale the existing security business operations"
+  },
+  "ai-scaling-operations": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "ai-scaling-operations"
+  },
+  "freelance-work": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "freelance-work"
+  },
+  "Entity: Multiple income streams from all of the above": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Entity: Multiple income streams from all of the above"
+  },
+  "Entity: Lead gen pipeline": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Entity: Lead gen pipeline"
+  },
+  "security-business-ops": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "security-business-ops"
+  },
+  "lead-gen-pipeline": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "lead-gen-pipeline"
+  },
+  "starfox-security-system": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "starfox-security-system"
+  },
+  "Qatar Directory idea": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Qatar Directory idea"
+  },
+  "qatar-directory-idea": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "qatar-directory-idea"
+  },
+  "aspiration:< become an ai engineer": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "aspiration:< become an ai engineer"
+  },
+  "business-directory-idea-projects": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "business-directory-idea-projects"
   }
 }

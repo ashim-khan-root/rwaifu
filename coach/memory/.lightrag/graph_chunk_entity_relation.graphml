@@ -123,11 +123,11 @@
 </node>
 <node id="Freetoolz">
   <data key="d0">Freetoolz</data>
-  <data key="d1">location</data>
-  <data key="d2">A company that developed freetoolz tools&lt;SEP&gt;base path</data>
-  <data key="d3">sessions::session-20260616-083238.md::5-chunk-000&lt;SEP&gt;sessions::session-20260615-123253.md::16-chunk-000</data>
+  <data key="d1">organization</data>
+  <data key="d2">A company that developed freetoolz tools&lt;SEP&gt;base path&lt;SEP&gt;Freetoolz, a company</data>
+  <data key="d3">sessions::session-20260616-083238.md::5-chunk-000&lt;SEP&gt;sessions::session-20260615-123253.md::16-chunk-000&lt;SEP&gt;sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781675477</data>
+  <data key="d5">1783498497</data>
   <data key="d6"></data>
 </node>
 <node id="UUID Generator">
@@ -205,10 +205,10 @@
 <node id="freetoolz">
   <data key="d0">freetoolz</data>
   <data key="d1">organization</data>
-  <data key="d2">Built 4 Network Tools for freetoolz: Subnet Calculator, MAC Vendor Lookup, Bandwidth Converter, Port Number Lookup&lt;SEP&gt;Renamed freetools → freetoolz</data>
-  <data key="d3">sessions::session-20260616-082705.md::6-chunk-000&lt;SEP&gt;sessions::session-20260616-081327.md::7-chunk-000&lt;SEP&gt;sessions::session-20260615-110223.md::18-chunk-000</data>
+  <data key="d2">Built 4 Network Tools for freetoolz: Subnet Calculator, MAC Vendor Lookup, Bandwidth Converter, Port Number Lookup&lt;SEP&gt;Renamed freetools → freetoolz&lt;SEP&gt;freetoolz is a part of "portfolio" and "safehome"</data>
+  <data key="d3">sessions::session-20260616-082705.md::6-chunk-000&lt;SEP&gt;sessions::session-20260616-081327.md::7-chunk-000&lt;SEP&gt;sessions::session-20260615-110223.md::18-chunk-000&lt;SEP&gt;sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781678281</data>
+  <data key="d5">1783500849</data>
   <data key="d6"></data>
 </node>
 <node id="subnet calculator">
@@ -258,7 +258,7 @@
 </node>
 <node id="Other">
   <data key="d0">Other</data>
-  <data key="d3">sessions::session-20260616-081327.md::7-chunk-000&lt;SEP&gt;sessions::session-20260529-190958.md::78-chunk-000</data>
+  <data key="d3">sessions::session-20260616-081327.md::7-chunk-000&lt;SEP&gt;sessions::session-20260529-190958.md::78-chunk-000&lt;SEP&gt;sessions::session-20260624-105632.md::0-chunk-000</data>
   <data key="d2">&lt;br /&gt;</data>
   <data key="d1">UNKNOWN</data>
   <data key="d4">unknown_source</data>
@@ -357,7 +357,7 @@
 </node>
 <node id="&lt;Skill">
   <data key="d0">&lt;Skill</data>
-  <data key="d3">sessions::session-20260616-064311.md::10-chunk-000</data>
+  <data key="d3">sessions::session-20260616-064311.md::10-chunk-000&lt;SEP&gt;daily::2026-06-03.md::124-chunk-000</data>
   <data key="d2">&lt;5</data>
   <data key="d1">UNKNOWN</data>
   <data key="d4">unknown_source</data>
@@ -376,10 +376,10 @@
 <node id="Project">
   <data key="d0">Project</data>
   <data key="d1">other</data>
-  <data key="d2">Project structure cleanup, moved scripts and reference notes to new locations.&lt;SEP&gt;A UI foundation overhaul project for Space Grotesk fonts and various other design elements.&lt;SEP&gt;Hugo price bug fix project</data>
-  <data key="d3">sessions::session-20260616-063824.md::11-chunk-000&lt;SEP&gt;sessions::session-20260615-100322.md::26-chunk-000&lt;SEP&gt;sessions::session-20260526-125038.md::92-chunk-000</data>
+  <data key="d2">Project structure cleanup, moved scripts and reference notes to new locations.&lt;SEP&gt;A UI foundation overhaul project for Space Grotesk fonts and various other design elements.&lt;SEP&gt;Hugo price bug fix project&lt;SEP&gt;A list of tasks to be completed</data>
+  <data key="d3">sessions::session-20260616-063824.md::11-chunk-000&lt;SEP&gt;sessions::session-20260615-100322.md::26-chunk-000&lt;SEP&gt;sessions::session-20260526-125038.md::92-chunk-000&lt;SEP&gt;daily::2026-05-31.md::128-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781693025</data>
+  <data key="d5">1783496577</data>
   <data key="d6"></data>
 </node>
 <node id="Script">
@@ -393,11 +393,11 @@
 </node>
 <node id="Coach">
   <data key="d0">Coach</data>
-  <data key="d1">person</data>
-  <data key="d2">Coach/work/&lt;SEP&gt;entity_description=Human individual who has coding skills in web development, WordPress, and Hugo&lt;SEP&gt;&lt;Para Coach is a thinking partner used in the PARA template, which facilitates organized and structured daily reflections.&lt;/entity&gt;</data>
-  <data key="d3">sessions::session-20260616-063824.md::11-chunk-000&lt;SEP&gt;sessions::session-20260531-095438.md::64-chunk-000&lt;SEP&gt;sessions::session-20260531-095408.md::67-chunk-000</data>
+  <data key="d1">organization</data>
+  <data key="d2">Coach/work/&lt;SEP&gt;entity_description=Human individual who has coding skills in web development, WordPress, and Hugo&lt;SEP&gt;&lt;Para Coach is a thinking partner used in the PARA template, which facilitates organized and structured daily reflections.&lt;/entity&gt;&lt;SEP&gt;Built MCP server exposing coach memory over stdio protocol</data>
+  <data key="d3">sessions::session-20260616-063824.md::11-chunk-000&lt;SEP&gt;sessions::session-20260531-095438.md::64-chunk-000&lt;SEP&gt;sessions::session-20260531-095408.md::67-chunk-000&lt;SEP&gt;decisions::decisions.md::145-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781689640</data>
+  <data key="d5">1783500628</data>
   <data key="d6"></data>
 </node>
 <node id="Data File">
@@ -438,11 +438,11 @@
 </node>
 <node id="TF-IDF">
   <data key="d0">TF-IDF</data>
-  <data key="d1">method</data>
-  <data key="d2">Fallback index for post_session workflow</data>
-  <data key="d3">sessions::session-20260616-063824.md::11-chunk-000</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fallback index for post_session workflow&lt;SEP&gt;Added TF-IDF vector search index (zero ML models, pure math)</data>
+  <data key="d3">sessions::session-20260616-063824.md::11-chunk-000&lt;SEP&gt;decisions::decisions.md::145-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781674765</data>
+  <data key="d5">1783500628</data>
   <data key="d6"></data>
 </node>
 <node id="Evolve_Skill">
@@ -474,11 +474,11 @@
 </node>
 <node id="session">
   <data key="d0">session</data>
-  <data key="d1">entity</data>
-  <data key="d2">Session</data>
-  <data key="d3">sessions::session-20260616-062403.md::12-chunk-000</data>
+  <data key="d1">other</data>
+  <data key="d2">Session&lt;SEP&gt;A session in the deployed environment, identified by its start date and time.</data>
+  <data key="d3">sessions::session-20260616-062403.md::12-chunk-000&lt;SEP&gt;decisions::decisions.md::145-chunk-000&lt;SEP&gt;insights::insights.md::144-chunk-001</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781674881</data>
+  <data key="d5">1783501244</data>
   <data key="d6"></data>
 </node>
 <node id="session_hooks">
@@ -501,7 +501,7 @@
 </node>
 <node id="Organization">
   <data key="d0">Organization</data>
-  <data key="d3">sessions::session-20260616-055705.md::14-chunk-000&lt;SEP&gt;sessions::session-20260616-134824.md::0-chunk-000&lt;SEP&gt;sessions::session-20260531-095425.md::65-chunk-000&lt;SEP&gt;sessions::session-20260530-140356.md::69-chunk-000&lt;SEP&gt;sessions::session-20260530-090745.md::75-chunk-000&lt;SEP&gt;sessions::session-20260528-170636.md::81-chunk-000&lt;SEP&gt;sessions::session-20260528-142545.md::84-chunk-000&lt;SEP&gt;sessions::session-20260523-084302.md::114-chunk-000</data>
+  <data key="d3">sessions::session-20260616-055705.md::14-chunk-000&lt;SEP&gt;sessions::session-20260616-134824.md::0-chunk-000&lt;SEP&gt;sessions::session-20260531-095425.md::65-chunk-000&lt;SEP&gt;sessions::session-20260530-140356.md::69-chunk-000&lt;SEP&gt;sessions::session-20260530-090745.md::75-chunk-000&lt;SEP&gt;sessions::session-20260528-170636.md::81-chunk-000&lt;SEP&gt;sessions::session-20260528-142545.md::84-chunk-000&lt;SEP&gt;sessions::session-20260523-084302.md::114-chunk-000&lt;SEP&gt;profile::profile.md::32-chunk-000</data>
   <data key="d2">A repository containing a collection of articles on agent skills and Domain-Driven Design (DDD).</data>
   <data key="d1">UNKNOWN</data>
   <data key="d4">unknown_source</data>
@@ -889,10 +889,10 @@
 <node id="Hugo">
   <data key="d0">Hugo</data>
   <data key="d1">organization</data>
-  <data key="d2">Development tool used for website creation.&lt;SEP&gt;A package manager for Windows that allows users to easily install and manage software applications.</data>
-  <data key="d3">sessions::session-20260615-095329.md::27-chunk-000&lt;SEP&gt;sessions::session-20260615-072330.md::40-chunk-000</data>
+  <data key="d2">Development tool used for website creation.&lt;SEP&gt;A package manager for Windows that allows users to easily install and manage software applications.&lt;SEP&gt;Content</data>
+  <data key="d3">sessions::session-20260615-095329.md::27-chunk-000&lt;SEP&gt;sessions::session-20260615-072330.md::40-chunk-000&lt;SEP&gt;goals::goals.md::138-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781683873</data>
+  <data key="d5">1783497069</data>
   <data key="d6"></data>
 </node>
 <node id="Category">
@@ -906,11 +906,11 @@
 </node>
 <node id="User">
   <data key="d0">User</data>
-  <data key="d3">sessions::session-20260615-095329.md::27-chunk-000&lt;SEP&gt;sessions::session-20260524-092944.md::106-chunk-000</data>
-  <data key="d2">created categories, added nav&lt;SEP&gt;User with UID 1001&lt;SEP&gt;User with UID 1000</data>
-  <data key="d1">other</data>
+  <data key="d3">sessions::session-20260615-095329.md::27-chunk-000&lt;SEP&gt;sessions::session-20260524-092944.md::106-chunk-000&lt;SEP&gt;conversations::conv-20260609-160350.md::132-chunk-000</data>
+  <data key="d2">created categories, added nav&lt;SEP&gt;User with UID 1001&lt;SEP&gt;User with UID 1000&lt;SEP&gt;Entity: A human individual with expectations and requirements for chat sessions.</data>
+  <data key="d1">person</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781695580</data>
+  <data key="d5">1783496764</data>
   <data key="d6"></data>
 </node>
 <node id="HomePage">
@@ -1374,11 +1374,11 @@
 </node>
 <node id="GitHub">
   <data key="d0">GitHub</data>
-  <data key="d1">location</data>
-  <data key="d2">Pushed entire personal-coach repo to GitHub with all folders and data preserved. Flattened nested git repos, added gitignore for Excel temp files, committed 117 files.&lt;SEP&gt;github.com&lt;SEP&gt;Description: A web-based platform for version control and collaboration&lt;SEP&gt;Software repository&lt;SEP&gt;entity</data>
-  <data key="d3">sessions::session-20260616-073942.md::8-chunk-000&lt;SEP&gt;sessions::session-20260616-095723.md::3-chunk-000&lt;SEP&gt;sessions::session-20260602-094327.md::55-chunk-000&lt;SEP&gt;sessions::session-20260530-071326.md::76-chunk-000&lt;SEP&gt;sessions::session-20260529-172614.md::79-chunk-000&lt;SEP&gt;sessions::session-20260529-171751.md::80-chunk-000&lt;SEP&gt;sessions::session-20260528-170636.md::81-chunk-000&lt;SEP&gt;sessions::session-20260527-173554.md::88-chunk-000</data>
+  <data key="d1">organization</data>
+  <data key="d2">Pushed entire personal-coach repo to GitHub with all folders and data preserved. Flattened nested git repos, added gitignore for Excel temp files, committed 117 files.&lt;SEP&gt;github.com&lt;SEP&gt;Description: A web-based platform for version control and collaboration&lt;SEP&gt;Software repository&lt;SEP&gt;entity&lt;SEP&gt;Entity description: A web-based platform for version control, collaboration, and software hosting.</data>
+  <data key="d3">sessions::session-20260616-073942.md::8-chunk-000&lt;SEP&gt;sessions::session-20260616-095723.md::3-chunk-000&lt;SEP&gt;sessions::session-20260602-094327.md::55-chunk-000&lt;SEP&gt;sessions::session-20260530-071326.md::76-chunk-000&lt;SEP&gt;sessions::session-20260529-172614.md::79-chunk-000&lt;SEP&gt;sessions::session-20260529-171751.md::80-chunk-000&lt;SEP&gt;sessions::session-20260528-170636.md::81-chunk-000&lt;SEP&gt;sessions::session-20260527-173554.md::88-chunk-000&lt;SEP&gt;sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781692644</data>
+  <data key="d5">1783505395</data>
   <data key="d6"></data>
 </node>
 <node id="gitignore">
@@ -1500,11 +1500,11 @@
 </node>
 <node id="Windows">
   <data key="d0">Windows</data>
-  <data key="d1">operatingsystem</data>
-  <data key="d2">Fixed Windows encoding fix.</data>
-  <data key="d3">sessions::session-20260616-103344.md::2-chunk-000</data>
+  <data key="d1">organization</data>
+  <data key="d2">Fixed Windows encoding fix.&lt;SEP&gt;Windows is an operating system for computers.</data>
+  <data key="d3">sessions::session-20260616-103344.md::2-chunk-000&lt;SEP&gt;sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781679505</data>
+  <data key="d5">1783499934</data>
   <data key="d6"></data>
 </node>
 <node id="MindMap">
@@ -1626,11 +1626,11 @@
 </node>
 <node id="fix">
   <data key="d0">fix</data>
-  <data key="d3">sessions::session-20260616-103344.md::2-chunk-000</data>
-  <data key="d2">fixed</data>
-  <data key="d1">UNKNOWN</data>
+  <data key="d3">sessions::session-20260616-103344.md::2-chunk-000&lt;SEP&gt;sessions::b8a2e659-e39a-4b1e-80c6-4133679b9118::0-chunk-000</data>
+  <data key="d2">fixed&lt;SEP&gt;fix description: Fixing a problem or issue, often involving correcting errors or making improvements.</data>
+  <data key="d1">method</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781679505</data>
+  <data key="d5">1783498894</data>
   <data key="d6"></data>
 </node>
 <node id="system">
@@ -1839,11 +1839,11 @@ Qatar has been described as a country with a unique identity, where tradition an
 </node>
 <node id="Notes">
   <data key="d0">Notes</data>
-  <data key="d3">sessions::session-20260615-094813.md::28-chunk-000&lt;SEP&gt;daily::2026-06-03.md::121-chunk-000</data>
-  <data key="d2">&lt;formatter&gt;&lt;SEP&gt;&lt;sub&gt;Written content for note-taking.&lt;/sub&gt;</data>
-  <data key="d1">concept</data>
+  <data key="d3">sessions::session-20260615-094813.md::28-chunk-000&lt;SEP&gt;daily::2026-06-03.md::121-chunk-000&lt;SEP&gt;checkpoint::checkpoint.md::142-chunk-000</data>
+  <data key="d2">&lt;formatter&gt;&lt;SEP&gt;&lt;sub&gt;Written content for note-taking.&lt;/sub&gt;&lt;SEP&gt;Entity description: The notes attribute of the input text, which contains a brief summary of the task.</data>
+  <data key="d1">other</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781696867</data>
+  <data key="d5">1783497460</data>
   <data key="d6"></data>
 </node>
 <node id="minifier">
@@ -2334,11 +2334,11 @@ Qatar has been described as a country with a unique identity, where tradition an
 </node>
 <node id="Rating">
   <data key="d0">Rating</data>
-  <data key="d1">other</data>
-  <data key="d2">The rating is a critical factor in determining the quality of roofing materials.&lt;SEP&gt;A numerical value used to evaluate or grade something.</data>
-  <data key="d3">sessions::session-20260615-092836.md::38-chunk-000&lt;SEP&gt;sessions::session-20260521-062419.md::119-chunk-000&lt;SEP&gt;sessions::session-20260521-054016.md::120-chunk-000</data>
+  <data key="d1">number</data>
+  <data key="d2">The rating is a critical factor in determining the quality of roofing materials.&lt;SEP&gt;A numerical value used to evaluate or grade something.&lt;SEP&gt;Value indicating the quality or satisfaction of a session</data>
+  <data key="d3">sessions::session-20260615-092836.md::38-chunk-000&lt;SEP&gt;sessions::session-20260521-062419.md::119-chunk-000&lt;SEP&gt;sessions::session-20260521-054016.md::120-chunk-000&lt;SEP&gt;daily::2026-06-03.md::124-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781696710</data>
+  <data key="d5">1783496121</data>
   <data key="d6"></data>
 </node>
 <node id="/roofing-calculator">
@@ -2930,18 +2930,18 @@ Qatar has been described as a country with a unique identity, where tradition an
   <data key="d0">aslielectronics</data>
   <data key="d1">organization</data>
   <data key="d2">A company or project possibly owned by the entrepreneur or CEO.</data>
-  <data key="d3">sessions::session-20260609-133431.md::49-chunk-000</data>
+  <data key="d3">sessions::session-20260609-133431.md::49-chunk-000&lt;SEP&gt;profile::profile.md::32-chunk-000</data>
   <data key="d4">unknown_source</data>
   <data key="d5">1781684687</data>
   <data key="d6"></data>
 </node>
 <node id="Hugo site">
   <data key="d0">Hugo site</data>
-  <data key="d1">content</data>
-  <data key="d2">A website, likely personal or professional, belonging to the entrepreneur or CEO.</data>
-  <data key="d3">sessions::session-20260609-133431.md::49-chunk-000</data>
+  <data key="d1">contententity</data>
+  <data key="d2">A website, likely personal or professional, belonging to the entrepreneur or CEO.&lt;SEP&gt;Built with Hugo and deployed on GitHub Pages, not yet production-ready&lt;SEP&gt;Content management system used to build the website</data>
+  <data key="d3">sessions::session-20260609-133431.md::49-chunk-000&lt;SEP&gt;profile::profile.md::143-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781684687</data>
+  <data key="d5">1783500365</data>
   <data key="d6"></data>
 </node>
 <node id="directory idea">
@@ -3137,7 +3137,7 @@ Qatar has been described as a country with a unique identity, where tradition an
   <data key="d0">safehome</data>
   <data key="d1">location</data>
   <data key="d2">SafeHome</data>
-  <data key="d3">sessions::session-20260602-094327.md::55-chunk-000&lt;SEP&gt;sessions::session-20260601-133723.md::59-chunk-000</data>
+  <data key="d3">sessions::session-20260602-094327.md::55-chunk-000&lt;SEP&gt;sessions::session-20260601-133723.md::59-chunk-000&lt;SEP&gt;sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
   <data key="d4">unknown_source</data>
   <data key="d5">1781685292</data>
   <data key="d6"></data>
@@ -3360,11 +3360,11 @@ Qatar has been described as a country with a unique identity, where tradition an
 </node>
 <node id="Solar 4G Camera">
   <data key="d0">Solar 4G Camera</data>
-  <data key="d1">product</data>
-  <data key="d2">entity_description= Solar 4G Camera is a product, likely a phone or device, designed to use solar energy.</data>
-  <data key="d3">sessions::session-20260601-124355.md::61-chunk-000</data>
+  <data key="d1">artifact</data>
+  <data key="d2">entity_description= Solar 4G Camera is a product, likely a phone or device, designed to use solar energy.&lt;SEP&gt;Entity description: A physical or digital object created by humans, specifically a type of camera.</data>
+  <data key="d3">sessions::session-20260601-124355.md::61-chunk-000&lt;SEP&gt;checkpoint::checkpoint.md::142-chunk-000</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781688519</data>
+  <data key="d5">1783497460</data>
   <data key="d6"></data>
 </node>
 <node id="SecuView">
@@ -4350,11 +4350,11 @@ Qatar has been described as a country with a unique identity, where tradition an
 </node>
 <node id="hugo-product-page-enhance">
   <data key="d0">hugo-product-page-enhance</data>
-  <data key="d1">organization</data>
-  <data key="d2">Hugo Product Page Enhancement Tool</data>
-  <data key="d3">sessions::session-20260527-182934.md::87-chunk-000</data>
+  <data key="d1">strength</data>
+  <data key="d2">Hugo Product Page Enhancement Tool&lt;SEP&gt;A technique for enhancing the product page in Hugo, a content management system.</data>
+  <data key="d3">sessions::session-20260527-182934.md::87-chunk-000&lt;SEP&gt;insights::insights.md::144-chunk-001</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781692589</data>
+  <data key="d5">1783501244</data>
   <data key="d6"></data>
 </node>
 <node id="Description tab">
@@ -4746,11 +4746,11 @@ Qatar has been described as a country with a unique identity, where tradition an
 </node>
 <node id="content-writing">
   <data key="d0">content-writing</data>
-  <data key="d3">sessions::session-20260526-095002.md::95-chunk-000</data>
-  <data key="d2">Written to coach/work/smart-home-security-guide-qatar.md ready for publishing.&lt;SEP&gt;Written to coach/work</data>
-  <data key="d1">UNKNOWN</data>
+  <data key="d3">sessions::session-20260526-095002.md::95-chunk-000&lt;SEP&gt;insights::insights.md::144-chunk-000</data>
+  <data key="d2">Written to coach/work/smart-home-security-guide-qatar.md ready for publishing.&lt;SEP&gt;Written to coach/work&lt;SEP&gt;Skill that is practiced and mastered, with a suggested leverage of this strength.</data>
+  <data key="d1">other</data>
   <data key="d4">unknown_source</data>
-  <data key="d5">1781693220</data>
+  <data key="d5">1783501244</data>
   <data key="d6"></data>
 </node>
 <node id="schema">
@@ -4890,7 +4890,7 @@ Qatar has been described as a country with a unique identity, where tradition an
 </node>
 <node id="Entity">
   <data key="d0">Entity</data>
-  <data key="d3">sessions::session-20260525-141427.md::101-chunk-000&lt;SEP&gt;sessions::session-20260521-135009.md::115-chunk-000</data>
+  <data key="d3">sessions::session-20260525-141427.md::101-chunk-000&lt;SEP&gt;sessions::session-20260521-135009.md::115-chunk-000&lt;SEP&gt;sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0-chunk-000</data>
   <data key="d2">Content</data>
   <data key="d1">UNKNOWN</data>
   <data key="d4">unknown_source</data>
@@ -5680,6 +5680,1671 @@ Qatar has been described as a country with a unique identity, where tradition an
   <data key="d5">1781697326</data>
   <data key="d6"></data>
 </node>
+<node id="&lt;Daily Summary&gt;">
+  <data key="d0">&lt;Daily Summary&gt;</data>
+  <data key="d3">daily::2026-06-03.md::125-chunk-000</data>
+  <data key="d2">&lt;This statement describes a relationship between the Daily Summary entity and the System entity, indicating that the Daily Summary is generated by a daily review process. The source entity is the Daily Summary, and the target entity is the System.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496098</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Daily Review&gt;">
+  <data key="d0">&lt;Daily Review&gt;</data>
+  <data key="d3">daily::2026-06-03.md::125-chunk-000</data>
+  <data key="d2">&lt;This statement describes a relationship between the System entity and the Daily Review entity, indicating that the Daily Review is generated by the System. The source entity is the Daily Review, and the target entity is the System.&lt;SEP&gt;&lt;This statement describes a relationship between the System entity and the Daily Review entity, indicating that the System performs the daily review. The source entity is the System, and the target entity is the Daily Review.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496098</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Other&gt;">
+  <data key="d0">&lt;Other&gt;</data>
+  <data key="d3">daily::2026-06-03.md::125-chunk-000</data>
+  <data key="d2">&lt;This statement describes a relationship between the Daily Summary entity and the System entity, indicating that the Daily Summary is generated by a daily review process. The source entity is the Daily Summary, and the target entity is the System.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496098</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;System&gt;">
+  <data key="d0">&lt;System&gt;</data>
+  <data key="d3">daily::2026-06-03.md::125-chunk-000</data>
+  <data key="d2">&lt;This statement describes a relationship between the System entity and the Daily Review entity, indicating that the Daily Review is generated by the System. The source entity is the Daily Review, and the target entity is the System.&lt;SEP&gt;&lt;This statement describes a relationship between the System entity and the Daily Review entity, indicating that the System performs the daily review. The source entity is the System, and the target entity is the Daily Review.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496098</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Task">
+  <data key="d0">&lt;Task</data>
+  <data key="d3">daily::2026-06-03.md::125-chunk-000</data>
+  <data key="d2">&lt;This statement describes a relationship between the Daily Review entity and the Task entity, indicating that tasks are assigned to the Daily Review process. The source entity is the Daily Review, and the target entity is the Task.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496098</data>
+  <data key="d6"></data>
+</node>
+<node id="Session Log">
+  <data key="d0">Session Log</data>
+  <data key="d1">other</data>
+  <data key="d2">Summary of a computer-based interaction or discussion between humans and machines.</data>
+  <data key="d3">daily::2026-06-03.md::124-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496121</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;rating)&lt;[#|]&lt;Duration">
+  <data key="d0">&lt;rating)&lt;[#|]&lt;Duration</data>
+  <data key="d3">daily::2026-06-03.md::124-chunk-000</data>
+  <data key="d2">&lt;rating&gt;&lt;[#|]&gt;session_log&lt; [#|]&gt;&lt;Skill&lt; [#|]&lt;duration&gt;&lt;rating&gt;&lt;notes&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496121</data>
+  <data key="d6"></data>
+</node>
+<node id="more marketing for solar 4G camera campaign">
+  <data key="d0">more marketing for solar 4G camera campaign</data>
+  <data key="d1">organization</data>
+  <data key="d2">This organization is a company or institution that conducts more marketing activities for their product, specifically the "solar 4G camera".</data>
+  <data key="d3">daily::2026-06-03.md::122-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496430</data>
+  <data key="d6"></data>
+</node>
+<node id="Facebook shop">
+  <data key="d0">Facebook shop</data>
+  <data key="d1">organization</data>
+  <data key="d2">entity_description=The Facebook shop is an online store on the social media platform Facebook.</data>
+  <data key="d3">daily::2026-06-01.md::126-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496549</data>
+  <data key="d6"></data>
+</node>
+<node id="Facebook">
+  <data key="d0">Facebook</data>
+  <data key="d1">organization</data>
+  <data key="d2">entity_description=The Facebook platform is a social media service.</data>
+  <data key="d3">daily::2026-06-01.md::126-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496549</data>
+  <data key="d6"></data>
+</node>
+<node id="team">
+  <data key="d0">team</data>
+  <data key="d1">organization</data>
+  <data key="d2">entity_description=The team is a group of individuals working together.</data>
+  <data key="d3">daily::2026-06-01.md::126-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496549</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;entity_name=&quot;Facebook shop setup&quot;">
+  <data key="d0">&lt;entity_name="Facebook shop setup"</data>
+  <data key="d3">daily::2026-05-31.md::128-chunk-000</data>
+  <data key="d2">relationship_description:Verify and review the Facebook shop setup and analytics on secuview.com</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496577</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;entity_name=&quot;secuview.com analytics&quot;">
+  <data key="d0">&lt;entity_name="secuview.com analytics"</data>
+  <data key="d3">daily::2026-05-31.md::128-chunk-000</data>
+  <data key="d2">relationship_description:Verify and review the Facebook shop setup using secuview.com analytics</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496577</data>
+  <data key="d6"></data>
+</node>
+<node id="entity_name=&quot;secuview.com analytics&quot;">
+  <data key="d0">entity_name="secuview.com analytics"</data>
+  <data key="d3">daily::2026-05-31.md::128-chunk-000</data>
+  <data key="d2">relationship_description:Verify and review the Facebook shop setup and analytics on secuview.com</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496577</data>
+  <data key="d6"></data>
+</node>
+<node id="entity_name=&quot;Facebook shop setup&quot;">
+  <data key="d0">entity_name="Facebook shop setup"</data>
+  <data key="d3">daily::2026-05-31.md::128-chunk-000</data>
+  <data key="d2">relationship_description:Verify and review the Facebook shop setup using secuview.com analytics</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496577</data>
+  <data key="d6"></data>
+</node>
+<node id="entity_name=&quot;team&quot;">
+  <data key="d0">entity_name="team"</data>
+  <data key="d3">daily::2026-05-31.md::128-chunk-000</data>
+  <data key="d2">relationship_description:Inform and update the team about sending the product catalog</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496577</data>
+  <data key="d6"></data>
+</node>
+<node id="Tasks">
+  <data key="d0">Tasks</data>
+  <data key="d1">other</data>
+  <data key="d2">Tasks are assignments of work to be completed, which can have various attributes and activities</data>
+  <data key="d3">daily::2026-05-31.md::131-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496602</data>
+  <data key="d6"></data>
+</node>
+<node id="Tomorrow">
+  <data key="d0">Tomorrow</data>
+  <data key="d1">location</data>
+  <data key="d2">Tomorrow is the next day in a calendar-based system, representing the future in terms of time</data>
+  <data key="d3">daily::2026-05-31.md::131-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496602</data>
+  <data key="d6"></data>
+</node>
+<node id="Daily Review">
+  <data key="d0">Daily Review</data>
+  <data key="d1">other</data>
+  <data key="d2">A review or assessment of activities, typically performed on a regular basis</data>
+  <data key="d3">daily::2026-05-31.md::131-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496602</data>
+  <data key="d6"></data>
+</node>
+<node id="tasks">
+  <data key="d0">tasks</data>
+  <data key="d3">daily::2026-05-31.md::131-chunk-000</data>
+  <data key="d2">relationship_keywords:migration,movedrelationship_description:Tasks were moved or migrated from today to tomorrow</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496602</data>
+  <data key="d6"></data>
+</node>
+<node id="Coach/Assistant">
+  <data key="d0">Coach/Assistant</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity: An institution or group providing guidance and support.</data>
+  <data key="d3">conversations::conv-20260609-160350.md::132-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496764</data>
+  <data key="d6"></data>
+</node>
+<node id="DuckDuckGo">
+  <data key="d0">DuckDuckGo</data>
+  <data key="d1">location</data>
+  <data key="d2">Entity: A geographic place or website providing web search services.</data>
+  <data key="d3">conversations::conv-20260609-160350.md::132-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496764</data>
+  <data key="d6"></data>
+</node>
+<node id="LLM/">
+  <data key="d0">LLM/</data>
+  <data key="d3">conversations::conv-20260609-160350.md::132-chunk-000</data>
+  <data key="d2">Entity: An abstract idea or theory about language model synthesis.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496764</data>
+  <data key="d6"></data>
+</node>
+<node id="Raw Synthesis">
+  <data key="d0">Raw Synthesis</data>
+  <data key="d3">conversations::conv-20260609-160350.md::132-chunk-000</data>
+  <data key="d2">Entity: An abstract idea or theory about language model synthesis.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496764</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Company">
+  <data key="d0">&lt;Company</data>
+  <data key="d3">conversations::conv-20260605-221323.md::133-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;,the ability to list themselves and post ads with a company,</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496800</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;ListingWebsite">
+  <data key="d0">&lt;ListingWebsite</data>
+  <data key="d3">conversations::conv-20260605-221323.md::133-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;,the ability to list themselves and post ads with a company,</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496800</data>
+  <data key="d6"></data>
+</node>
+<node id="Website">
+  <data key="d0">Website</data>
+  <data key="d1">organization</data>
+  <data key="d2">entity_description= A digital platform that provides information and services to users.</data>
+  <data key="d3">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496867</data>
+  <data key="d6"></data>
+</node>
+<node id="Facebook Shop">
+  <data key="d0">Facebook Shop</data>
+  <data key="d1">organization</data>
+  <data key="d2">entity_description= An online store on the Facebook platform, allowing businesses to sell products directly to customers.</data>
+  <data key="d3">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496867</data>
+  <data key="d6"></data>
+</node>
+<node id="Facebook Shop Owner">
+  <data key="d0">Facebook Shop Owner</data>
+  <data key="d1">person</data>
+  <data key="d2">entity_description= The individual or entity responsible for managing a Facebook shop.</data>
+  <data key="d3">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496867</data>
+  <data key="d6"></data>
+</node>
+<node id="Potential Outcome">
+  <data key="d0">Potential Outcome</data>
+  <data key="d1">concept</data>
+  <data key="d2">entity_description= The possible result or consequence of choosing between website SEO and Facebook shop setup.</data>
+  <data key="d3">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496867</data>
+  <data key="d6"></data>
+</node>
+<node id="Gut Feeling">
+  <data key="d0">Gut Feeling</data>
+  <data key="d1">concept</data>
+  <data key="d2">entity_description= An intuitive sense or instinct about what to do in relation to website SEO and Facebook shop setup.</data>
+  <data key="d3">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496867</data>
+  <data key="d6"></data>
+</node>
+<node id="Questions Asked">
+  <data key="d0">Questions Asked</data>
+  <data key="d3">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d2">relationship_description= Assessing the pros and cons of each option, such as worst-case scenarios and potential outcomes.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496867</data>
+  <data key="d6"></data>
+</node>
+<node id="Key Points">
+  <data key="d0">Key Points</data>
+  <data key="d3">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d2">relationship_description= Determining which aspect to prioritize first, such as website SEO or Facebook shop setup.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496867</data>
+  <data key="d6"></data>
+</node>
+<node id="Prompt Engineer">
+  <data key="d0">Prompt Engineer</data>
+  <data key="d1">other</data>
+  <data key="d2">The person designing the input text to improve its effectiveness.</data>
+  <data key="d3">goals::goals.md::135-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496928</data>
+  <data key="d6"></data>
+</node>
+<node id="AI Engineer">
+  <data key="d0">AI Engineer</data>
+  <data key="d1">other</data>
+  <data key="d2">Become an AI Engineer</data>
+  <data key="d3">goals::goals.md::136-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496941</data>
+  <data key="d6"></data>
+</node>
+<node id="Product,">
+  <data key="d0">Product,</data>
+  <data key="d1">other</data>
+  <data key="d2">Build</data>
+  <data key="d3">goals::goals.md::136-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496941</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;source_entity&gt;Qatar&lt;/source_entity&gt;">
+  <data key="d0">&lt;source_entity&gt;Qatar&lt;/source_entity&gt;</data>
+  <data key="d3">goals::goals.md::137-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;Website&lt;/relationship_description&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496997</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;target_entity&gt;Business Directory&lt;/target_entity&gt;">
+  <data key="d0">&lt;target_entity&gt;Business Directory&lt;/target_entity&gt;</data>
+  <data key="d3">goals::goals.md::137-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;Website&lt;/relationship_description&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783496997</data>
+  <data key="d6"></data>
+</node>
+<node id="SEO">
+  <data key="d0">SEO</data>
+  <data key="d1">method</data>
+  <data key="d2">Content</data>
+  <data key="d3">goals::goals.md::138-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497069</data>
+  <data key="d6"></data>
+</node>
+<node id="vocab">
+  <data key="d0">vocab</data>
+  <data key="d1">concept</data>
+  <data key="d2">This collection of words forms part of the daily vocabulary.</data>
+  <data key="d3">habits::habits.md::139-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497090</data>
+  <data key="d6"></data>
+</node>
+<node id="Daily Arabic vocab">
+  <data key="d0">Daily Arabic vocab</data>
+  <data key="d1">content</data>
+  <data key="d2">This is a collection of words forming part of the daily vocabulary.</data>
+  <data key="d3">habits::habits.md::139-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497090</data>
+  <data key="d6"></data>
+</node>
+<node id="run">
+  <data key="d0">run</data>
+  <data key="d1">event</data>
+  <data key="d2">A physical or sports activity that involves a person's movement over a distance, typically for recreation, exercise, or competition.</data>
+  <data key="d3">habits::habits.md::140-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497115</data>
+  <data key="d6"></data>
+</node>
+<node id="evening">
+  <data key="d0">evening</data>
+  <data key="d1">time</data>
+  <data key="d2">A specific time of day, typically in the evening,</data>
+  <data key="d3">habits::habits.md::140-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497115</data>
+  <data key="d6"></data>
+</node>
+<node id="Reading">
+  <data key="d0">Reading</data>
+  <data key="d1">content</data>
+  <data key="d2">Content</data>
+  <data key="d3">habits::habits.md::141-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497426</data>
+  <data key="d6"></data>
+</node>
+<node id="Page">
+  <data key="d0">Page</data>
+  <data key="d1">content</data>
+  <data key="d2">Content</data>
+  <data key="d3">habits::habits.md::141-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497426</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Page">
+  <data key="d0">&lt;Page</data>
+  <data key="d3">habits::habits.md::141-chunk-000</data>
+  <data key="d2">quantity</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497426</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Number">
+  <data key="d0">&lt;Number</data>
+  <data key="d3">habits::habits.md::141-chunk-000</data>
+  <data key="d2">quantity</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497426</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Reading&gt;">
+  <data key="d0">&lt;Reading&gt;</data>
+  <data key="d3">habits::habits.md::141-chunk-000</data>
+  <data key="d2">quantity</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497426</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Page&gt;">
+  <data key="d0">&lt;Page&gt;</data>
+  <data key="d3">habits::habits.md::141-chunk-000</data>
+  <data key="d2">quantity</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497426</data>
+  <data key="d6"></data>
+</node>
+<node id="Next Task">
+  <data key="d0">Next Task</data>
+  <data key="d1">other</data>
+  <data key="d2">Entity description: The next task attribute of the input text, which is empty by default.</data>
+  <data key="d3">checkpoint::checkpoint.md::142-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497460</data>
+  <data key="d6"></data>
+</node>
+<node id="phase">
+  <data key="d0">phase</data>
+  <data key="d1">method</data>
+  <data key="d2">Entity description: A procedure or technique for achieving a goal.</data>
+  <data key="d3">checkpoint::checkpoint.md::142-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783497460</data>
+  <data key="d6"></data>
+</node>
+<node id="DS-9632NI-I8(STD)">
+  <data key="d0">DS-9632NI-I8(STD)</data>
+  <data key="d3">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d2">No description available</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498449</data>
+  <data key="d6"></data>
+</node>
+<node id="RFP">
+  <data key="d0">RFP</data>
+  <data key="d3">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d2">confirms DS-9632NI-I8(STD)</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498449</data>
+  <data key="d6"></data>
+</node>
+<node id="spec match,">
+  <data key="d0">spec match,</data>
+  <data key="d3">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d2">confirms DS-9632NI-I8(STD)</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498449</data>
+  <data key="d6"></data>
+</node>
+<node id="DS-9632NXI-I8/S">
+  <data key="d0">DS-9632NXI-I8/S</data>
+  <data key="d3">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d2">No description available</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498449</data>
+  <data key="d6"></data>
+</node>
+<node id="DST-7732NXI-K4/16P">
+  <data key="d0">DST-7732NXI-K4/16P</data>
+  <data key="d3">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d2">best selection</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498449</data>
+  <data key="d6"></data>
+</node>
+<node id="DST-8632NXI-I8/24P/S">
+  <data key="d0">DST-8632NXI-I8/24P/S</data>
+  <data key="d3">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d2">No description available</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498449</data>
+  <data key="d6"></data>
+</node>
+<node id="OpenVINO">
+  <data key="d0">OpenVINO</data>
+  <data key="d1">organization</data>
+  <data key="d2">OpenVINO is a software development kit (SDK) used for computer vision tasks.</data>
+  <data key="d3">sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498472</data>
+  <data key="d6"></data>
+</node>
+<node id="Qwen">
+  <data key="d0">Qwen</data>
+  <data key="d1">organization</data>
+  <data key="d2">Qwen is a software company.</data>
+  <data key="d3">sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498472</data>
+  <data key="d6"></data>
+</node>
+<node id="uses">
+  <data key="d0">uses</data>
+  <data key="d3">sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0-chunk-000</data>
+  <data key="d2">relates to the corrected relationship that OpenVINO SDK uses manual inference wrapper built on raw OpenVINO API.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498472</data>
+  <data key="d6"></data>
+</node>
+<node id="Hikvision">
+  <data key="d0">Hikvision</data>
+  <data key="d1">organization</data>
+  <data key="d2">Hikvision</data>
+  <data key="d3">sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498497</data>
+  <data key="d6"></data>
+</node>
+<node id="Kbps">
+  <data key="d0">Kbps</data>
+  <data key="d1">unit</data>
+  <data key="d2">Kilobits per second</data>
+  <data key="d3">sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498497</data>
+  <data key="d6"></data>
+</node>
+<node id="transient">
+  <data key="d0">transient</data>
+  <data key="d1">concept</data>
+  <data key="d2">transient description: A temporary or short-lived state or condition.</data>
+  <data key="d3">sessions::b8a2e659-e39a-4b1e-80c6-4133679b9118::0-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783498894</data>
+  <data key="d6"></data>
+</node>
+<node id="Python">
+  <data key="d0">Python</data>
+  <data key="d1">programminglanguageentity</data>
+  <data key="d2">The programming language Python was used.&lt;SEP&gt;Used for various applications, including automation and AI engineering</data>
+  <data key="d3">sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0-chunk-000&lt;SEP&gt;profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="agent">
+  <data key="d0">agent</data>
+  <data key="d3">sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0-chunk-000</data>
+  <data key="d2">The dispatcher-upgraded agent is a software component.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783499100</data>
+  <data key="d6"></data>
+</node>
+<node id="Stash">
+  <data key="d0">Stash</data>
+  <data key="d1">organization</data>
+  <data key="d2">Stash is an open-source version control system for software development.</data>
+  <data key="d3">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783499934</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;AashimKhn&gt;">
+  <data key="d0">&lt;AashimKhn&gt;</data>
+  <data key="d3">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d2">Authenticated as aashimkhn</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783499934</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Opencode Plugin&gt;">
+  <data key="d0">&lt;Opencode Plugin&gt;</data>
+  <data key="d3">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d2">Configured opencode plugin with Windows fix</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783499934</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Session Streaming">
+  <data key="d0">&lt;Session Streaming</data>
+  <data key="d3">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d2">Tested session streaming</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783499934</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;aashimkhn&gt;">
+  <data key="d0">&lt;aashimkhn&gt;</data>
+  <data key="d3">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d2">Authenticated as aashimkhn</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783499934</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Plugin">
+  <data key="d0">&lt;Plugin</data>
+  <data key="d3">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d2">Configured opencode plugin with Windows fix</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783499934</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;Streaming">
+  <data key="d0">&lt;Streaming</data>
+  <data key="d3">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d2">Tested session streaming</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783499934</data>
+  <data key="d6"></data>
+</node>
+<node id="Starfox Security System">
+  <data key="d0">Starfox Security System</data>
+  <data key="d1">organization</data>
+  <data key="d2">Security company operating in Qatar, est. 2005</data>
+  <data key="d3">profile::profile.md::143-chunk-000&lt;SEP&gt;profile::profile.md::32-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Aslielectronics">
+  <data key="d0">Aslielectronics</data>
+  <data key="d1">contententity</data>
+  <data key="d2">Personal website/project owned by the individual</data>
+  <data key="d3">profile::profile.md::143-chunk-000&lt;SEP&gt;profile::profile.md::32-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Business Directory idea">
+  <data key="d0">Business Directory idea</data>
+  <data key="d1">platformentity</data>
+  <data key="d2">Online platform for Qatari companies to list and generate leads</data>
+  <data key="d3">profile::profile.md::143-chunk-000&lt;SEP&gt;profile::profile.md::32-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Salwa Road">
+  <data key="d0">Salwa Road</data>
+  <data key="d1">location</data>
+  <data key="d2">Street address in Doha, Qatar</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="CCTV camera">
+  <data key="d0">CCTV camera</data>
+  <data key="d1">product</data>
+  <data key="d2">Security equipment used in CCTV installations</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="WordPress/WooCommerce">
+  <data key="d0">WordPress/WooCommerce</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">CMS and e-commerce platform used by Secuview website</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Java">
+  <data key="d0">Java</data>
+  <data key="d1">programminglanguageentity</data>
+  <data key="d2">Used for various applications, including security systems</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="React">
+  <data key="d0">React</data>
+  <data key="d1">programminglanguageentity</data>
+  <data key="d2">Frontend framework used in web development</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Node.js">
+  <data key="d0">Node.js</data>
+  <data key="d1">programminglanguageentity</data>
+  <data key="d2">Used for backend applications, including security systems and automation</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Next.js">
+  <data key="d0">Next.js</data>
+  <data key="d1">programminglanguageentity</data>
+  <data key="d2">Frontend framework used in web development</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Prompt foundations">
+  <data key="d0">Prompt foundations</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">Training tool for prompt engineering and AI-related topics</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="SEO content writing">
+  <data key="d0">SEO content writing</data>
+  <data key="d1">contentcategoryentity</data>
+  <data key="d2">Writing skills used in digital marketing</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Code generation">
+  <data key="d0">Code generation</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">Process for generating code automatically</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="AI Engineering">
+  <data key="d0">AI Engineering</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">Field of engineering related to artificial intelligence</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Automation/AI engineering">
+  <data key="d0">Automation/AI engineering</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">Area of expertise for automation and AI-related tasks</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Lead gen pipeline">
+  <data key="d0">Lead gen pipeline</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">System used to generate leads and automate marketing efforts</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Ship own product">
+  <data key="d0">Ship own product</data>
+  <data key="d1">goal</data>
+  <data key="d2">Long-term goal of building a self-funded business</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Better-paying job">
+  <data key="d0">Better-paying job</data>
+  <data key="d1">jobobjectiveentity</data>
+  <data key="d2">Desired employment position with higher salary</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Independent income">
+  <data key="d0">Independent income</data>
+  <data key="d1">goal</data>
+  <data key="d2">Long-term financial goal of earning a steady income without relying on others</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Recurring revenue">
+  <data key="d0">Recurring revenue</data>
+  <data key="d1">businessmodelentity</data>
+  <data key="d2">Source of income for SaaS products and services</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="SaaS product">
+  <data key="d0">SaaS product</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">Cloud-based software or service used to generate recurring revenue</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="AI automation/engineering as a service">
+  <data key="d0">AI automation/engineering as a service</data>
+  <data key="d1">serviceofferingentity</data>
+  <data key="d2">Freelance services offered by the individual</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Security business operations">
+  <data key="d0">Security business operations</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">System or processes used in security-related tasks</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Multiple income streams">
+  <data key="d0">Multiple income streams</data>
+  <data key="d1">goal</data>
+  <data key="d2">Long-term financial goal of having multiple sources of income</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="SaaS product for recurring revenue">
+  <data key="d0">SaaS product for recurring revenue</data>
+  <data key="d1">businessentity</data>
+  <data key="d2">Cloud-based software or service used to generate recurring revenue</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Secuview website">
+  <data key="d0">Secuview website</data>
+  <data key="d1">contententity</data>
+  <data key="d2">Website used by Starfox Security System for security services</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Aslielectronics website">
+  <data key="d0">Aslielectronics website</data>
+  <data key="d1">contententity</data>
+  <data key="d2">Website project owned by the individual</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Aslielectronics GitHub page">
+  <data key="d0">Aslielectronics GitHub page</data>
+  <data key="d1">softwareentity</data>
+  <data key="d2">GitHub repository used to host code and projects</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Starfox 8am–5pm">
+  <data key="d0">Starfox 8am–5pm</data>
+  <data key="d1">company</data>
+  <data key="d2">Security company operating in Qatar, est. 2005</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="AI Automation/engineering as a service">
+  <data key="d0">AI Automation/engineering as a service</data>
+  <data key="d1">serviceofferingentity</data>
+  <data key="d2">Freelance services offered by the individual</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Hugo website">
+  <data key="d0">Hugo website</data>
+  <data key="d3">profile::profile.md::143-chunk-000&lt;SEP&gt;profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;|COMPLETE|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="ship own product">
+  <data key="d0">ship own product</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d2">&lt;|COMPLETE|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="independent income">
+  <data key="d0">independent income</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d2">&lt;|COMPLETE|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="better-paying job">
+  <data key="d0">better-paying job</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d2">&lt;|COMPLETE|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="recurring revenue">
+  <data key="d0">recurring revenue</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d2">&lt;|COMPLETE|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="security business operations">
+  <data key="d0">security business operations</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d2">&lt;|COMPLETE|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="Quotations for Starfox Security System">
+  <data key="d0">Quotations for Starfox Security System</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d2">&lt;|COMPLETE|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="multiple income streams">
+  <data key="d0">multiple income streams</data>
+  <data key="d3">profile::profile.md::143-chunk-000</data>
+  <data key="d2">&lt;|COMPLETE|</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500365</data>
+  <data key="d6"></data>
+</node>
+<node id="coach">
+  <data key="d0">coach</data>
+  <data key="d1">organization</data>
+  <data key="d2">Expanded skills covering marketing, coding, design, research</data>
+  <data key="d3">decisions::decisions.md::145-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500628</data>
+  <data key="d6"></data>
+</node>
+<node id="Address">
+  <data key="d0">Address</data>
+  <data key="d1">location</data>
+  <data key="d2">Evaluated addyosmani/agent-skills repo (60k stars)</data>
+  <data key="d3">decisions::decisions.md::145-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500628</data>
+  <data key="d6"></data>
+</node>
+<node id="business">
+  <data key="d0">business</data>
+  <data key="d3">decisions::decisions.md::145-chunk-000</data>
+  <data key="d2">Find gaps in existing classified sites (mzadqatar, qatarliving, qatarclassifieds)</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500628</data>
+  <data key="d6"></data>
+</node>
+<node id="decision">
+  <data key="d0">decision</data>
+  <data key="d3">decisions::decisions.md::145-chunk-000</data>
+  <data key="d2">Find gaps in existing classified sites (mzadqatar, qatarliving, qatarclassifieds)</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500628</data>
+  <data key="d6"></data>
+</node>
+<node id="topic">
+  <data key="d0">topic</data>
+  <data key="d3">decisions::decisions.md::145-chunk-000</data>
+  <data key="d2">proactively prompt user for 15-min prompt engineering drills during lulls&lt;SEP&gt;daily auto-push to GitHub at 4:50 PM&lt;SEP&gt;all 4 schema types ready for upload</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500628</data>
+  <data key="d6"></data>
+</node>
+<node id="Installed Ponytail">
+  <data key="d0">Installed Ponytail</data>
+  <data key="d1">organization</data>
+  <data key="d2">The freetoolz organization is based in "safehome"</data>
+  <data key="d3">sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500849</data>
+  <data key="d6"></data>
+</node>
+<node id="freetoolz/portfolio">
+  <data key="d0">freetoolz/portfolio</data>
+  <data key="d3">sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
+  <data key="d2">45min</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500849</data>
+  <data key="d6"></data>
+</node>
+<node id="freetoolz/safehome">
+  <data key="d0">freetoolz/safehome</data>
+  <data key="d3">sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
+  <data key="d2">16/30</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500849</data>
+  <data key="d6"></data>
+</node>
+<node id="portfolio">
+  <data key="d0">portfolio</data>
+  <data key="d3">sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
+  <data key="d2">16/30</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783500849</data>
+  <data key="d6"></data>
+</node>
+<node id="deep-research-tool">
+  <data key="d0">deep-research-tool</data>
+  <data key="d1">other</data>
+  <data key="d2">Tool that is practiced but not mastered, with a suggested goal to set for mastery.</data>
+  <data key="d3">insights::insights.md::144-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="build">
+  <data key="d0">build</data>
+  <data key="d1">other</data>
+  <data key="d2">Tool that is practiced but not mastered, with a suggested goal to set for mastery.</data>
+  <data key="d3">insights::insights.md::144-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="web-development">
+  <data key="d0">web-development</data>
+  <data key="d1">other</data>
+  <data key="d2">Tool that is practiced but not mastered, with a suggested goal to set for mastery.</data>
+  <data key="d3">insights::insights.md::144-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="system-setup">
+  <data key="d0">system-setup</data>
+  <data key="d1">other</data>
+  <data key="d2">System setup struggles, with a suggestion to review fundamentals and practice simpler exercises.</data>
+  <data key="d3">insights::insights.md::144-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="dev-utils">
+  <data key="d0">dev-utils</data>
+  <data key="d1">other</data>
+  <data key="d2">Dev utilities struggles, with a suggestion to review fundamentals and practice simpler exercises.</data>
+  <data key="d3">insights::insights.md::144-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="research">
+  <data key="d0">research</data>
+  <data key="d1">other</data>
+  <data key="d2">Research struggles, with a suggestion to review fundamentals and practice simpler exercises.</data>
+  <data key="d3">insights::insights.md::144-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="deploy">
+  <data key="d0">deploy</data>
+  <data key="d1">other</data>
+  <data key="d2">The process of deploying an application or a system into production.&lt;SEP&gt;Deploy struggles, with a suggestion to review fundamentals and practice simpler exercises.</data>
+  <data key="d3">insights::insights.md::144-chunk-000&lt;SEP&gt;insights::insights.md::144-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="research-struggles">
+  <data key="d0">research-struggles</data>
+  <data key="d1">other</data>
+  <data key="d2">Skill that is practiced and mastered, with a suggested leverage of this strength.</data>
+  <data key="d3">insights::insights.md::144-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="blog-publishing-solar-4g">
+  <data key="d0">blog-publishing-solar-4g</data>
+  <data key="d1">strength</data>
+  <data key="d2">A strategy for publishing blog articles with solar-powered 4G connectivity.</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="content-seo-phase2">
+  <data key="d0">content-seo-phase2</data>
+  <data key="d1">strength</data>
+  <data key="d2">A phase of content optimization using SEO techniques in Content Phase 2.</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="seo-optimization">
+  <data key="d0">seo-optimization</data>
+  <data key="d1">strength</data>
+  <data key="d2">A strategy for optimizing search engine rankings through SEO practices.</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="source_entity:deploy">
+  <data key="d0">source_entity:deploy</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="target_entity:hugo-product-page-enhance">
+  <data key="d0">target_entity:hugo-product-page-enhance</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="source_entity:session">
+  <data key="d0">source_entity:session</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;the session's deploy action.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="target_entity:blog-publishing-solar-4g">
+  <data key="d0">target_entity:blog-publishing-solar-4g</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="target_entity:deploy">
+  <data key="d0">target_entity:deploy</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;the session's deploy action.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="source_entity:sessions">
+  <data key="d0">source_entity:sessions</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;a list of session IDs that were used for the analysis.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="target_entity:content-seo-phase2">
+  <data key="d0">target_entity:content-seo-phase2</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="target_entity:id">
+  <data key="d0">target_entity:id</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;a list of session IDs that were used for the analysis.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="target_entity:seo-optimization">
+  <data key="d0">target_entity:seo-optimization</data>
+  <data key="d3">insights::insights.md::144-chunk-001</data>
+  <data key="d2">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783501244</data>
+  <data key="d6"></data>
+</node>
+<node id="Portfolio">
+  <data key="d0">Portfolio</data>
+  <data key="d1">organization</data>
+  <data key="d2">Entity description: A digital collection of creative work presented by an individual or organization.</data>
+  <data key="d3">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505395</data>
+  <data key="d6"></data>
+</node>
+<node id="OpenGraph">
+  <data key="d0">OpenGraph</data>
+  <data key="d1">concept</data>
+  <data key="d2">Entity description: An open standard for metadata on social networks.</data>
+  <data key="d3">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505395</data>
+  <data key="d6"></data>
+</node>
+<node id="Added OG meta tags">
+  <data key="d0">Added OG meta tags</data>
+  <data key="d3">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;Adds Open Graph metadata to the portfolio.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505395</data>
+  <data key="d6"></data>
+</node>
+<node id="portfolio-og.png">
+  <data key="d0">portfolio-og.png</data>
+  <data key="d3">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;Embeds a portfolio image (portfolio-og.png) into the portfolio.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505395</data>
+  <data key="d6"></data>
+</node>
+<node id="pushed to GitHub Pages">
+  <data key="d0">pushed to GitHub Pages</data>
+  <data key="d3">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;Deploys the portfolio to a hosted platform (GitHub Pages).</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505395</data>
+  <data key="d6"></data>
+</node>
+<node id="SVG favicon with gradient lettermark">
+  <data key="d0">SVG favicon with gradient lettermark</data>
+  <data key="d3">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;Embeds an SVG favicon with a gradient lettermark into the portfolio.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505395</data>
+  <data key="d6"></data>
+</node>
+<node id="TELOS">
+  <data key="d0">TELOS</data>
+  <data key="d1">organization</data>
+  <data key="d2">TELOS is a software framework used for building multiple-phase algorithms.</data>
+  <data key="d3">sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505417</data>
+  <data key="d6"></data>
+</node>
+<node id="ISA">
+  <data key="d0">ISA</data>
+  <data key="d1">organization</data>
+  <data key="d2">ISA is a software framework.</data>
+  <data key="d3">sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505417</data>
+  <data key="d6"></data>
+</node>
+<node id="&lt;TELOS&gt;&lt;ISA&gt;">
+  <data key="d0">&lt;TELOS&gt;&lt;ISA&gt;</data>
+  <data key="d3">sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7-chunk-000</data>
+  <data key="d2">isa and TELOS are related concepts in the context of algorithm development.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505417</data>
+  <data key="d6"></data>
+</node>
+<node id="Domain Expert">
+  <data key="d0">Domain Expert</data>
+  <data key="d1">other</data>
+  <data key="d2">A domain expert would challenge the approach to ensure it is comprehensive and accurate, providing valuable insights into potential SEO issues that may have been overlooked.</data>
+  <data key="d3">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505981</data>
+  <data key="d6"></data>
+</node>
+<node id="Problem Statement">
+  <data key="d0">Problem Statement</data>
+  <data key="d1">other</data>
+  <data key="d2">A clear and concise statement of the SEO audit dashboard's purpose and goals.</data>
+  <data key="d3">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505981</data>
+  <data key="d6"></data>
+</node>
+<node id="Question 1">
+  <data key="d0">Question 1</data>
+  <data key="d1">other</data>
+  <data key="d2">A series of questions asked by the user to gather information and gain a deeper understanding of the SEO audit dashboard's purpose and goals.</data>
+  <data key="d3">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505981</data>
+  <data key="d6"></data>
+</node>
+<node id="User Feedback">
+  <data key="d0">User Feedback</data>
+  <data key="d1">other</data>
+  <data key="d2">Feedback from users regarding their expectations and concerns about the SEO audit dashboard.</data>
+  <data key="d3">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505981</data>
+  <data key="d6"></data>
+</node>
+<node id="Assumption">
+  <data key="d0">Assumption</data>
+  <data key="d3">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d2">The user is uncertain about a specific assumption made during the SEO audit process.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505981</data>
+  <data key="d6"></data>
+</node>
+<node id="What would make the user say 'that's not what I meant'">
+  <data key="d0">What would make the user say 'that's not what I meant'</data>
+  <data key="d3">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d2">What aspects of the SEO audit dashboard might lead to misunderstandings or misinterpretations among users?</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505981</data>
+  <data key="d6"></data>
+</node>
+<node id="What am I assuming that I haven't verified">
+  <data key="d0">What am I assuming that I haven't verified</data>
+  <data key="d3">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d2">The user is uncertain about a specific assumption made during the SEO audit process.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505981</data>
+  <data key="d6"></data>
+</node>
+<node id="Misinterpretation">
+  <data key="d0">Misinterpretation</data>
+  <data key="d3">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d2">The user may misinterpret certain aspects of the SEO audit dashboard, leading to confusion or disagreements.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783505981</data>
+  <data key="d6"></data>
+</node>
+<node id="Aspiration:&lt; Become an AI Engineer">
+  <data key="d0">Aspiration:&lt; Become an AI Engineer</data>
+  <data key="d1">concept</data>
+  <data key="d2">&lt;entity_description&gt;The subject's aspiration is to become an AI engineer.&lt;/entity&gt;</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="aslieelectronics">
+  <data key="d0">aslieelectronics</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea is a platform concept that generates leads for Qatari companies.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="business-directory-idea">
+  <data key="d0">business-directory-idea</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea is a platform concept that generates leads for Qatari companies.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="freetoolz/khaleej">
+  <data key="d0">freetoolz/khaleej</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The FreeToolz / Khaleej project is a tool platform and domain idea owned by the subject.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="github-pages">
+  <data key="d0">github-pages</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Hugo website uses GitHub Pages as its hosting service.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="domain-ideas">
+  <data key="d0">domain-ideas</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The FreeToolz / Khaleej project generates domain ideas.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="hugo-website">
+  <data key="d0">hugo-website</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Hugo website uses GitHub Pages as its hosting service.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="Freetoolz / Khaleej">
+  <data key="d0">Freetoolz / Khaleej</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;entity_description&gt;The FreeToolz / Khaleej project is a tool platform and domain idea owned by the subject.&lt;/entity&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="starfox-8am-5pm">
+  <data key="d0">starfox-8am-5pm</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The subject works from 8:30/9:00 AM to 5:00 PM at Starfox Security System.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="lead-gen-model">
+  <data key="d0">lead-gen-model</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea generates leads for Qatari companies.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="Qatar Directory">
+  <data key="d0">Qatar Directory</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea is a platform concept owned by the subject.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="saa-product-revenue">
+  <data key="d0">saa-product-revenue</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea generates revenue through a SaaS product.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="Entity: SaaS product for recurring revenue">
+  <data key="d0">Entity: SaaS product for recurring revenue</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;entity_description&gt;The Business Directory idea involves creating a SaaS product for recurring revenue.&lt;/entity&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="Entity: AI automation/engineering as a service (freelance)">
+  <data key="d0">Entity: AI automation/engineering as a service (freelance)</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;entity_description&gt;The Qatar Directory involves offering AI automation/engineering services on a freelance basis.&lt;/entity&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="ai-automation-service">
+  <data key="d0">ai-automation-service</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Qatar Directory involves offering AI automation engineering services on a freelance basis.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="recurring-revenue">
+  <data key="d0">recurring-revenue</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea generates recurring revenue.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="qatar-directory">
+  <data key="d0">qatar-directory</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Qatar Directory involves offering AI automation engineering services on a freelance basis.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="Entity: Use AI to scale the existing security business operations">
+  <data key="d0">Entity: Use AI to scale the existing security business operations</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;entity_description&gt;The Business Directory idea involves using AI to optimize the existing security business operations.&lt;/entity&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="ai-scaling-operations">
+  <data key="d0">ai-scaling-operations</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea involves using AI to scale the existing security business operations.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="freelance-work">
+  <data key="d0">freelance-work</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Qatar Directory involves freelance work.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="Entity: Multiple income streams from all of the above">
+  <data key="d0">Entity: Multiple income streams from all of the above</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;entity_description&gt;The Business Directory idea aims to generate multiple income streams through various initiatives.&lt;/entity&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="Entity: Lead gen pipeline">
+  <data key="d0">Entity: Lead gen pipeline</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;entity_description&gt;The Qatar Directory involves developing a lead generation pipeline.&lt;/entity&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="security-business-ops">
+  <data key="d0">security-business-ops</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea optimizes the existing security business operations.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="lead-gen-pipeline">
+  <data key="d0">lead-gen-pipeline</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Qatar Directory generates leads through a pipeline.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="starfox-security-system">
+  <data key="d0">starfox-security-system</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;entity_description&gt;Starfox Security System is a security company where the subject works as an engineer.&lt;/entity&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="Qatar Directory idea">
+  <data key="d0">Qatar Directory idea</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;entity_description&gt;The Qatar Directory involves offering AI automation/engineering services on a freelance basis.&lt;/entity&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="qatar-directory-idea">
+  <data key="d0">qatar-directory-idea</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea is a platform concept owned by the subject.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="aspiration:&lt; become an ai engineer">
+  <data key="d0">aspiration:&lt; become an ai engineer</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The subject's aspiration is to become an AI engineer.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
+<node id="business-directory-idea-projects">
+  <data key="d0">business-directory-idea-projects</data>
+  <data key="d3">profile::profile.md::32-chunk-000</data>
+  <data key="d2">&lt;relationship_description&gt;The Business Directory idea involves developing project ideas that generate income streams.&lt;/relation&gt;</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1783506394</data>
+  <data key="d6"></data>
+</node>
 <edge source="Ollama" target="Artifact">
   <data key="d7">1.0</data>
   <data key="d8">Ollama is an artificial intelligence language model.</data>
@@ -6004,6 +7669,42 @@ Qatar has been described as a country with a unique identity, where tradition an
   <data key="d12">1781692089</data>
   <data key="d13"></data>
 </edge>
+<edge source="Other" target="DS-9632NI-I8(STD)">
+  <data key="d7">1.0</data>
+  <data key="d8">No description available</data>
+  <data key="d9">Physical Object</data>
+  <data key="d10">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783498449</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Other" target="DS-9632NXI-I8/S">
+  <data key="d7">1.0</data>
+  <data key="d8">No description available</data>
+  <data key="d9">Physical Object</data>
+  <data key="d10">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783498449</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Other" target="DST-8632NXI-I8/24P/S">
+  <data key="d7">1.0</data>
+  <data key="d8">No description available</data>
+  <data key="d9">Physical Object</data>
+  <data key="d10">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783498449</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Other" target="RFP">
+  <data key="d7">1.0</data>
+  <data key="d8">No description available</data>
+  <data key="d9">Organization</data>
+  <data key="d10">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783498449</data>
+  <data key="d13"></data>
+</edge>
 <edge source="tool" target="calculator">
   <data key="d7">1.0</data>
   <data key="d8">Internal linking</data>
@@ -6049,6 +7750,15 @@ Qatar has been described as a country with a unique identity, where tradition an
   <data key="d12">1781674697</data>
   <data key="d13"></data>
 </edge>
+<edge source="&lt;Skill" target="&lt;rating)&lt;[#|]&lt;Duration">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;rating&gt;&lt;[#|]&gt;session_log&lt; [#|]&gt;&lt;Skill&lt; [#|]&lt;duration&gt;&lt;rating&gt;&lt;notes&gt;</data>
+  <data key="d9">&lt;Notes</data>
+  <data key="d10">daily::2026-06-03.md::124-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496121</data>
+  <data key="d13"></data>
+</edge>
 <edge source="rating" target="rating,">
   <data key="d7">1.0</data>
   <data key="d8">value,</data>
@@ -6056,6 +7766,15 @@ Qatar has been described as a country with a unique identity, where tradition an
   <data key="d10">sessions::session-20260521-062419.md::119-chunk-000</data>
   <data key="d11">unknown_source</data>
   <data key="d12">1781696710</data>
+  <data key="d13"></data>
+</edge>
+<edge source="session" target="topic">
+  <data key="d7">3.0</data>
+  <data key="d8">proactively prompt user for 15-min prompt engineering drills during lulls&lt;SEP&gt;daily auto-push to GitHub at 4:50 PM&lt;SEP&gt;all 4 schema types ready for upload</data>
+  <data key="d9">automation-setup,coach-improvement,secuview-schema-markup</data>
+  <data key="d10">decisions::decisions.md::145-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500628</data>
   <data key="d13"></data>
 </edge>
 <edge source="Person" target="addyosmani">
@@ -6155,6 +7874,69 @@ Qatar has been described as a country with a unique identity, where tradition an
   <data key="d10">sessions::session-20260528-142545.md::84-chunk-000</data>
   <data key="d11">unknown_source</data>
   <data key="d12">1781692453</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Organization" target="Aslielectronics">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;Aslielectronic is an independent website/project owned by the subject. It features various tools and domain ideas.&lt;/entity&gt;</data>
+  <data key="d9">Automation/AI engineering (building),Java,Next.js,Node.js,Python,React</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Organization" target="Hugo website">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Hugo website is built with React and deployed on GitHub Pages, but it's not yet production-ready.&lt;/entity&gt;</data>
+  <data key="d9">React</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Organization" target="Freetoolz / Khaleej">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The FreeToolz / Khaleej project is a tool platform and domain idea owned by the subject.&lt;/entity&gt;</data>
+  <data key="d9">Node.js</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Organization" target="Starfox Security System">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;Starfox Security System is a security company where the subject works as an engineer.&lt;/entity&gt;</data>
+  <data key="d9">Java,Next.js,Node.js,Python,React</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Organization" target="Business Directory idea">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Business Directory idea is a platform concept that generates leads for Qatari companies.&lt;/entity&gt;</data>
+  <data key="d9">Platform for Qatari companies to list; lead gen model</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Organization" target="Qatar Directory">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Qatar Directory is a platform concept that lists Qatari companies and generates leads.&lt;/entity&gt;</data>
+  <data key="d9">Platform for Qatari companies to list; lead gen model</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Organization" target="starfox-security-system">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;Starfox Security System is a security company where the subject works as an engineer.&lt;/entity&gt;</data>
+  <data key="d9">java,next.js,node.js,python,react</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
   <data key="d13"></data>
 </edge>
 <edge source="Concept" target="ddd">
@@ -6931,6 +8713,15 @@ Qatar has been described as a country with a unique identity, where tradition an
   <data key="d12">1781692644</data>
   <data key="d13"></data>
 </edge>
+<edge source="GitHub" target="pushed to GitHub Pages">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;Deploys the portfolio to a hosted platform (GitHub Pages).</data>
+  <data key="d9">&lt;relationship_keywords&gt;web hosting platform,GitHub</data>
+  <data key="d10">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505395</data>
+  <data key="d13"></data>
+</edge>
 <edge source="github" target="agtmd">
   <data key="d7">1.0</data>
   <data key="d8">all new commands updated in AGENTS.md</data>
@@ -7517,6 +9308,78 @@ Lastly, there was an event centered around bug fixing and resolution. This devel
   <data key="d12">1781696409</data>
   <data key="d13"></data>
 </edge>
+<edge source="aslielectronics" target="freetoolz/khaleej">
+  <data key="d7">2.0</data>
+  <data key="d8">&lt;relationship_description&gt;The FreeToolz / Khaleej project is a tool platform and domain idea owned by the subject.&lt;/relation&gt;</data>
+  <data key="d9">Tool platform and domain ideas</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="aslielectronics" target="starfox-8am-5pm">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The subject works from 8:30/9:00 AM to 5:00 PM at Starfox Security System.&lt;/relation&gt;</data>
+  <data key="d9">Work Schedule</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="aslielectronics" target="Qatar Directory">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea is a platform concept owned by the subject.&lt;/relation&gt;</data>
+  <data key="d9">Platform for Qatari companies to list; lead gen model</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="aslielectronics" target="Business Directory idea">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea is a platform concept owned by the subject.&lt;/relation&gt;</data>
+  <data key="d9">Platform for Qatari companies to list; lead gen model</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="aslielectronics" target="business-directory-idea">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea generates leads for Qatari companies.&lt;/relation&gt;</data>
+  <data key="d9">Platform for Qatari companies to list; lead gen model</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="aslielectronics" target="qatar-directory-idea">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea is a platform concept owned by the subject.&lt;/relation&gt;</data>
+  <data key="d9">Platform for Qatari companies to list; lead gen model</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="aslielectronics" target="business-directory-idea-projects">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea involves developing project ideas that generate income streams.&lt;/relation&gt;</data>
+  <data key="d9">Project Ideas for Generating Income Streams</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Hugo site" target="Hugo website">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">software_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
 <edge source="Secuview" target="product">
   <data key="d7">1.0</data>
   <data key="d8">Scrape|Secuview was scraped from secuview.com into FB Commerce Manager CSV.</data>
@@ -7731,6 +9594,15 @@ Lastly, there was an event centered around bug fixing and resolution. This devel
   <data key="d10">sessions::session-20260601-133723.md::59-chunk-000</data>
   <data key="d11">unknown_source</data>
   <data key="d12">1781688066</data>
+  <data key="d13"></data>
+</edge>
+<edge source="safehome" target="freetoolz/portfolio">
+  <data key="d7">1.0</data>
+  <data key="d8">45min</data>
+  <data key="d9">duration</data>
+  <data key="d10">sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500849</data>
   <data key="d13"></data>
 </edge>
 <edge source="AsliElectronics" target="blog">
@@ -8426,6 +10298,15 @@ Lastly, there was an event centered around bug fixing and resolution. This devel
   <data key="d12">1781696435</data>
   <data key="d13"></data>
 </edge>
+<edge source="Entity" target="agent">
+  <data key="d7">1.0</data>
+  <data key="d8">The dispatcher-upgraded agent is a software component.</data>
+  <data key="d9">Other</data>
+  <data key="d10">sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783499100</data>
+  <data key="d13"></data>
+</edge>
 <edge source="Platform" target="Reddit">
   <data key="d7">1.0</data>
   <data key="d8">SocialMedia</data>
@@ -8712,6 +10593,771 @@ Lastly, there was an event centered around bug fixing and resolution. This devel
   <data key="d10">daily::2026-06-03.md::121-chunk-000</data>
   <data key="d11">unknown_source</data>
   <data key="d12">1781696867</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;Daily Summary&gt;" target="&lt;Other&gt;">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;This statement describes a relationship between the Daily Summary entity and the System entity, indicating that the Daily Summary is generated by a daily review process. The source entity is the Daily Summary, and the target entity is the System.</data>
+  <data key="d9">Generated by daily review</data>
+  <data key="d10">daily::2026-06-03.md::125-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496098</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;Daily Review&gt;" target="&lt;System&gt;">
+  <data key="d7">2.0</data>
+  <data key="d8">&lt;This statement describes a relationship between the System entity and the Daily Review entity, indicating that the Daily Review is generated by the System. The source entity is the Daily Review, and the target entity is the System.&lt;SEP&gt;&lt;This statement describes a relationship between the System entity and the Daily Review entity, indicating that the System performs the daily review. The source entity is the System, and the target entity is the Daily Review.</data>
+  <data key="d9">Generated by,Performs</data>
+  <data key="d10">daily::2026-06-03.md::125-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496098</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;Daily Review&gt;" target="&lt;Task">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;This statement describes a relationship between the Daily Review entity and the Task entity, indicating that tasks are assigned to the Daily Review process. The source entity is the Daily Review, and the target entity is the Task.</data>
+  <data key="d9">Assigned to</data>
+  <data key="d10">daily::2026-06-03.md::125-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496098</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;entity_name=&quot;Facebook shop setup&quot;" target="entity_name=&quot;secuview.com analytics&quot;">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:Verify and review the Facebook shop setup and analytics on secuview.com</data>
+  <data key="d9">relationship_keywords:Check,setup,view</data>
+  <data key="d10">daily::2026-05-31.md::128-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496577</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;entity_name=&quot;Facebook shop setup&quot;" target="entity_name=&quot;team&quot;">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:Inform and update the team about sending the product catalog</data>
+  <data key="d9">Send product catalog to team,relationship_keywords:Notify</data>
+  <data key="d10">daily::2026-05-31.md::128-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496577</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;entity_name=&quot;secuview.com analytics&quot;" target="entity_name=&quot;Facebook shop setup&quot;">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:Verify and review the Facebook shop setup using secuview.com analytics</data>
+  <data key="d9">&lt;|$&gt;setup,relationship_keywords:Check,view</data>
+  <data key="d10">daily::2026-05-31.md::128-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496577</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Tasks" target="tasks">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_keywords:migration,movedrelationship_description:Tasks were moved or migrated from today to tomorrow</data>
+  <data key="d9">migration</data>
+  <data key="d10">daily::2026-05-31.md::131-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496602</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Tomorrow" target="tasks">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_keywords:migration,movedrelationship_description:Tasks were moved or migrated from today to tomorrow</data>
+  <data key="d9">migration</data>
+  <data key="d10">daily::2026-05-31.md::131-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496602</data>
+  <data key="d13"></data>
+</edge>
+<edge source="LLM/" target="Raw Synthesis">
+  <data key="d7">1.0</data>
+  <data key="d8">Entity: An abstract idea or theory about language model synthesis.</data>
+  <data key="d9">Concept</data>
+  <data key="d10">conversations::conv-20260609-160350.md::132-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496764</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;Company" target="&lt;ListingWebsite">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;,the ability to list themselves and post ads with a company,</data>
+  <data key="d9">&lt;relationship_keywords&gt;,listing,marketing</data>
+  <data key="d10">conversations::conv-20260605-221323.md::133-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496800</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Website" target="Facebook Shop">
+  <data key="d7">3.0</data>
+  <data key="d8">relationship_description= Choosing between optimizing a website for SEO and setting up a Facebook shop.&lt;SEP&gt;relationship_description= Deciding to prioritize website SEO or Facebook shop setup initially.&lt;SEP&gt;relationship_description= Selecting a primary focus between the Facebook shop and website SEO.</data>
+  <data key="d9">relationship_keywords=focusing,relationship_keywords=picking,relationship_keywords=prioritizing</data>
+  <data key="d10">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496867</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Website" target="Questions Asked">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description= Assessing the pros and cons of each option, such as worst-case scenarios and potential outcomes.</data>
+  <data key="d9">relationship_keywords=evaluation</data>
+  <data key="d10">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496867</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Website" target="Key Points">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description= Determining which aspect to prioritize first, such as website SEO or Facebook shop setup.</data>
+  <data key="d9">relationship_keywords=prioritization</data>
+  <data key="d10">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496867</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Facebook Shop" target="Questions Asked">
+  <data key="d7">2.0</data>
+  <data key="d8">relationship_description= Considering the potential outcomes if a choice is made, such as excitement or disappointment.&lt;SEP&gt;relationship_description= Evaluating the benefits and drawbacks of focusing on Facebook shop instead.</data>
+  <data key="d9">relationship_keywords=evaluation,relationship_keywords=potential</data>
+  <data key="d10">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496867</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Facebook Shop" target="Key Points">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description= Exploring the potential benefits of focusing on Facebook shop, such as increased sales or brand awareness.</data>
+  <data key="d9">relationship_keywords=potential</data>
+  <data key="d10">conversations::conv-20260531-114202.md::134-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496867</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;source_entity&gt;Qatar&lt;/source_entity&gt;" target="&lt;target_entity&gt;Business Directory&lt;/target_entity&gt;">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;Website&lt;/relationship_description&gt;</data>
+  <data key="d9">&lt;relationship_keywords&gt;Launch&lt;/relationship_keywords&gt;</data>
+  <data key="d10">goals::goals.md::137-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783496997</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;Page" target="&lt;Reading&gt;">
+  <data key="d7">1.0</data>
+  <data key="d8">quantity</data>
+  <data key="d9"></data>
+  <data key="d10">habits::habits.md::141-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783497426</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;Number" target="&lt;Page&gt;">
+  <data key="d7">1.0</data>
+  <data key="d8">quantity</data>
+  <data key="d9"></data>
+  <data key="d10">habits::habits.md::141-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783497426</data>
+  <data key="d13"></data>
+</edge>
+<edge source="RFP" target="spec match,">
+  <data key="d7">1.0</data>
+  <data key="d8">confirms DS-9632NI-I8(STD)</data>
+  <data key="d9">best selection</data>
+  <data key="d10">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783498449</data>
+  <data key="d13"></data>
+</edge>
+<edge source="RFP" target="DST-7732NXI-K4/16P">
+  <data key="d7">1.0</data>
+  <data key="d8">best selection</data>
+  <data key="d9">spec match</data>
+  <data key="d10">sessions::session-20260624-105632.md::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783498449</data>
+  <data key="d13"></data>
+</edge>
+<edge source="OpenVINO" target="uses">
+  <data key="d7">1.0</data>
+  <data key="d8">relates to the corrected relationship that OpenVINO SDK uses manual inference wrapper built on raw OpenVINO API.</data>
+  <data key="d9">raw OpenVINO API</data>
+  <data key="d10">sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783498472</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Python" target="Aslielectronics">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">programming_language</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;AashimKhn&gt;" target="&lt;aashimkhn&gt;">
+  <data key="d7">1.0</data>
+  <data key="d8">Authenticated as aashimkhn</data>
+  <data key="d9">Person</data>
+  <data key="d10">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783499934</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;Opencode Plugin&gt;" target="&lt;Plugin">
+  <data key="d7">1.0</data>
+  <data key="d8">Configured opencode plugin with Windows fix</data>
+  <data key="d9">Content</data>
+  <data key="d10">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783499934</data>
+  <data key="d13"></data>
+</edge>
+<edge source="&lt;Session Streaming" target="&lt;Streaming">
+  <data key="d7">1.0</data>
+  <data key="d8">Tested session streaming</data>
+  <data key="d9">Concept</data>
+  <data key="d10">sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783499934</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Starfox Security System" target="Java">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">programming_language</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Starfox Security System" target="security business operations">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">software_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Starfox Security System" target="Security business operations">
+  <data key="d7">2.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">security_business_operations,software_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Starfox Security System" target="Quotations for Starfox Security System">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">quotation_provider</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="Java">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">programming_language</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="Node.js">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">programming_language</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="Prompt foundations">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">software_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="Code generation">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">software_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="AI Engineering">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">field_of_study</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="Automation/AI engineering">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">area_of_expertise</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="Lead gen pipeline">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">software_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="better-paying job">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">job_objective</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="recurring revenue">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">business_model</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="SaaS product">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">software_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="AI automation/engineering as a service">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">service_offering</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="multiple income streams">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">goal</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="SaaS product for recurring revenue">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">business_entity</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aslielectronics" target="Multiple income streams">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">goal</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Directory idea" target="Entity: SaaS product for recurring revenue">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Business Directory idea involves creating a SaaS product for recurring revenue.&lt;/entity&gt;</data>
+  <data key="d9">Concept</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Directory idea" target="Entity: Use AI to scale the existing security business operations">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Business Directory idea involves using AI to optimize the existing security business operations.&lt;/entity&gt;</data>
+  <data key="d9">Concept</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Directory idea" target="Entity: Multiple income streams from all of the above">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Business Directory idea aims to generate multiple income streams through various initiatives.&lt;/entity&gt;</data>
+  <data key="d9">Concept</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Directory idea" target="aspiration:&lt; become an ai engineer">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The subject's aspiration is to use AI to scale the existing security business operations.&lt;/relation&gt;</data>
+  <data key="d9">AI Scaling Operations</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="WordPress/WooCommerce" target="Secuview website">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">software_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="React" target="Hugo website">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">framework_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Next.js" target="Hugo website">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">framework_used</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SEO content writing" target="Secuview website">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">content_category</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Starfox 8am–5pm" target="ship own product">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">goal</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Starfox 8am–5pm" target="independent income">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;|COMPLETE|</data>
+  <data key="d9">goal</data>
+  <data key="d10">profile::profile.md::143-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500365</data>
+  <data key="d13"></data>
+</edge>
+<edge source="business" target="decision">
+  <data key="d7">1.0</data>
+  <data key="d8">Find gaps in existing classified sites (mzadqatar, qatarliving, qatarclassifieds)</data>
+  <data key="d9">Start building a business/classified listing website for Qatar</data>
+  <data key="d10">decisions::decisions.md::145-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500628</data>
+  <data key="d13"></data>
+</edge>
+<edge source="freetoolz/portfolio" target="freetoolz/safehome">
+  <data key="d7">1.0</data>
+  <data key="d8">45min</data>
+  <data key="d9">Duration</data>
+  <data key="d10">sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500849</data>
+  <data key="d13"></data>
+</edge>
+<edge source="freetoolz/safehome" target="portfolio">
+  <data key="d7">1.0</data>
+  <data key="d8">16/30</data>
+  <data key="d9">duration</data>
+  <data key="d10">sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783500849</data>
+  <data key="d13"></data>
+</edge>
+<edge source="source_entity:deploy" target="target_entity:hugo-product-page-enhance">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d9">relationship_keywords:leverage</data>
+  <data key="d10">insights::insights.md::144-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783501244</data>
+  <data key="d13"></data>
+</edge>
+<edge source="source_entity:deploy" target="target_entity:blog-publishing-solar-4g">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d9">relationship_keywords:leverage</data>
+  <data key="d10">insights::insights.md::144-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783501244</data>
+  <data key="d13"></data>
+</edge>
+<edge source="source_entity:deploy" target="target_entity:content-seo-phase2">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d9">relationship_keywords:leverage</data>
+  <data key="d10">insights::insights.md::144-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783501244</data>
+  <data key="d13"></data>
+</edge>
+<edge source="source_entity:deploy" target="target_entity:seo-optimization">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:&gt;consider mentoring or deeper exploration</data>
+  <data key="d9">relationship_keywords:leverage</data>
+  <data key="d10">insights::insights.md::144-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783501244</data>
+  <data key="d13"></data>
+</edge>
+<edge source="source_entity:session" target="target_entity:deploy">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:&gt;the session's deploy action.</data>
+  <data key="d9">relationship_keywords:corresponds to</data>
+  <data key="d10">insights::insights.md::144-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783501244</data>
+  <data key="d13"></data>
+</edge>
+<edge source="source_entity:sessions" target="target_entity:id">
+  <data key="d7">1.0</data>
+  <data key="d8">relationship_description:&gt;a list of session IDs that were used for the analysis.</data>
+  <data key="d9">relationship_keywords:contains</data>
+  <data key="d10">insights::insights.md::144-chunk-001</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783501244</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Portfolio" target="Added OG meta tags">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;Adds Open Graph metadata to the portfolio.</data>
+  <data key="d9">&lt;relationship_keywords&gt;meta tags,open graph</data>
+  <data key="d10">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505395</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Portfolio" target="portfolio-og.png">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;Embeds a portfolio image (portfolio-og.png) into the portfolio.</data>
+  <data key="d9">&lt;relationship_keywords&gt;image,image file</data>
+  <data key="d10">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505395</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Portfolio" target="SVG favicon with gradient lettermark">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;Embeds an SVG favicon with a gradient lettermark into the portfolio.</data>
+  <data key="d9">&lt;relationship_keywords&gt;favicon,SVG icon</data>
+  <data key="d10">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505395</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Portfolio" target="pushed to GitHub Pages">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;Deploys the portfolio to a hosted platform (GitHub Pages).</data>
+  <data key="d9">&lt;relationship_keywords&gt;GitHub,web hosting platform</data>
+  <data key="d10">sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505395</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ISA" target="&lt;TELOS&gt;&lt;ISA&gt;">
+  <data key="d7">1.0</data>
+  <data key="d8">isa and TELOS are related concepts in the context of algorithm development.</data>
+  <data key="d9">Algorithm</data>
+  <data key="d10">sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505417</data>
+  <data key="d13"></data>
+</edge>
+<edge source="User Feedback" target="What would make the user say 'that's not what I meant'">
+  <data key="d7">1.0</data>
+  <data key="d8">What aspects of the SEO audit dashboard might lead to misunderstandings or misinterpretations among users?</data>
+  <data key="d9">Misinterpretation</data>
+  <data key="d10">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505981</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Assumption" target="What am I assuming that I haven't verified">
+  <data key="d7">1.0</data>
+  <data key="d8">The user is uncertain about a specific assumption made during the SEO audit process.</data>
+  <data key="d9">Unverifiable Assumption</data>
+  <data key="d10">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505981</data>
+  <data key="d13"></data>
+</edge>
+<edge source="What would make the user say 'that's not what I meant'" target="Misinterpretation">
+  <data key="d7">1.0</data>
+  <data key="d8">The user may misinterpret certain aspects of the SEO audit dashboard, leading to confusion or disagreements.</data>
+  <data key="d9">Communication Breakdown</data>
+  <data key="d10">conversations::conv-20260629-110812.md::20-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783505981</data>
+  <data key="d13"></data>
+</edge>
+<edge source="aslieelectronics" target="business-directory-idea">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea is a platform concept that generates leads for Qatari companies.&lt;/relation&gt;</data>
+  <data key="d9">Platform for Qatari companies to list; lead gen model</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="business-directory-idea" target="lead-gen-model">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea generates leads for Qatari companies.&lt;/relation&gt;</data>
+  <data key="d9">Lead Generation</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="business-directory-idea" target="saa-product-revenue">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea generates revenue through a SaaS product.&lt;/relation&gt;</data>
+  <data key="d9">SaaS Product</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="business-directory-idea" target="recurring-revenue">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea generates recurring revenue.&lt;/relation&gt;</data>
+  <data key="d9">Recurring Revenue</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="business-directory-idea" target="ai-scaling-operations">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea involves using AI to scale the existing security business operations.&lt;/relation&gt;</data>
+  <data key="d9">AI Scaling Operations</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="business-directory-idea" target="security-business-ops">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Business Directory idea optimizes the existing security business operations.&lt;/relation&gt;</data>
+  <data key="d9">Security Business Operations</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="freetoolz/khaleej" target="domain-ideas">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The FreeToolz / Khaleej project generates domain ideas.&lt;/relation&gt;</data>
+  <data key="d9">Idea Generation</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="github-pages" target="hugo-website">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Hugo website uses GitHub Pages as its hosting service.&lt;/relation&gt;</data>
+  <data key="d9">Hosting Service</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Qatar Directory" target="Entity: AI automation/engineering as a service (freelance)">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Qatar Directory involves offering AI automation/engineering services on a freelance basis.&lt;/entity&gt;</data>
+  <data key="d9">Concept</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Qatar Directory" target="Entity: Lead gen pipeline">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Qatar Directory involves developing a lead generation pipeline.&lt;/entity&gt;</data>
+  <data key="d9">Concept</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Qatar Directory" target="aspiration:&lt; become an ai engineer">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The subject's aspiration is to become an AI engineer.&lt;/relation&gt;</data>
+  <data key="d9">AI Automation Engineering</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Entity: AI automation/engineering as a service (freelance)" target="Qatar Directory idea">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;entity_description&gt;The Qatar Directory involves offering AI automation/engineering services on a freelance basis.&lt;/entity&gt;</data>
+  <data key="d9">Concept</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ai-automation-service" target="qatar-directory">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Qatar Directory involves offering AI automation engineering services on a freelance basis.&lt;/relation&gt;</data>
+  <data key="d9">Freelance Work</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="qatar-directory" target="freelance-work">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Qatar Directory involves freelance work.&lt;/relation&gt;</data>
+  <data key="d9">Freelance Work</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
+  <data key="d13"></data>
+</edge>
+<edge source="qatar-directory" target="lead-gen-pipeline">
+  <data key="d7">1.0</data>
+  <data key="d8">&lt;relationship_description&gt;The Qatar Directory generates leads through a pipeline.&lt;/relation&gt;</data>
+  <data key="d9">Lead Generation Pipeline</data>
+  <data key="d10">profile::profile.md::32-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1783506394</data>
   <data key="d13"></data>
 </edge>
 </graph></graphml>

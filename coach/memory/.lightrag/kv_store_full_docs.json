@@ -2429,5 +2429,243 @@
     "create_time": 1782299128,
     "update_time": 1782299128,
     "_id": "sessions::session-20260624-105632.md::0"
+  },
+  "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0": {
+    "content": "Skill: OpenVINO + Qwen setup\nDuration: 25min\nRating: 5/10\nFixed openvino-genai hang (C++ bug in LLMPipeline), built manual inference wrapper using raw OpenVINO API, confirmed Qwen works at 21ms/tok on CPU, GPU slower for this model",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "e60f51979a4f6902bc7ea7b96d151941",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1782976158,
+    "update_time": 1782976158,
+    "_id": "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0"
+  },
+  "sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0": {
+    "content": "Skill: CCTV calculator update\nDuration: 20min\nRating: 5/10\nUpdated CCTV storage calculator with Hikvision official H.264 bitrates in kbps, pushed to freetoolz",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "7b8b5421ca5aeb224b132b23ea76690d",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783167685,
+    "update_time": 1783167685,
+    "_id": "sessions::c414efac-ec90-4a07-97b1-817f60f40f9b::0"
+  },
+  "sessions::b8a2e659-e39a-4b1e-80c6-4133679b9118::0": {
+    "content": "Skill: fix\nDuration: 30min\nRating: 3/10\nSwitched CCTV calc back to Mbps with Hikvision values; fixed formula; deploy failed on transient GH Pages error — needs rerun verification",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "4576dae38baa9f433052c62a010d63c6",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783174562,
+    "update_time": 1783174562,
+    "_id": "sessions::b8a2e659-e39a-4b1e-80c6-4133679b9118::0"
+  },
+  "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0": {
+    "content": "Skill: code\nDuration: 45min\nRating: 5/10\nInstalled Ponytail for freetoolz/portfolio/safehome; wrote 4 SEO blogs (Kitchen Conversions, Robots.txt, Keyword Density, XML Sitemap, Heading Structure, Timezone Converter); updated AGENTS.md with codebase-memory-first rule; blog plan at 16/30",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "32015bd17358c9673438fee7a4158e30",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783316562,
+    "update_time": 1783316562,
+    "_id": "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0"
+  },
+  "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0": {
+    "content": "Skill: stash-integration\nDuration: 30min\nRating: 4/10\nInstalled stash CLI, authenticated as aashimkhn, configured opencode plugin with Windows fix, tested session streaming",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "239aa3a02568dd0261cf713b57880aa4",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783403349,
+    "update_time": 1783403349,
+    "_id": "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0"
+  },
+  "sessions::ec2822d8-e114-4eca-bcb8-2bfdc99c8096::0": {
+    "content": "Skill: fix-chatbot-arabic\nDuration: 90min\nRating: 3/10\nFixed Arabic chatbot category matching, WhatsApp handler, lead form regex, bot name, input placeholder. Ad-blocker (ERR_BLOCKED_BY_CLIENT) blocks /js/asli-chatbot-widget.js — needs rename to asli-assistant.js",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "e5a5c453f2f5cb07c811c2e3bc093a44",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783427981,
+    "update_time": 1783427981,
+    "_id": "sessions::ec2822d8-e114-4eca-bcb8-2bfdc99c8096::0"
+  },
+  "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0": {
+    "content": "Skill: dispatcher-upgrade\nDuration: 30min\nRating: 5/10\nRefactored agent.py to Level 4 LLM-based dispatcher, removed regex command patterns and keyword fallback, added unit tests.",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "6db58082a91a17ca533ec80ded8785e6",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783495867,
+    "update_time": 1783495867,
+    "_id": "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0"
+  },
+  "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7": {
+    "content": "Skill: TELOS + ISA + Algorithm\nDuration: 45min\nRating: 5/10\nBuilt ISA system, 7-phase algorithm, TELOS identity with auto-loading, fixed Unicode in user files",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "8ce1bcfc545e6478264dde0da8a73d37",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783501255,
+    "update_time": 1783501255,
+    "_id": "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7"
+  },
+  "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8": {
+    "content": "Skill: Portfolio OG + favicon setup\nDuration: 10min\nRating: 5/10\nAdded OG meta tags, portfolio-og.png image, SVG favicon with gradient lettermark, and pushed to GitHub Pages",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "0be18ba61dc0ede568596715ded07ee6",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783505321,
+    "update_time": 1783505321,
+    "_id": "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8"
+  },
+  "conversations::conv-20260629-110812.md::20": {
+    "content": "# Self-Interrogation: Building a new SEO audit dashboard\n\n## Problem\nBuilding a new SEO audit dashboard\n\n## Questions Asked\n1. What am I assuming that I haven't verified?\n2. What would a domain expert challenge about my approach?\n3. What failure mode am I not testing for?\n4. What constraint might I be violating without realizing it?\n5. What would make the user say 'that's not what I meant'?\n\n## Key Points\n- (to be filled after discussion)\n\n## Decision\n- (to be filled when decided)\n\n## Outcome\n- (to be filled after implementation)",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "33abe4dfc044816aaaacc1c67653d561",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783505418,
+    "update_time": 1783505418,
+    "_id": "conversations::conv-20260629-110812.md::20"
+  },
+  "profile::profile.md::32": {
+    "content": "# Profile\n\n**Role:** Engineer @ Starfox Security System (strafoxsecu.com, est. 2005)\n**Physical Store:** Salwa Road, Doha, Qatar\n**Supply Chain:** Manufacture in China → Ship to Qatar → Sell locally + install\n**Services:** Product sales + installation + projects (Starfox brand)\n\n**Current focus:**\n- Independent AI Engineering & Side Projects\n- AutoCAD drawings & Starfox Security projects (work hours)\n- Own websites: aslielectronics, Hugo site, Freetoolz, Qatar Directory idea\n\n**Past work (Archived):**\n- Secuview website (All work stopped as of June 2026)\n\n**Known languages:** Java, Python, React, Node.js, Next.js\n**Automation:** Beginner — building capability with personal coach\n**Work hours:** 8:30/9:00 AM — 5:00 PM\n\n**Own Projects:**\n- **Aslielectronics** — own website/project\n- **Hugo website** — built with Hugo, deployed on GitHub Pages, not yet production-ready\n- **FreeToolz / Khaleej** — Tool platform and domain ideas\n- **Business Directory idea** — platform for Qatari companies to list; lead gen model\n\n**Aspiration:**\n- Become an AI Engineer\n- Build something of my own to earn independent income\n- Use prompt engineering + AI to build and ship products faster\n\n**Learning style:** Build-first. Prefers a quick overview from reading, then jumps into building and exploring.\n\n**Availability:** Starfox 8am–5pm. Free after 5pm. Sometimes works on side projects during downtime at work. Weekends are the main block.\n\n**Income situation (June 2026):**\n- **Only source:** Starfox salary (not enough)\n- **Aslielectronics:** Site published, but not visible — no organic traffic, no customers buying\n- **Khaleej / Freetoolz:** Domains not purchased yet\n- **Looking for:** A better-paying job matching his tech skills\n\n**Long-term vision (independent income):**\n- Build a SaaS product for recurring revenue\n- Offer AI automation/engineering as a service (freelance)\n- Use AI to scale the existing security business operations\n- Multiple income streams from all of the above\n\n**Skillset for job search:** Java, Python, React, Node.js, Next.js, Automation/AI engineering (building)\n\n**Training Roadmap:**\n1. Phase 1: Prompt foundations + SEO content writing (mostly done)\n2. Phase 2: Code generation — build directory site + Hugo site with AI\n3. Phase 3: AI Engineering — ship own product for independent income\n4. Phase 4: Automation + lead gen pipeline",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "1c58f0f802c359cc8ae43cf9e9e4e61a",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783505986,
+    "update_time": 1783505986,
+    "_id": "profile::profile.md::32"
+  },
+  "insights::insights.md::33": {
+    "content": "# Insights\n\nAuto-extracted patterns from session history.\n\n- id: 0e1d0b8de3a6\n  pattern: topic_coding\n  category: recurring_topic\n  confidence: 0.7\n  evidence_count: 3\n  sessions: [c91e5664-1c16-491e-a465-cb4e4c959baf, 23a37818-2cd1-48af-ac63-6c224e7562f7, 8e02d8dd-44c4-4b51-b3b5-b66132109e1f]\n  summary: Topic 'coding' appeared in 3 sessions\n  suggestion: Create dedicated skill or resource collection for coding",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "85ab2455e4b8169e691a0d08c1492361",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783506409,
+    "update_time": 1783506409,
+    "_id": "insights::insights.md::33"
+  },
+  "decisions::decisions.md::34": {
+    "content": "# Decisions Log\n\nAll decisions made during sessions, thinking partner conversations, and planning.\nFormat: `## [date] — [topic]`\n\n---\n\n\n## 2026-05-31 — coach-system-upgrade (session)\n- Upgraded coach from 8.5/10 to 10/10\n\n## 2026-05-31 — skill-development (session)\n- Expanded from 48 to 63 skills covering marketing, coding, design, research\n\n## 2026-05-31 — automation-setup (session)\n- Daily auto-push to GitHub at 4:50 PM\n\n## 2026-06-09 — prompt-enhance-protocol (session)\n- `--prompt enhance` suffix on any command means: rephrase/enhance user's intent first, show it, then proceed.\n- Without `--prompt enhance`, take input literally (current behavior).\n\n## 2026-05-31 — secuview-schema-markup (session)\n- All 4 schema types ready for upload\n\n## 2026-06-02 — coach-vector-memory (session)\n- Added TF-IDF vector search index (zero ML models, pure math)\n- Built MCP server exposing coach memory over stdio protocol\n- Built ask_memory.py CLI for semantic search + optional Ollama QA\n- memory_search.py now tries vector search first, falls back to keyword\n- Auto-indexing on every session store\n\n## 2026-06-02 — coach-improvement (session)\n- Proactively prompt user for 15-min prompt engineering drills during lulls\n---\\ndate: 2026-06-05T22:13:00+03:00\\ndecision: Start building a business/classified listing website for Qatar\\ncontext: User wants financial freedom, a full side business alongside current job\\napproach: Build website first, then promote via WhatsApp and Facebook\\ncompetitor_strategy: Find gaps in existing classified sites (mzadqatar, qatarliving, qatarclassifieds) and outperform\\ntags: [business, qatar, classifieds, entrepreneurship]\\n---\n\n## 2026-06-16 — research (session)\n- Evaluated addyosmani/agent-skills repo (60k stars). Reviewed DDD, Context Engineering, Source-Driven Development skills. Decided to distill only Doubt-Driven Development — cherry-picked CLAIM→EXTRACT→DOUBT→RECONCILE→STOP protocol into process/context/doubt-driven-development.md. Skipped the other two (redundant or too narrow). Added reference to context router.\n\n## 2026-06-16 — skill-evolution (session)\n- Created insight_ledger.py as foundation for all tool instrumentation. Every new tool should call log_insight() after its main flow.\n\n## 2026-06-17 — coach-2.0-powersuite (session)\n- Decided to implement \"Power Suite\" (repo_map, autofix, lead_gen, content_factory, debate) to move towards Level 3/4 autonomy.\n- Switched to AST-based Repo-Maps for context efficiency.\n- Adopted \"Self-Healing\" pattern (autofix) for faster development loops.",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "464bd3c93f3d60dca894b8f1dc97e1fb",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783506730,
+    "update_time": 1783506730,
+    "_id": "decisions::decisions.md::34"
+  },
+  "sessions::2f0564d0-3763-41b7-b51a-92207a51d9e3::0": {
+    "content": "Skill: agent-upgrade\nDuration: 75min\nRating: 5/10\nBuilt mode classifier (MINIMAL/NATIVE/ALGORITHM), tool registry with direct imports, correction memory for intent learning, refactored agent.py, loaded writing skills",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "500ccb6ba50cfe2accc655f11a1e7fc7",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1783507054,
+    "update_time": 1783507054,
+    "_id": "sessions::2f0564d0-3763-41b7-b51a-92207a51d9e3::0"
   }
 }

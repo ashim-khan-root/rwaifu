@@ -1,3 +1,12 @@
+---
+type: Resource
+id: memory-resources
+version: 1
+created: 2026-06-01
+updated: 2026-07-07
+tags: [memory, resources, external]
+---
+
 - title: "Spanish Resources"
   items:
     - "Duolingo: 1 lesson/day"

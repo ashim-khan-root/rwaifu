@@ -3022,5 +3022,986 @@
     "create_time": 1781696867,
     "update_time": 1781696867,
     "_id": "<source_entity>Brain Dump<SEP><target_entity>Notes"
+  },
+  "<Daily Summary><SEP><Other>": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::125-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "<Daily Summary><SEP><Other>"
+  },
+  "<Daily Review><SEP><System>": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::125-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "<Daily Review><SEP><System>"
+  },
+  "<Daily Review><SEP><Task": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::125-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "<Daily Review><SEP><Task"
+  },
+  "<Skill<SEP><rating)<[#|]<Duration": {
+    "chunk_ids": [
+      "daily::2026-06-03.md::124-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496121,
+    "update_time": 1783496121,
+    "_id": "<Skill<SEP><rating)<[#|]<Duration"
+  },
+  "<entity_name=\"Facebook shop setup\"<SEP>entity_name=\"secuview.com analytics\"": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::128-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "<entity_name=\"Facebook shop setup\"<SEP>entity_name=\"secuview.com analytics\""
+  },
+  "<entity_name=\"secuview.com analytics\"<SEP>entity_name=\"Facebook shop setup\"": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::128-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "<entity_name=\"secuview.com analytics\"<SEP>entity_name=\"Facebook shop setup\""
+  },
+  "<entity_name=\"Facebook shop setup\"<SEP>entity_name=\"team\"": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::128-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "<entity_name=\"Facebook shop setup\"<SEP>entity_name=\"team\""
+  },
+  "Tasks<SEP>tasks": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::131-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496602,
+    "update_time": 1783496602,
+    "_id": "Tasks<SEP>tasks"
+  },
+  "Tomorrow<SEP>tasks": {
+    "chunk_ids": [
+      "daily::2026-05-31.md::131-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496602,
+    "update_time": 1783496602,
+    "_id": "Tomorrow<SEP>tasks"
+  },
+  "LLM/<SEP>Raw Synthesis": {
+    "chunk_ids": [
+      "conversations::conv-20260609-160350.md::132-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496764,
+    "update_time": 1783496764,
+    "_id": "LLM/<SEP>Raw Synthesis"
+  },
+  "<Company<SEP><ListingWebsite": {
+    "chunk_ids": [
+      "conversations::conv-20260605-221323.md::133-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496800,
+    "update_time": 1783496800,
+    "_id": "<Company<SEP><ListingWebsite"
+  },
+  "Facebook Shop<SEP>Website": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Facebook Shop<SEP>Website"
+  },
+  "Questions Asked<SEP>Website": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Questions Asked<SEP>Website"
+  },
+  "Key Points<SEP>Website": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Key Points<SEP>Website"
+  },
+  "Facebook Shop<SEP>Questions Asked": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Facebook Shop<SEP>Questions Asked"
+  },
+  "Facebook Shop<SEP>Key Points": {
+    "chunk_ids": [
+      "conversations::conv-20260531-114202.md::134-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "Facebook Shop<SEP>Key Points"
+  },
+  "<source_entity>Qatar</source_entity><SEP><target_entity>Business Directory</target_entity>": {
+    "chunk_ids": [
+      "goals::goals.md::137-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783496997,
+    "update_time": 1783496997,
+    "_id": "<source_entity>Qatar</source_entity><SEP><target_entity>Business Directory</target_entity>"
+  },
+  "<Page<SEP><Reading>": {
+    "chunk_ids": [
+      "habits::habits.md::141-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "<Page<SEP><Reading>"
+  },
+  "<Number<SEP><Page>": {
+    "chunk_ids": [
+      "habits::habits.md::141-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "<Number<SEP><Page>"
+  },
+  "DS-9632NI-I8(STD)<SEP>Other": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "DS-9632NI-I8(STD)<SEP>Other"
+  },
+  "RFP<SEP>spec match,": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "RFP<SEP>spec match,"
+  },
+  "DS-9632NXI-I8/S<SEP>Other": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "DS-9632NXI-I8/S<SEP>Other"
+  },
+  "DST-7732NXI-K4/16P<SEP>RFP": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "DST-7732NXI-K4/16P<SEP>RFP"
+  },
+  "DST-8632NXI-I8/24P/S<SEP>Other": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "DST-8632NXI-I8/24P/S<SEP>Other"
+  },
+  "Other<SEP>RFP": {
+    "chunk_ids": [
+      "sessions::session-20260624-105632.md::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "Other<SEP>RFP"
+  },
+  "OpenVINO<SEP>uses": {
+    "chunk_ids": [
+      "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783498472,
+    "update_time": 1783498472,
+    "_id": "OpenVINO<SEP>uses"
+  },
+  "Entity<SEP>agent": {
+    "chunk_ids": [
+      "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499100,
+    "update_time": 1783499100,
+    "_id": "Entity<SEP>agent"
+  },
+  "<AashimKhn><SEP><aashimkhn>": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<AashimKhn><SEP><aashimkhn>"
+  },
+  "<Opencode Plugin><SEP><Plugin": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<Opencode Plugin><SEP><Plugin"
+  },
+  "<Session Streaming<SEP><Streaming": {
+    "chunk_ids": [
+      "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "<Session Streaming<SEP><Streaming"
+  },
+  "Secuview website<SEP>WordPress/WooCommerce": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Secuview website<SEP>WordPress/WooCommerce"
+  },
+  "Aslielectronics<SEP>Java": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>Java"
+  },
+  "Java<SEP>Starfox Security System": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Java<SEP>Starfox Security System"
+  },
+  "Aslielectronics<SEP>Python": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>Python"
+  },
+  "Hugo website<SEP>React": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Hugo website<SEP>React"
+  },
+  "Aslielectronics<SEP>Node.js": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>Node.js"
+  },
+  "Hugo website<SEP>Next.js": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Hugo website<SEP>Next.js"
+  },
+  "SEO content writing<SEP>Secuview website": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "SEO content writing<SEP>Secuview website"
+  },
+  "Aslielectronics<SEP>Prompt foundations": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>Prompt foundations"
+  },
+  "Hugo site<SEP>Hugo website": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Hugo site<SEP>Hugo website"
+  },
+  "Aslielectronics<SEP>Code generation": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>Code generation"
+  },
+  "AI Engineering<SEP>Aslielectronics": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "AI Engineering<SEP>Aslielectronics"
+  },
+  "Starfox 8am–5pm<SEP>ship own product": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Starfox 8am–5pm<SEP>ship own product"
+  },
+  "Aslielectronics<SEP>Automation/AI engineering": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>Automation/AI engineering"
+  },
+  "Starfox 8am–5pm<SEP>independent income": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Starfox 8am–5pm<SEP>independent income"
+  },
+  "Aslielectronics<SEP>Lead gen pipeline": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>Lead gen pipeline"
+  },
+  "Aslielectronics<SEP>better-paying job": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>better-paying job"
+  },
+  "Aslielectronics<SEP>recurring revenue": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>recurring revenue"
+  },
+  "Starfox Security System<SEP>security business operations": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Starfox Security System<SEP>security business operations"
+  },
+  "Aslielectronics<SEP>SaaS product": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>SaaS product"
+  },
+  "Security business operations<SEP>Starfox Security System": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Security business operations<SEP>Starfox Security System"
+  },
+  "AI automation/engineering as a service<SEP>Aslielectronics": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "AI automation/engineering as a service<SEP>Aslielectronics"
+  },
+  "Quotations for Starfox Security System<SEP>Starfox Security System": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Quotations for Starfox Security System<SEP>Starfox Security System"
+  },
+  "Aslielectronics<SEP>multiple income streams": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>multiple income streams"
+  },
+  "Aslielectronics<SEP>SaaS product for recurring revenue": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>SaaS product for recurring revenue"
+  },
+  "Aslielectronics<SEP>Multiple income streams": {
+    "chunk_ids": [
+      "profile::profile.md::143-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "Aslielectronics<SEP>Multiple income streams"
+  },
+  "session<SEP>topic": {
+    "chunk_ids": [
+      "decisions::decisions.md::145-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "session<SEP>topic"
+  },
+  "business<SEP>decision": {
+    "chunk_ids": [
+      "decisions::decisions.md::145-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "business<SEP>decision"
+  },
+  "freetoolz/portfolio<SEP>safehome": {
+    "chunk_ids": [
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "freetoolz/portfolio<SEP>safehome"
+  },
+  "freetoolz/safehome<SEP>portfolio": {
+    "chunk_ids": [
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "freetoolz/safehome<SEP>portfolio"
+  },
+  "freetoolz/portfolio<SEP>freetoolz/safehome": {
+    "chunk_ids": [
+      "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "freetoolz/portfolio<SEP>freetoolz/safehome"
+  },
+  "source_entity:deploy<SEP>target_entity:hugo-product-page-enhance": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:deploy<SEP>target_entity:hugo-product-page-enhance"
+  },
+  "source_entity:deploy<SEP>target_entity:blog-publishing-solar-4g": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:deploy<SEP>target_entity:blog-publishing-solar-4g"
+  },
+  "source_entity:session<SEP>target_entity:deploy": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:session<SEP>target_entity:deploy"
+  },
+  "source_entity:deploy<SEP>target_entity:content-seo-phase2": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:deploy<SEP>target_entity:content-seo-phase2"
+  },
+  "source_entity:sessions<SEP>target_entity:id": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:sessions<SEP>target_entity:id"
+  },
+  "source_entity:deploy<SEP>target_entity:seo-optimization": {
+    "chunk_ids": [
+      "insights::insights.md::144-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "source_entity:deploy<SEP>target_entity:seo-optimization"
+  },
+  "Added OG meta tags<SEP>Portfolio": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "Added OG meta tags<SEP>Portfolio"
+  },
+  "Portfolio<SEP>portfolio-og.png": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "Portfolio<SEP>portfolio-og.png"
+  },
+  "GitHub<SEP>pushed to GitHub Pages": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "GitHub<SEP>pushed to GitHub Pages"
+  },
+  "Portfolio<SEP>SVG favicon with gradient lettermark": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "Portfolio<SEP>SVG favicon with gradient lettermark"
+  },
+  "Portfolio<SEP>pushed to GitHub Pages": {
+    "chunk_ids": [
+      "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "Portfolio<SEP>pushed to GitHub Pages"
+  },
+  "<TELOS><ISA><SEP>ISA": {
+    "chunk_ids": [
+      "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505417,
+    "update_time": 1783505417,
+    "_id": "<TELOS><ISA><SEP>ISA"
+  },
+  "User Feedback<SEP>What would make the user say 'that's not what I meant'": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "User Feedback<SEP>What would make the user say 'that's not what I meant'"
+  },
+  "Assumption<SEP>What am I assuming that I haven't verified": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "Assumption<SEP>What am I assuming that I haven't verified"
+  },
+  "Misinterpretation<SEP>What would make the user say 'that's not what I meant'": {
+    "chunk_ids": [
+      "conversations::conv-20260629-110812.md::20-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "Misinterpretation<SEP>What would make the user say 'that's not what I meant'"
+  },
+  "Aslielectronics<SEP>Organization": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Aslielectronics<SEP>Organization"
+  },
+  "aslielectronics<SEP>freetoolz/khaleej": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "aslielectronics<SEP>freetoolz/khaleej"
+  },
+  "aslieelectronics<SEP>business-directory-idea": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "aslieelectronics<SEP>business-directory-idea"
+  },
+  "Hugo website<SEP>Organization": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Hugo website<SEP>Organization"
+  },
+  "github-pages<SEP>hugo-website": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "github-pages<SEP>hugo-website"
+  },
+  "domain-ideas<SEP>freetoolz/khaleej": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "domain-ideas<SEP>freetoolz/khaleej"
+  },
+  "Freetoolz / Khaleej<SEP>Organization": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Freetoolz / Khaleej<SEP>Organization"
+  },
+  "aslielectronics<SEP>starfox-8am-5pm": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "aslielectronics<SEP>starfox-8am-5pm"
+  },
+  "Organization<SEP>Starfox Security System": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Organization<SEP>Starfox Security System"
+  },
+  "business-directory-idea<SEP>lead-gen-model": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "business-directory-idea<SEP>lead-gen-model"
+  },
+  "Business Directory idea<SEP>Organization": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Business Directory idea<SEP>Organization"
+  },
+  "Qatar Directory<SEP>aslielectronics": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Qatar Directory<SEP>aslielectronics"
+  },
+  "Business Directory idea<SEP>aslielectronics": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Business Directory idea<SEP>aslielectronics"
+  },
+  "Organization<SEP>Qatar Directory": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Organization<SEP>Qatar Directory"
+  },
+  "business-directory-idea<SEP>saa-product-revenue": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "business-directory-idea<SEP>saa-product-revenue"
+  },
+  "Business Directory idea<SEP>Entity: SaaS product for recurring revenue": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Business Directory idea<SEP>Entity: SaaS product for recurring revenue"
+  },
+  "Entity: AI automation/engineering as a service (freelance)<SEP>Qatar Directory": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Entity: AI automation/engineering as a service (freelance)<SEP>Qatar Directory"
+  },
+  "business-directory-idea<SEP>recurring-revenue": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "business-directory-idea<SEP>recurring-revenue"
+  },
+  "ai-automation-service<SEP>qatar-directory": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "ai-automation-service<SEP>qatar-directory"
+  },
+  "Business Directory idea<SEP>Entity: Use AI to scale the existing security business operations": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Business Directory idea<SEP>Entity: Use AI to scale the existing security business operations"
+  },
+  "ai-scaling-operations<SEP>business-directory-idea": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "ai-scaling-operations<SEP>business-directory-idea"
+  },
+  "freelance-work<SEP>qatar-directory": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "freelance-work<SEP>qatar-directory"
+  },
+  "Business Directory idea<SEP>Entity: Multiple income streams from all of the above": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Business Directory idea<SEP>Entity: Multiple income streams from all of the above"
+  },
+  "business-directory-idea<SEP>security-business-ops": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "business-directory-idea<SEP>security-business-ops"
+  },
+  "Entity: Lead gen pipeline<SEP>Qatar Directory": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Entity: Lead gen pipeline<SEP>Qatar Directory"
+  },
+  "lead-gen-pipeline<SEP>qatar-directory": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "lead-gen-pipeline<SEP>qatar-directory"
+  },
+  "Organization<SEP>starfox-security-system": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Organization<SEP>starfox-security-system"
+  },
+  "aslielectronics<SEP>business-directory-idea": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "aslielectronics<SEP>business-directory-idea"
+  },
+  "Entity: AI automation/engineering as a service (freelance)<SEP>Qatar Directory idea": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Entity: AI automation/engineering as a service (freelance)<SEP>Qatar Directory idea"
+  },
+  "aslielectronics<SEP>qatar-directory-idea": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "aslielectronics<SEP>qatar-directory-idea"
+  },
+  "Qatar Directory<SEP>aspiration:< become an ai engineer": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Qatar Directory<SEP>aspiration:< become an ai engineer"
+  },
+  "aslielectronics<SEP>business-directory-idea-projects": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "aslielectronics<SEP>business-directory-idea-projects"
+  },
+  "Business Directory idea<SEP>aspiration:< become an ai engineer": {
+    "chunk_ids": [
+      "profile::profile.md::32-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "Business Directory idea<SEP>aspiration:< become an ai engineer"
   }
 }

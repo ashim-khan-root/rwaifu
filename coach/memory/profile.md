@@ -1,6 +1,15 @@
 ---
-saved: 2026-06-17
+type: Profile
+id: memory-profile
+version: 2
+created: 2026-06-01
+updated: 2026-07-07
+references:
+  - identity.md
+  - telos.md
+tags: [memory, profile, user]
 ---
+
 # Profile
 
 **Role:** Engineer @ Starfox Security System (strafoxsecu.com, est. 2005)

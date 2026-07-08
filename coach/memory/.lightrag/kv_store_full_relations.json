@@ -1922,5 +1922,609 @@
     "create_time": 1781696867,
     "update_time": 1781696867,
     "_id": "daily::2026-06-03.md::121"
+  },
+  "daily::2026-06-03.md::125": {
+    "relation_pairs": [
+      [
+        "<Daily Review>",
+        "<Task"
+      ],
+      [
+        "<Daily Review>",
+        "<System>"
+      ],
+      [
+        "<Daily Summary>",
+        "<Other>"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1783496098,
+    "update_time": 1783496098,
+    "_id": "daily::2026-06-03.md::125"
+  },
+  "daily::2026-06-03.md::124": {
+    "relation_pairs": [
+      [
+        "<Skill",
+        "<rating)<[#|]<Duration"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1783496121,
+    "update_time": 1783496121,
+    "_id": "daily::2026-06-03.md::124"
+  },
+  "daily::2026-05-31.md::128": {
+    "relation_pairs": [
+      [
+        "<entity_name=\"Facebook shop setup\"",
+        "entity_name=\"team\""
+      ],
+      [
+        "<entity_name=\"secuview.com analytics\"",
+        "entity_name=\"Facebook shop setup\""
+      ],
+      [
+        "<entity_name=\"Facebook shop setup\"",
+        "entity_name=\"secuview.com analytics\""
+      ]
+    ],
+    "count": 3,
+    "create_time": 1783496577,
+    "update_time": 1783496577,
+    "_id": "daily::2026-05-31.md::128"
+  },
+  "daily::2026-05-31.md::131": {
+    "relation_pairs": [
+      [
+        "Tasks",
+        "tasks"
+      ],
+      [
+        "Tomorrow",
+        "tasks"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1783496602,
+    "update_time": 1783496602,
+    "_id": "daily::2026-05-31.md::131"
+  },
+  "conversations::conv-20260609-160350.md::132": {
+    "relation_pairs": [
+      [
+        "LLM/",
+        "Raw Synthesis"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1783496764,
+    "update_time": 1783496764,
+    "_id": "conversations::conv-20260609-160350.md::132"
+  },
+  "conversations::conv-20260605-221323.md::133": {
+    "relation_pairs": [
+      [
+        "<Company",
+        "<ListingWebsite"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1783496800,
+    "update_time": 1783496800,
+    "_id": "conversations::conv-20260605-221323.md::133"
+  },
+  "conversations::conv-20260531-114202.md::134": {
+    "relation_pairs": [
+      [
+        "Key Points",
+        "Website"
+      ],
+      [
+        "Facebook Shop",
+        "Website"
+      ],
+      [
+        "Facebook Shop",
+        "Key Points"
+      ],
+      [
+        "Facebook Shop",
+        "Questions Asked"
+      ],
+      [
+        "Questions Asked",
+        "Website"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1783496867,
+    "update_time": 1783496867,
+    "_id": "conversations::conv-20260531-114202.md::134"
+  },
+  "goals::goals.md::137": {
+    "relation_pairs": [
+      [
+        "<source_entity>Qatar</source_entity>",
+        "<target_entity>Business Directory</target_entity>"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1783496997,
+    "update_time": 1783496997,
+    "_id": "goals::goals.md::137"
+  },
+  "habits::habits.md::141": {
+    "relation_pairs": [
+      [
+        "<Page",
+        "<Reading>"
+      ],
+      [
+        "<Number",
+        "<Page>"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1783497426,
+    "update_time": 1783497426,
+    "_id": "habits::habits.md::141"
+  },
+  "sessions::session-20260624-105632.md::0": {
+    "relation_pairs": [
+      [
+        "RFP",
+        "spec match,"
+      ],
+      [
+        "Other",
+        "RFP"
+      ],
+      [
+        "DST-8632NXI-I8/24P/S",
+        "Other"
+      ],
+      [
+        "DS-9632NXI-I8/S",
+        "Other"
+      ],
+      [
+        "DST-7732NXI-K4/16P",
+        "RFP"
+      ],
+      [
+        "DS-9632NI-I8(STD)",
+        "Other"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1783498449,
+    "update_time": 1783498449,
+    "_id": "sessions::session-20260624-105632.md::0"
+  },
+  "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0": {
+    "relation_pairs": [
+      [
+        "OpenVINO",
+        "uses"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1783498472,
+    "update_time": 1783498472,
+    "_id": "sessions::df50f64e-1d34-4a3f-bbf9-7dcd9ffe0296::0"
+  },
+  "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0": {
+    "relation_pairs": [
+      [
+        "Entity",
+        "agent"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1783499100,
+    "update_time": 1783499100,
+    "_id": "sessions::4a3b923c-b8ed-46d3-b5eb-75a7f26362c0::0"
+  },
+  "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0": {
+    "relation_pairs": [
+      [
+        "<AashimKhn>",
+        "<aashimkhn>"
+      ],
+      [
+        "<Session Streaming",
+        "<Streaming"
+      ],
+      [
+        "<Opencode Plugin>",
+        "<Plugin"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1783499934,
+    "update_time": 1783499934,
+    "_id": "sessions::c91e5664-1c16-491e-a465-cb4e4c959baf::0"
+  },
+  "profile::profile.md::143": {
+    "relation_pairs": [
+      [
+        "SEO content writing",
+        "Secuview website"
+      ],
+      [
+        "Aslielectronics",
+        "Java"
+      ],
+      [
+        "Aslielectronics",
+        "Code generation"
+      ],
+      [
+        "Starfox 8am–5pm",
+        "ship own product"
+      ],
+      [
+        "Aslielectronics",
+        "multiple income streams"
+      ],
+      [
+        "Aslielectronics",
+        "Python"
+      ],
+      [
+        "Java",
+        "Starfox Security System"
+      ],
+      [
+        "Security business operations",
+        "Starfox Security System"
+      ],
+      [
+        "Hugo website",
+        "React"
+      ],
+      [
+        "Aslielectronics",
+        "SaaS product for recurring revenue"
+      ],
+      [
+        "Quotations for Starfox Security System",
+        "Starfox Security System"
+      ],
+      [
+        "Aslielectronics",
+        "better-paying job"
+      ],
+      [
+        "AI automation/engineering as a service",
+        "Aslielectronics"
+      ],
+      [
+        "Secuview website",
+        "WordPress/WooCommerce"
+      ],
+      [
+        "Starfox Security System",
+        "security business operations"
+      ],
+      [
+        "Aslielectronics",
+        "SaaS product"
+      ],
+      [
+        "Hugo site",
+        "Hugo website"
+      ],
+      [
+        "Aslielectronics",
+        "Multiple income streams"
+      ],
+      [
+        "Aslielectronics",
+        "Node.js"
+      ],
+      [
+        "AI Engineering",
+        "Aslielectronics"
+      ],
+      [
+        "Hugo website",
+        "Next.js"
+      ],
+      [
+        "Aslielectronics",
+        "Lead gen pipeline"
+      ],
+      [
+        "Aslielectronics",
+        "Prompt foundations"
+      ],
+      [
+        "Aslielectronics",
+        "Automation/AI engineering"
+      ],
+      [
+        "Starfox 8am–5pm",
+        "independent income"
+      ],
+      [
+        "Aslielectronics",
+        "recurring revenue"
+      ]
+    ],
+    "count": 26,
+    "create_time": 1783500365,
+    "update_time": 1783500365,
+    "_id": "profile::profile.md::143"
+  },
+  "decisions::decisions.md::145": {
+    "relation_pairs": [
+      [
+        "business",
+        "decision"
+      ],
+      [
+        "session",
+        "topic"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1783500628,
+    "update_time": 1783500628,
+    "_id": "decisions::decisions.md::145"
+  },
+  "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0": {
+    "relation_pairs": [
+      [
+        "freetoolz/safehome",
+        "portfolio"
+      ],
+      [
+        "freetoolz/portfolio",
+        "freetoolz/safehome"
+      ],
+      [
+        "freetoolz/portfolio",
+        "safehome"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1783500849,
+    "update_time": 1783500849,
+    "_id": "sessions::23a37818-2cd1-48af-ac63-6c224e7562f7::0"
+  },
+  "insights::insights.md::144": {
+    "relation_pairs": [
+      [
+        "source_entity:deploy",
+        "target_entity:content-seo-phase2"
+      ],
+      [
+        "source_entity:deploy",
+        "target_entity:seo-optimization"
+      ],
+      [
+        "source_entity:deploy",
+        "target_entity:blog-publishing-solar-4g"
+      ],
+      [
+        "source_entity:sessions",
+        "target_entity:id"
+      ],
+      [
+        "source_entity:session",
+        "target_entity:deploy"
+      ],
+      [
+        "source_entity:deploy",
+        "target_entity:hugo-product-page-enhance"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1783501244,
+    "update_time": 1783501244,
+    "_id": "insights::insights.md::144"
+  },
+  "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8": {
+    "relation_pairs": [
+      [
+        "Portfolio",
+        "SVG favicon with gradient lettermark"
+      ],
+      [
+        "GitHub",
+        "pushed to GitHub Pages"
+      ],
+      [
+        "Portfolio",
+        "portfolio-og.png"
+      ],
+      [
+        "Added OG meta tags",
+        "Portfolio"
+      ],
+      [
+        "Portfolio",
+        "pushed to GitHub Pages"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1783505395,
+    "update_time": 1783505395,
+    "_id": "sessions::f24fe4fc-5571-4698-8835-92fd9831d734::8"
+  },
+  "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7": {
+    "relation_pairs": [
+      [
+        "<TELOS><ISA>",
+        "ISA"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1783505417,
+    "update_time": 1783505417,
+    "_id": "sessions::8e02d8dd-44c4-4b51-b3b5-b66132109e1f::7"
+  },
+  "conversations::conv-20260629-110812.md::20": {
+    "relation_pairs": [
+      [
+        "Misinterpretation",
+        "What would make the user say 'that's not what I meant'"
+      ],
+      [
+        "Assumption",
+        "What am I assuming that I haven't verified"
+      ],
+      [
+        "User Feedback",
+        "What would make the user say 'that's not what I meant'"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1783505981,
+    "update_time": 1783505981,
+    "_id": "conversations::conv-20260629-110812.md::20"
+  },
+  "profile::profile.md::32": {
+    "relation_pairs": [
+      [
+        "Organization",
+        "Starfox Security System"
+      ],
+      [
+        "aslielectronics",
+        "business-directory-idea-projects"
+      ],
+      [
+        "Business Directory idea",
+        "aspiration:< become an ai engineer"
+      ],
+      [
+        "business-directory-idea",
+        "recurring-revenue"
+      ],
+      [
+        "aslielectronics",
+        "qatar-directory-idea"
+      ],
+      [
+        "Entity: AI automation/engineering as a service (freelance)",
+        "Qatar Directory idea"
+      ],
+      [
+        "Aslielectronics",
+        "Organization"
+      ],
+      [
+        "aslielectronics",
+        "business-directory-idea"
+      ],
+      [
+        "Business Directory idea",
+        "Entity: SaaS product for recurring revenue"
+      ],
+      [
+        "Business Directory idea",
+        "Entity: Multiple income streams from all of the above"
+      ],
+      [
+        "aslielectronics",
+        "freetoolz/khaleej"
+      ],
+      [
+        "business-directory-idea",
+        "lead-gen-model"
+      ],
+      [
+        "business-directory-idea",
+        "saa-product-revenue"
+      ],
+      [
+        "Business Directory idea",
+        "Entity: Use AI to scale the existing security business operations"
+      ],
+      [
+        "Entity: AI automation/engineering as a service (freelance)",
+        "Qatar Directory"
+      ],
+      [
+        "ai-automation-service",
+        "qatar-directory"
+      ],
+      [
+        "aslielectronics",
+        "starfox-8am-5pm"
+      ],
+      [
+        "business-directory-idea",
+        "security-business-ops"
+      ],
+      [
+        "Organization",
+        "starfox-security-system"
+      ],
+      [
+        "Business Directory idea",
+        "Organization"
+      ],
+      [
+        "lead-gen-pipeline",
+        "qatar-directory"
+      ],
+      [
+        "domain-ideas",
+        "freetoolz/khaleej"
+      ],
+      [
+        "freelance-work",
+        "qatar-directory"
+      ],
+      [
+        "Freetoolz / Khaleej",
+        "Organization"
+      ],
+      [
+        "Qatar Directory",
+        "aslielectronics"
+      ],
+      [
+        "aslieelectronics",
+        "business-directory-idea"
+      ],
+      [
+        "Hugo website",
+        "Organization"
+      ],
+      [
+        "Qatar Directory",
+        "aspiration:< become an ai engineer"
+      ],
+      [
+        "Entity: Lead gen pipeline",
+        "Qatar Directory"
+      ],
+      [
+        "Business Directory idea",
+        "aslielectronics"
+      ],
+      [
+        "Organization",
+        "Qatar Directory"
+      ],
+      [
+        "ai-scaling-operations",
+        "business-directory-idea"
+      ],
+      [
+        "github-pages",
+        "hugo-website"
+      ]
+    ],
+    "count": 33,
+    "create_time": 1783506394,
+    "update_time": 1783506394,
+    "_id": "profile::profile.md::32"
   }
 }

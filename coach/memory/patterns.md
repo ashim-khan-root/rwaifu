@@ -1,3 +1,15 @@
+---
+type: Pattern
+id: memory-patterns
+version: 1
+created: 2026-06-01
+updated: 2026-07-07
+references:
+  - identity.md
+  - insights.md
+tags: [memory, patterns, behavior, user]
+---
+
 # User Patterns (Behavioral)
 
 Auto-observed patterns about communication style, preferences, and work habits.
