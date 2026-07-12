@@ -1,0 +1,186 @@
+# Skill Catalog & Packs for Personal Coach
+# Used by the MCP server for skill search, pack install, and category browsing.
+
+categories:
+  SEO:
+    label: SEO & Search
+    description: Search engine optimization, content strategy, and organic growth
+  Marketing:
+    label: Marketing & Copy
+    description: Copywriting, conversion optimization, and marketing strategy
+  Development:
+    label: Development
+    description: Coding, testing, architecture, and technical skills
+  Business:
+    label: Business & Operations
+    description: Business processes, planning, and project management
+  Automation:
+    label: Automation & Scraping
+    description: Automated workflows, browser automation, and data extraction
+  Personal:
+    label: Personal Development
+    description: Life coaching, career coaching, purpose, and growth
+  Utility:
+    label: Utility
+    description: General-purpose tools, diagnostics, and communication
+
+skills:
+  - name: seo-audit
+    category: SEO
+    tags: [audit, technical-seo, on-page, crawl]
+    description: Audit, review, and diagnose SEO issues on any site
+  - name: ai-seo
+    category: SEO
+    tags: [ai-seo, geo, llm, overviews]
+    description: Optimize content for AI search engines and LLM citations
+  - name: content-strategy
+    category: SEO
+    tags: [content, planning, topics, editorial]
+    description: Plan content strategy, decide what to write, topic clusters
+  - name: programmatic-seo
+    category: SEO
+    tags: [pseo, scale, templates, pages]
+    description: Create SEO-driven pages at scale using templates and data
+  - name: schema
+    category: SEO
+    tags: [structured-data, json-ld, rich-results]
+    description: Add, fix, and optimize schema markup and structured data
+  - name: site-architecture
+    category: SEO
+    tags: [ia, navigation, url-structure, sitemap]
+    description: Plan and restructure website hierarchy and internal linking
+  - name: directory-submissions
+    category: SEO
+    tags: [backlinks, directories, listings, dr]
+    description: Submit to startup, SaaS, AI, and directory listings for backlinks
+
+  - name: copywriting
+    category: Marketing
+    tags: [copy, landing-page, headlines, cta]
+    description: Write and improve marketing copy for pages and products
+  - name: cro
+    category: Marketing
+    tags: [conversion, optimization, a-b-test, funnel]
+    description: Optimize pages and forms for higher conversion rates
+  - name: marketing-psychology
+    category: Marketing
+    tags: [psychology, persuasion, behavioral-science]
+    description: Apply psychological principles and behavioral science to marketing
+  - name: pricing
+    category: Marketing
+    tags: [pricing, packaging, monetization, tiers]
+    description: Plan pricing strategy, packaging, and monetization
+  - name: referrals
+    category: Marketing
+    tags: [referral, affiliate, word-of-mouth, virality]
+    description: Create and optimize referral and affiliate programs
+  - name: launch
+    category: Marketing
+    tags: [launch, product-hunt, gtm, announcement]
+    description: Plan product launches and go-to-market strategies
+  - name: analytics
+    category: Marketing
+    tags: [analytics, ga4, tracking, measurement]
+    description: Set up, audit, and improve analytics tracking and measurement
+
+  - name: tdd
+    category: Development
+    tags: [testing, tdd, red-green-refactor, pytest]
+    description: Test-driven development with red-green-refactor loop
+  - name: improve-codebase-architecture
+    category: Development
+    tags: [architecture, refactor, design, patterns]
+    description: Find and apply codebase architecture improvements
+  - name: prototype
+    category: Development
+    tags: [prototype, mvp, rapid, proof-of-concept]
+    description: Build throwaway prototypes to validate designs before committing
+  - name: shadcn
+    category: Development
+    tags: [shadcn, ui, components, tailwind]
+    description: Manage shadcn UI components and projects
+  - name: supabase
+    category: Development
+    tags: [supabase, database, auth, edge-functions]
+    description: Work with Supabase database, auth, storage, and edge functions
+  - name: supabase-postgres-best-practices
+    category: Development
+    tags: [postgres, sql, performance, optimization]
+    description: Postgres performance optimization and best practices from Supabase
+
+  - name: competitor-profiling
+    category: Business
+    tags: [competitors, research, analysis, intelligence]
+    description: Research, profile, and analyze competitors from their URLs
+  - name: to-issues
+    category: Business
+    tags: [issues, planning, breakdown, tasks]
+    description: Break plans into independently-grabbable issues
+  - name: to-prd
+    category: Business
+    tags: [prd, specification, requirements, planning]
+    description: Turn conversation context into a structured PRD
+  - name: triage
+    category: Business
+    tags: [triage, issues, bugs, prioritization]
+    description: Triage and prioritize issues through a state machine
+
+  - name: agent-browser
+    category: Automation
+    tags: [browser, automation, scraping, web]
+    description: Browser automation CLI for AI agents to interact with websites
+  - name: just-scrape
+    category: Automation
+    tags: [scrape, crawl, extract, data]
+    description: Search, scrape, crawl, and extract structured data from web pages
+
+  - name: counselling
+    category: Personal
+    tags: [coaching, life, career, purpose, grow, ikigai]
+    description: Structured life and career coaching using evidence-based frameworks
+  - name: caveman
+    category: Utility
+    tags: [communication, concise, tokens, efficiency]
+    description: Ultra-compressed communication mode to cut token usage
+  - name: diagnose
+    category: Utility
+    tags: [debug, diagnose, bug, performance]
+    description: Structured diagnosis loop for hard bugs and regressions
+  - name: handoff
+    category: Utility
+    tags: [handoff, context, transfer, session]
+    description: Compact conversation into a handoff document for another agent
+
+packs:
+  coaching:
+    name: Coaching Pack
+    description: Life and career coaching frameworks — GROW, Ikigai, Career Anchors, CLEAR, and more
+    skills: [counselling]
+  seo:
+    name: SEO Pack
+    description: Complete SEO toolkit — audit, schema, content strategy, AI SEO, programmatic pages
+    skills: [seo-audit, ai-seo, content-strategy, programmatic-seo, schema, site-architecture, directory-submissions]
+  marketing:
+    name: Marketing Pack
+    description: Full marketing stack — copywriting, CRO, pricing, referrals, launches, analytics
+    skills: [copywriting, cro, marketing-psychology, pricing, referrals, launch, analytics]
+  development:
+    name: Developer Pack
+    description: Engineering skills — TDD, architecture, prototyping, Supabase, shadcn
+    skills: [tdd, improve-codebase-architecture, prototype, shadcn, supabase, supabase-postgres-best-practices]
+  business:
+    name: Business Pack
+    description: Business ops — competitor research, PRDs, issue triage, planning
+    skills: [competitor-profiling, to-issues, to-prd, triage]
+  automation:
+    name: Automation Pack
+    description: Scraping and browser automation — agent-browser, just-scrape
+    skills: [agent-browser, just-scrape]
+  utility:
+    name: Utility Pack
+    description: General-purpose — caveman mode, diagnostics, handoffs
+    skills: [caveman, diagnose, handoff]
+  full:
+    name: Full Suite
+    description: All skills — complete personal-coach capability
+    skills: [counselling, seo-audit, ai-seo, content-strategy, programmatic-seo, schema, site-architecture, directory-submissions, copywriting, cro, marketing-psychology, pricing, referrals, launch, analytics, tdd, improve-codebase-architecture, prototype, shadcn, supabase, supabase-postgres-best-practices, competitor-profiling, to-issues, to-prd, triage, agent-browser, just-scrape, caveman, diagnose, handoff]

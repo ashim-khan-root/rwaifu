@@ -5,7 +5,7 @@ Usage:
   python tools/mcp_server.py                    # run stdio server
   python tools/mcp_server.py --interactive      # test via interactive REPL
 """
-import sys, datetime, asyncio, io, contextlib
+import sys, datetime, asyncio, io, contextlib, yaml
 from pathlib import Path
 
 MEM_DIR = Path(__file__).resolve().parent.parent / "memory"
@@ -229,6 +229,142 @@ def _tool_site_survey(action: str, client: str = "", location: str = "", contact
             cmd_close(survey_id, summary)
     return buf.getvalue()
 
+# ── Skill system (catalog + packs) ────────────────────────────────────────
+
+_SKILL_CATALOG = None
+
+def _load_skill_catalog():
+    global _SKILL_CATALOG
+    if _SKILL_CATALOG is not None:
+        return _SKILL_CATALOG
+    import yaml
+    cat_path = Path(__file__).resolve().parent.parent / "skills" / "catalog.yaml"
+    if not cat_path.exists():
+        _SKILL_CATALOG = {"skills": [], "packs": {}, "categories": {}}
+        return _SKILL_CATALOG
+    with open(cat_path, encoding="utf-8") as f:
+        _SKILL_CATALOG = yaml.safe_load(f)
+    return _SKILL_CATALOG
+
+def _read_skill_file(slug: str) -> str:
+    sp = Path(__file__).resolve().parent.parent / "skills" / slug / "SKILL.md"
+    if not sp.exists():
+        return ""
+    return sp.read_text(encoding="utf-8")
+
+def _tool_search_skills(query: str = "", category: str = "", tag: str = "", limit: int = 20) -> str:
+    cat = _load_skill_catalog()
+    results = []
+    q = query.lower().strip()
+    for s in cat.get("skills", []):
+        score = 0
+        if q:
+            if q in s["name"].lower():
+                score += 10
+            if q in s["description"].lower():
+                score += 5
+            for t in s.get("tags", []):
+                if q in t.lower():
+                    score += 3
+        if category and s.get("category", "").lower() != category.lower():
+            continue
+        if tag and tag.lower() not in [t.lower() for t in s.get("tags", [])]:
+            continue
+        if q and score == 0:
+            continue
+        results.append((score, s))
+    results.sort(key=lambda x: -x[0])
+    out = []
+    for score, s in results[:limit]:
+        tags = ", ".join(f"#{t}" for t in s.get("tags", []))
+        out.append(f"  {s['name']}  [{s.get('category','?')}]")
+        out.append(f"    {s['description'][:120]}")
+        out.append(f"    {tags}")
+    if not out:
+        return f'No skills matching "{query}"'
+    return f"=== Skills ({len(results)} found, showing {min(len(results), limit)}) ===\n" + "\n".join(out)
+
+def _tool_get_skill(slug: str) -> str:
+    cat = _load_skill_catalog()
+    match = None
+    for s in cat.get("skills", []):
+        if s["name"] == slug:
+            match = s
+            break
+    if not match:
+        return f'Skill "{slug}" not found'
+    content = _read_skill_file(slug)
+    tags = ", ".join(f"#{t}" for t in match.get("tags", []))
+    lines = [
+        f"# {match['name']}",
+        f"Category: {match.get('category', '?')}",
+        f"Tags: {tags}",
+        f"Description: {match['description']}",
+        "",
+        "---",
+        content if content else "(empty)"
+    ]
+    return "\n".join(lines)
+
+def _tool_list_packs() -> str:
+    cat = _load_skill_catalog()
+    packs = cat.get("packs", {})
+    if not packs:
+        return "No packs available"
+    lines = ["=== Skill Packs ==="]
+    for key, p in packs.items():
+        skills_list = ", ".join(p.get("skills", []))
+        lines.append(f"\n{key} — {p['name']}")
+        lines.append(f"  {p['description']}")
+        lines.append(f"  Skills ({len(p.get('skills',[]))}): {skills_list}")
+    return "\n".join(lines)
+
+def _tool_install_pack(pack_key: str) -> str:
+    cat = _load_skill_catalog()
+    packs = cat.get("packs", {})
+    if pack_key not in packs:
+        available = ", ".join(packs.keys())
+        return f'Pack "{pack_key}" not found. Available: {available}'
+    p = packs[pack_key]
+    skills = p.get("skills", [])
+    loaded = []
+    missing = []
+    for slug in skills:
+        content = _read_skill_file(slug)
+        if content:
+            loaded.append(slug)
+        else:
+            missing.append(slug)
+    lines = [
+        f"=== Pack: {p['name']} ===",
+        f"Description: {p['description']}",
+        f"Skills loaded: {len(loaded)}/{len(skills)}",
+        "",
+        "Loaded:",
+    ]
+    for slug in loaded:
+        lines.append(f"  + {slug}")
+    if missing:
+        lines.append("")
+        lines.append("Missing files:")
+        for slug in missing:
+            lines.append(f"  - {slug}")
+    return "\n".join(lines)
+
+def _tool_list_categories() -> str:
+    cat = _load_skill_catalog()
+    categories = cat.get("categories", {})
+    skill_count = {}
+    for s in cat.get("skills", []):
+        c = s.get("category", "Other")
+        skill_count[c] = skill_count.get(c, 0) + 1
+    lines = ["=== Skill Categories ==="]
+    for key, c in categories.items():
+        count = skill_count.get(key, 0)
+        lines.append(f"\n{key} — {c['label']} ({count} skills)")
+        lines.append(f"  {c['description']}")
+    return "\n".join(lines)
+
 # ── MCP server ────────────────────────────────────────────────────────────
 
 def run_stdio():
@@ -248,6 +384,11 @@ def run_stdio():
     mcp.tool(name="task_manager")(_tool_task_manager)
     mcp.tool(name="deep_research")(_tool_deep_research)
     mcp.tool(name="site_survey")(_tool_site_survey)
+    mcp.tool(name="search_skills")(_tool_search_skills)
+    mcp.tool(name="get_skill")(_tool_get_skill)
+    mcp.tool(name="list_packs")(_tool_list_packs)
+    mcp.tool(name="install_pack")(_tool_install_pack)
+    mcp.tool(name="list_categories")(_tool_list_categories)
 
     @mcp.resource("memory://checkpoint")
     def resource_checkpoint() -> str:

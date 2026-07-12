@@ -1,0 +1,215 @@
+ 
+ 
+ 
+Key Feature 
+Up to 32-ch IP camera inputs, plug & play with 16 power-over-
+Ethernet (PoE) interfaces
+H.265+/H.265/H.264+/H.264 video formats
+Up to 2-ch@12 MP or 3-ch@8 MP or 6-ch@4 MP or 12-
+ch@1080p decoding capacity
+Up to 256 Mbps incoming bandwidth
+Adopt Hikvision Acusense technology to minimize manual effort
+and security costs 
+Smart Function 
+All channels support Motion Detection 2.0
+2-ch video analysis for human and vehicle recognition to reduce false alarm
+1-ch facial recognition for video stream, or 4-ch facial recognition for face picture
+Smart search for the selected area in the video, and smart playback to improve the playback efficiency
+Professional and Reliability 
+H.265+ compression effectively reduces the storage space by up to 75%
+Adopt stream over TLS encryption technology which provides more secure stream transmission service
+HD Video Output
+Provide independent HDMI and VGA outputs
+HDMI video output at up to 4K resolution
+Storage and Playback
+Up to 4 SATA interfaces for HDD connection (up to 10 TB capacity per HDD)
+16-ch synchronous playback
+Network & Ethernet Access
+16 independent PoE network interfaces
+1 self-adaptive 10/100/1000 Mbps Ethernet interface
+Hik-Connect for easy network management
+DS-7732NXI-K4/16P 
+32-ch 1.5U 16 PoE K Series AcuSense 4K
+NVR
+Specification
+Intelligent Analytics 
+AI by Device 
+Facial recognition, perimeter protection, motion detection 2.0 
+AI by Camera 
+Facial recognition, perimeter protection, throwing objects from building, motion 
+detection2.0, ANPR, VCA 
+Facial Recognition 
+Facial Detection and Analytics 
+Face picture comparison, human face capture, face picture search 
+Face Picture Library 
+Up to 16 face picture libraries, with up to 20,000 face pictures in total (each picture ≤ 4 
+MB, total capacity ≤ 1 GB) 
+Facial Detection and Analytics 
+Performance 
+1-ch, 8 MP
+Face Picture Comparison 
+4-ch
+Motion Detection 2.0 
+By Device 
+All channels, up to 4 MP (when enhanced SVC mode is enabled, up to 8 MP) video 
+analysis for human and vehicle recognition to reduce false alarm 
+By Camera 
+All channels 
+Perimeter Protection 
+By Device 
+2-ch, 4 MP (HD network camera, H.264/H.265) video analysis for human and vehicle
+recognition to reduce false alarm 
+By Camera 
+All channels 
+Video and Audio 
+IP Video Input 
+32-ch
+Incoming Bandwidth 
+256 Mbps 
+Outgoing Bandwidth 
+160 Mbps 
+HDMI Output 
+1-ch, 4K (3840 × 2160)/30Hz, 2K (2560 × 1440)/60Hz, 1920 × 1080/60Hz, 1600 ×
+1200/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz 
+VGA Output 
+1-ch, 1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz
+Video Output Mode 
+HDMI/VGA independent output 
+CVBS Output 
+N/A 
+Audio Output 
+1-ch, RCA (Linear, 1 KΩ)
+Two-Way Audio 
+1-ch, RCA (2.0 Vp-p, 1 KΩ, using the audio input )
+Decoding 
+Decoding Format 
+H.265/H.265+/H.264+/H.264
+Recording Resolution 
+12 MP/8 MP/6 MP/5 MP/4 MP/3 MP/1080p/UXGA/ 720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF 
+Synchronous playback 
+16-ch
+Decoding Capability 
+AI on: 1-ch@12 MP (30 fps)/2-ch@8 MP (30 fps)/4-ch@4 MP (30 fps)/8-ch@1080p (30 
+fps) 
+AI off: 2-ch@12 MP (30 fps)/3-ch@8 MP (30 fps)/6-ch@4 MP (30 fps)/12-ch@1080p (30 
+fps) 
+Stream Type 
+Video, Video & Audio 
+Audio Compression 
+G.711ulaw/G.711alaw/G.722/G.726/AAC
+Network 
+Remote Connection 
+128 
+API 
+ONVIF (profile S/G); SDK; ISAPI 
+Compatible Browser 
+IE11, Chrome V57, Firefox V52, Safari V12, Edge V89, or above version 
+Network Protocol 
+TCP/IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, NFS, iSCSI, 
+ISUP, UPnP™, HTTP, HTTPS , SNMP v2c/v3
+Network Interface 
+1 RJ-45 10/100/1000 Mbps self-adaptive Ethernet interface 
+PoE 
+Interface 
+16 
+Power 
+≤ 200 W 
+Standard 
+IEEE 802.3af/at 
+Auxiliary Interface 
+SATA 
+4 SATA interfaces 
+Capacity 
+Up to 10 TB capacity for each HDD 
+Serial Interface 
+2 RS-485 (half-duplex), 1 RS-232 
+Alarm In/Out 
+16/4 (16/9 is optional) 
+USB Interface 
+Front panel: 2 × USB 2.0; Rear panel: 1 × USB 3.0 
+Ctrl 12V 
+N/A (optional to support) 
+DC 12V 
+N/A (optional to support) 
+General 
+GUI Language 
+English, Russian, Bulgarian, Hungarian, Greek, German, Italian, Czech, Slovak, French, 
+Polish, Dutch, Portuguese, Spanish, Romanian, Turkish, Japanese, Danish, Swedish 
+Language, Norwegian, Finnish, Korean, Traditional Chinese, Thai, Estonian, Vietnamese, 
+Croatian, Slovenian, Serbian, Latvian, Lithuanian, Uzbek, Kazakh, Arabic, Ukrainian, 
+Kyrgyz , Brazilian Portuguese, Indonesian 
+Power Supply 
+100 to 240 VAC, 50 to 60Hz 
+Consumption 
+≤ 20 W (without HDD and PoE off) 
+Working Temperature 
+-10 °C to 55 °C (14 °F to 131 °F)
+Working Humidity 
+10 to 90 % 
+Dimension (W × D × H) 
+445 × 400 × 75 mm ( 17.5"× 15.7" × 3.0") 
+ 
+ 
+ 
+ 
+Weight 
+≤ 5 kg (without HDD, 11 lb.) 
+Certification 
+FCC 
+Part 15 Subpart B, ANSI C63.4-2014 
+CE 
+EN 55032: 2015, EN 61000-3-2, EN 61000-3-3, EN 50130-4, EN 55035: 2017 
+Obtained Certification 
+CE, FCC, IC, CB, KC, UL, Rohs, Reach, WEEE, RCM, UKCA, LOA, BIS 
+ 
+Note: 
+ Alarm in/out can be optional for certain models. If you select a device model with "/Alarm16+9", then the device will 
+have 16 alarm inputs and 9 alarm outputs. 
+ Facial recognition, motion detection 2.0 or perimeter protection cannot be enabled at the same time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dimension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physical Interface 
+ 
+No. 
+Description 
+No. 
+Description 
+1 
+Network interfaces with PoE function 
+7 
+RS-232 serial interface 
+2 
+USB 3.0 interface and LAN interface 
+8 
+Alarm in, alarm out and RS-485 
+3 
+Audio out 
+9 
+GND 
+4 
+Audio in 
+10 
+Power supply 
+5 
+HDMI interface 
+11 
+Power switch 
+6 
+VGA interface 
+ 
+Available Model 
+DS-7732NXI-K4/16P 
+ 

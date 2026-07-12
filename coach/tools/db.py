@@ -10,7 +10,7 @@ DB_PATH = MEM_DIR / "coach.db"
 
 _connection: sqlite3.Connection | None = None
 
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 3
 
 
 def _dict_factory(cursor, row):
@@ -50,7 +50,8 @@ def init_db():
             priority TEXT DEFAULT 'medium',
             status TEXT DEFAULT 'pending',
             due TEXT,
-            notes TEXT DEFAULT ''
+            notes TEXT DEFAULT '',
+            verify_method TEXT DEFAULT ''
         );
 
         CREATE TABLE IF NOT EXISTS sessions (
@@ -88,11 +89,79 @@ def init_db():
             key TEXT PRIMARY KEY,
             value TEXT NOT NULL
         );
+
+        CREATE TABLE IF NOT EXISTS prds (
+            id TEXT PRIMARY KEY,
+            title TEXT NOT NULL,
+            status TEXT DEFAULT 'DRAFT',
+            created TEXT NOT NULL,
+            updated TEXT NOT NULL,
+            phase TEXT DEFAULT 'research',
+            plan_path TEXT,
+            criteria TEXT DEFAULT '',
+            verification_method TEXT DEFAULT '',
+            notes TEXT DEFAULT ''
+        );
+
+        CREATE TABLE IF NOT EXISTS intent_corrections (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            input_pattern TEXT NOT NULL,
+            correct_mode TEXT NOT NULL,
+            correct_intent TEXT NOT NULL DEFAULT 'general',
+            created TEXT NOT NULL,
+            hit_count INTEGER DEFAULT 1,
+            notes TEXT DEFAULT ''
+        );
+        CREATE INDEX IF NOT EXISTS idx_intent_corrections_pattern ON intent_corrections(input_pattern);
     """)
     row = db.execute("SELECT version FROM schema_version ORDER BY version DESC LIMIT 1").fetchone()
     if not row:
         db.execute("INSERT INTO schema_version (version) VALUES (?)", (SCHEMA_VERSION,))
         db.commit()
+    else:
+        current_ver = row["version"]
+        if current_ver < 2:
+            try:
+                db.execute("ALTER TABLE tasks ADD COLUMN verify_method TEXT DEFAULT ''")
+            except sqlite3.OperationalError:
+                pass  # column already exists
+            try:
+                db.execute("""
+                    CREATE TABLE IF NOT EXISTS prds (
+                        id TEXT PRIMARY KEY,
+                        title TEXT NOT NULL,
+                        status TEXT DEFAULT 'DRAFT',
+                        created TEXT NOT NULL,
+                        updated TEXT NOT NULL,
+                        phase TEXT DEFAULT 'research',
+                        plan_path TEXT,
+                        criteria TEXT DEFAULT '',
+                        verification_method TEXT DEFAULT '',
+                        notes TEXT DEFAULT ''
+                    )
+                """)
+            except sqlite3.OperationalError:
+                pass
+            db.execute("INSERT OR REPLACE INTO schema_version (version) VALUES (?)", (SCHEMA_VERSION,))
+            db.commit()
+        if current_ver < 3:
+            try:
+                db.execute("""
+                    CREATE TABLE IF NOT EXISTS intent_corrections (
+                        id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        input_pattern TEXT NOT NULL,
+                        correct_mode TEXT NOT NULL,
+                        correct_intent TEXT NOT NULL DEFAULT 'general',
+                        created TEXT NOT NULL,
+                        hit_count INTEGER DEFAULT 1,
+                        notes TEXT DEFAULT ''
+                    )
+                """)
+                db.execute("CREATE INDEX IF NOT EXISTS idx_intent_corrections_pattern ON intent_corrections(input_pattern)")
+            except sqlite3.OperationalError:
+                pass
+            db.execute("INSERT OR REPLACE INTO schema_version (version) VALUES (?)", (SCHEMA_VERSION,))
+            db.commit()
 
 
 #
@@ -172,7 +241,8 @@ def load_tasks() -> list[dict]:
     return get_db().execute("SELECT * FROM tasks ORDER BY created DESC").fetchall()
 
 
-def add_task(task_id: str, title: str, priority: str = "medium", notes: str = "") -> dict:
+def add_task(task_id: str, title: str, priority: str = "medium", notes: str = "",
+             verify_method: str = "") -> dict:
     task = {
         "id": task_id,
         "title": title,
@@ -180,10 +250,11 @@ def add_task(task_id: str, title: str, priority: str = "medium", notes: str = ""
         "priority": priority if priority in ("low", "medium", "high") else "medium",
         "status": "pending",
         "notes": notes,
+        "verify_method": verify_method if verify_method in ("CLI", "Test", "Static", "Browser", "Grep", "Read", "Custom", "") else "",
     }
     get_db().execute(
-        "INSERT INTO tasks (id, title, created, priority, status, notes) VALUES (?, ?, ?, ?, ?, ?)",
-        (task["id"], task["title"], task["created"], task["priority"], task["status"], task["notes"]),
+        "INSERT INTO tasks (id, title, created, priority, status, notes, verify_method) VALUES (?, ?, ?, ?, ?, ?, ?)",
+        (task["id"], task["title"], task["created"], task["priority"], task["status"], task["notes"], task["verify_method"]),
     )
     get_db().commit()
     return task
@@ -481,6 +552,61 @@ def migrate_checkpoint_from_md() -> int:
                 count += 1
     db.commit()
     return count
+
+
+#
+# ── Intent Corrections ──────────────────────────────────────────────────
+#
+
+
+def record_intent_correction(input_text: str, correct_mode: str, correct_intent: str = "general", notes: str = ""):
+    db = get_db()
+    existing = db.execute(
+        "SELECT id, hit_count FROM intent_corrections WHERE input_pattern = ?", (input_text,)
+    ).fetchone()
+    utcnow = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    if existing:
+        db.execute(
+            "UPDATE intent_corrections SET hit_count = ?, notes = ? WHERE id = ?",
+            (existing["hit_count"] + 1, notes, existing["id"]),
+        )
+    else:
+        db.execute(
+            "INSERT INTO intent_corrections (input_pattern, correct_mode, correct_intent, created, notes) VALUES (?, ?, ?, ?, ?)",
+            (input_text, correct_mode, correct_intent, utcnow, notes),
+        )
+    db.commit()
+    log_insight("intent_correction", {
+        "input": input_text[:100],
+        "mode": correct_mode,
+        "intent": correct_intent,
+    })
+
+
+def get_intent_corrections() -> list[dict]:
+    return get_db().execute(
+        "SELECT * FROM intent_corrections ORDER BY hit_count DESC, created DESC"
+    ).fetchall()
+
+
+def match_intent_correction(input_text: str) -> dict | None:
+    text = input_text.lower().strip()
+    corrections = get_intent_corrections()
+    for c in corrections:
+        if c["input_pattern"].lower() == text:
+            return {
+                "mode": c["correct_mode"],
+                "intent": c["correct_intent"],
+                "confidence": 0.95,
+            }
+    for c in corrections:
+        if c["input_pattern"].lower() in text or text in c["input_pattern"].lower():
+            return {
+                "mode": c["correct_mode"],
+                "intent": c["correct_intent"],
+                "confidence": 0.85,
+            }
+    return None
 
 
 #

@@ -1,0 +1,66 @@
+{
+  "name": "Chatbot Lead Capture",
+  "nodes": [
+    {
+      "id": "webhook-trigger",
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [300, 300],
+      "webhookId": "chatbot-lead",
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "chatbot-lead",
+        "responseMode": "responseNode",
+        "options": {}
+      }
+    },
+    {
+      "id": "format-lead",
+      "name": "Format Lead",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [500, 300],
+      "parameters": {
+        "values": {
+          "string": [
+            { "name": "name", "value": "={{ $json.body.name }}" },
+            { "name": "phone", "value": "={{ $json.body.phone }}" },
+            { "name": "email", "value": "={{ $json.body.email }}" },
+            { "name": "interest", "value": "={{ $json.body.interest }}" },
+            { "name": "message", "value": "={{ $json.body.message }}" },
+            { "name": "source", "value": "={{ $json.body.source }}" },
+            { "name": "page", "value": "={{ $json.body.page }}" },
+            { "name": "captured_at", "value": "={{ $json.body.captured_at || new Date().toISOString() }}" }
+          ]
+        },
+        "options": {}
+      }
+    },
+    {
+      "id": "respond-webhook",
+      "name": "Respond to Webhook",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.2,
+      "position": [700, 300],
+      "parameters": {
+        "respondWith": "json",
+        "responseBodyType": "code",
+        "responseBody": "={{ { success: true, message: 'Lead captured' } }}"
+      }
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [[ { "node": "Format Lead", "type": "main", "index": 0 } ]]
+    },
+    "Format Lead": {
+      "main": [[ { "node": "Respond to Webhook", "type": "main", "index": 0 } ]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": ["chatbot", "leads", "aslielectronics"]
+}

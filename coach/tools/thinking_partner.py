@@ -1,6 +1,7 @@
-"""Thinking partner — Socratic questioning with conversation memory.
+"""Thinking partner — Socratic questioning with self-interrogation protocol.
 Usage:
   python tools/thinking_partner.py "I want to start X but don't know how"
+  python tools/thinking_partner.py --interrogate "I'm building a new feature"  (PAI-style 5-question protocol)
 """
 import sys, datetime, re, uuid
 from pathlib import Path
@@ -10,6 +11,15 @@ CONV_DIR = MEM_DIR / "conversations"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from db import init_db, load_recent_sessions
+
+
+SELF_INTERROGATION_QUESTIONS = [
+    "What am I assuming that I haven't verified?",
+    "What would a domain expert challenge about my approach?",
+    "What failure mode am I not testing for?",
+    "What constraint might I be violating without realizing it?",
+    "What would make the user say 'that's not what I meant'?",
+]
 
 
 def load_context():
@@ -89,21 +99,23 @@ def load_past_conversations(topic, limit=2):
     return convos
 
 
-def save_conversation(statement, questions, topic_guess):
+def save_conversation(statement, questions, topic_guess, interrogation_mode=False):
     CONV_DIR.mkdir(parents=True, exist_ok=True)
     today = datetime.date.today().isoformat()
     cid = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
     path = CONV_DIR / f"conv-{cid}.md"
 
+    mode_label = "Self-Interrogation" if interrogation_mode else "Thinking Partner"
     content = f"""---
 id: "conv-{cid}"
 date: "{today}"
+mode: "{mode_label}"
 topic: "{topic_guess}"
 problem: "{statement[:200]}"
 status: open
 ---
 
-# Conversation: {topic_guess}
+# {mode_label}: {topic_guess}
 
 ## Problem
 {statement}
@@ -137,6 +149,35 @@ def log_decision(topic, decision):
         fp.write_text(content, encoding="utf-8")
     else:
         fp.write_text(f"# Decisions Log\n{entry}", encoding="utf-8")
+
+
+def run_self_interrogation(statement):
+    """PAI-style self-interrogation: 5 structured questions before building."""
+    ctx = load_context()
+    decisions = load_recent_decisions()
+
+    print("=== Self-Interrogation Protocol ===\n")
+    print(f"Before building: \"{statement}\"\n")
+    print("Five blind-spot questions:\n")
+
+    for i, q in enumerate(SELF_INTERROGATION_QUESTIONS, 1):
+        print(f"  {i}. {q}")
+
+    if ctx:
+        print(f"\nContext:")
+        for label, val in ctx:
+            print(f"  - [{label}] {val}")
+
+    if decisions:
+        print(f"\nRecent decisions to review:")
+        for d in decisions[-3:]:
+            print(f"  - {d}")
+
+    topic_guess = statement[:50].strip()
+    conv_path = save_conversation(statement, SELF_INTERROGATION_QUESTIONS, topic_guess, interrogation_mode=True)
+
+    print(f"\nAnswer these questions before proceeding with your build.")
+    print(f"Session saved: {conv_path.name}")
 
 
 def thinking_partner(statement):
@@ -221,14 +262,22 @@ def thinking_partner(statement):
 def main():
     if len(sys.argv) < 2:
         print("Usage: python tools/thinking_partner.py \"your thought/problem here\"")
+        print("       python tools/thinking_partner.py --interrogate \"build description\"")
         print("\nExamples:")
         print('  python tools/thinking_partner.py "I want to learn SEO but feel overwhelmed"')
         print('  python tools/thinking_partner.py "Should I focus on content or technical SEO?"')
-        print('  python tools/thinking_partner.py "My website traffic dropped"')
+        print('  python tools/thinking_partner.py --interrogate "Building a new SEO audit tool"')
         sys.exit(1)
 
-    statement = " ".join(sys.argv[1:])
-    thinking_partner(statement)
+    if sys.argv[1] == "--interrogate":
+        statement = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else ""
+        if not statement:
+            print("Usage: thinking_partner.py --interrogate \"build description\"")
+            sys.exit(1)
+        run_self_interrogation(statement)
+    else:
+        statement = " ".join(sys.argv[1:])
+        thinking_partner(statement)
 
 
 if __name__ == "__main__":

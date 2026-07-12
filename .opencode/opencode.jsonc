@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "codebase-memory-mcp": {
+      "type": "local",
+      "command": ["C:/Users/Lenovo/AppData/Local/Programs/codebase-memory-mcp/codebase-memory-mcp.exe"],
+      "timeout": 30000,
+      "enabled": true
+    }
+  }
+}

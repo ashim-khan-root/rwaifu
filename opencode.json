@@ -167,7 +167,7 @@
     },
     "codebase-memory": {
       "type": "local",
-      "command": ["C:\\Users\\ashim\\AppData\\Local\\Programs\\codebase-memory-mcp\\codebase-memory-mcp.exe"],
+      "command": ["C:\\Users\\Lenovo\\AppData\\Local\\Programs\\codebase-memory-mcp\\codebase-memory-mcp.exe"],
       "description": "Codebase knowledge graph MCP for structural code queries"
     }
   },

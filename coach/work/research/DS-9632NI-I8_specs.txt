@@ -1,0 +1,216 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Feature 
+ H.265+/H.265/H.264+/H.264 video formats 
+ Up to 16/32/64-ch IP camera inputs 
+ Up to 1-ch@32 MP/2-ch@12 MP/16-ch@1080p decoding 
+capacity  
+ 8 SATA interfaces for HDD connection 
+ HDD hot swapping with RAID 0/1/5/6/10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Professional and Reliability 
+ H.265+ compression effectively reduces the storage space by up to 75% 
+ Dual-stream recording saves bandwidth 
+ Adopt stream over TLS encryption technology which provides more secure stream transmission service 
+ Support double verification for playback and downloading 
+HD Video Output 
+ Provide independent HDMI and VGA outputs 
+ HDMI video output at up to 4K resolution 
+Storage and Playback 
+ Hot-swappable HDD with configurable RAID 0, RAID 1, RAID 5, RAID 6 and RAID 10 storage scheme 
+ 1 eSATA interface for HDD connection 
+ 16-ch synchronous playback 
+Smart & POS Function 
+ Support multiple VCA (Video Content Analytics) events 
+ Configurable special camera smart functions, such as VCA detection (motion, line crossing, intrusion, etc.), heat map, ANPR, and 
+people counting 
+ POS information overlay on live view and playback, and POS triggered recording and alarm 
+Network & Ethernet Access 
+ 2 self-adaptive 10/100/1000 Mbps Ethernet interfaces 
+ Hik-Connect & DDNS (Dynamic Domain Name System) for easy network management 
+ Smooth streaming technology 
+ Support web access without plug-in 
+ 
+ 
+DS-9600NI-I8 Series NVR 
+ 
+ 
+ 
+Specification 
+Model 
+DS-9616NI-I8 
+DS-9632NI-I8 
+DS-9664NI-I8 
+Video and Audio 
+IP video input 
+16-ch 
+32-ch 
+64-ch 
+Up to 32 MP resolution 
+*: After ultra HD resolution mode is enabled, the NVR supports up to 4-ch 32 
+MP/24 MP IP video inputs. 
+Incoming bandwidth 
+256 Mbps 
+320 Mbps 
+320 Mbps 
+Outgoing bandwidth 
+256 Mbps 
+Incoming bandwidth 
+(RAID mode) 
+200 Mbps 
+Outgoing bandwidth 
+(RAID mode) 
+200 Mbps 
+HDMI 1 output 
+4K (3840 × 2160)/60Hz, 4K (3840 × 2160)/30Hz, 1920 × 1080/60Hz, 1600 × 
+1200/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz 
+HDMI 2 output 
+1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz  
+VGA 1 output 
+1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz 
+VGA 2 output 
+1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz  
+Video output mode 
+HDMI 1 and VGA 1 provide simultaneous video output, and work as the main 
+output; 
+HDMI 2 and VGA 2 provide simultaneous video output, and work as the auxiliary 
+output 
+CVBS output (optional) 
+1-ch, BNC (1.0 Vp-p, 75 Ω), resolution: PAL: 704 × 576, NTSC: 704 × 480 
+Audio output 
+2-ch, RCA (Linear, 1 KΩ) 
+Two-way audio input 
+1-ch, RCA (2.0 Vp-p, 1 KΩ, using the audio input) 
+Decoding 
+Decoding format 
+H.265+/H.265/H.264+/H.264/MPEG4 
+Recording resolution 
+32 MP/24 MP/12 MP/8 MP/6 MP/5 MP/4 MP/3 
+MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF 
+*: After ultra HD resolution mode is enabled, the NVR supports up to 4-ch 32 
+MP/24 MP IP video inputs. 
+Synchronous playback 
+16-ch 
+Capability 
+1-ch@32 MP (30 fps)/2-ch@12 MP (20fps)/4-ch@8 MP (25fps)/8-ch@4 MP 
+(30fps)/16-ch@1080p (30fps) 
+Dual stream recording 
+Support 
+Stream type 
+Video, Video & Audio 
+Audio compression 
+G.711ulaw/G.711alaw/G.722/G.726/AAC/MP2L2/PCM  
+Network 
+Remote connection 
+128 
+Network protocol 
+TCP/IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, NFS, iSCSI, 
+ISUP, UPnP™, HTTP, HTTPS 
+Network interface 
+2, RJ-45 10/100/1000 Mbps self-adaptive Ethernet interface 
+Network mode 
+Net Fault-Tolerance, Multi-address 
+RAID 
+ 
+ 
+ 
+ 
+ 
+ 
+RAID Type 
+RAID0, RAID1, RAID5, RAID6, and RAID10 (at least 4 TB for each HDD) 
+Auxiliary interface 
+Serial port 
+1 RS-485 (full-duplex), 1 RS-232, 1 keyboard 
+SATA 
+8 SATA interfaces supporting hot-plug 
+eSATA 
+1 eSATA interface 
+Capacity 
+Up to 10 TB capacity for each disk 
+Alarm in/out 
+16/4 
+USB interface 
+Front panel: 2 × USB 2.0; Rear panel: 1 × USB 3.0 
+General 
+Power supply 
+100 to 240 VAC, 50 to 60 Hz 
+Consumption 
+(without HDD) 
+≤ 30 W 
+Fan 
+Speed self-adjustable  
+Working temperature 
+-10 °C to 55 °C (14 °F to 131 °F) 
+Working humidity 
+10% to 90% 
+Chassis 
+3U chassis 
+Dimension (W × D × H) 
+445 × 465 × 92 mm ( 17.5"× 18.3" × 3.6") 
+Weight (without HDD) 
+≤ 10 kg (22 lb) 
+Certification 
+FCC 
+Part 15 Subpart B, ANSI C63.4-2014 
+CE 
+EN 55032:2015, EN 61000-3-2, EN 61000-3-3, EN 50130-4 
+ 
+ 
+ 
+Dimension 
+ 
+ 
+ 
+ 
+ 
+ 
+Physical Interface 
+ 
+No. 
+Description 
+No. 
+Description 
+1 
+LAN Interfaces  
+7 
+RS-232 Serial Interface 
+2 
+LINE IN, RCA Connector 
+8 
+eSATA Interface 
+3 
+AUDIO OUT, RCA Connector 
+9 
+SW Dial Switch, RS-485 Serial Interface, 
+Controller Port, ALARM IN, ALARM OUT 
+4 
+HDMI 1 and HDMI 2 Interfaces 
+10 
+100 to 240 VAC Power Supply 
+5 
+VGA 1 and VGA 2 Interfaces 
+11 
+Power Switch 
+6 
+USB 3.0 Interface 
+12 
+GND 
+Available Model 
+ DS-9616NI-I8, DS-9632NI-I8, DS-9664NI-I8 
+ 
+ 

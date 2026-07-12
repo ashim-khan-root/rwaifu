@@ -1,0 +1,280 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Feature 
+ H.265+/H.265/H.264+/H.264 video formats 
+ Intelligent analytics based on deep learning algorithm 
+ Up to 4-ch perimeter protection 
+ Up to 4-ch facial recognition for video stream 
+ Up to 8-ch facial recognition for face picture  
+ Up to 32-ch IP camera inputs 
+ Up to 32-ch 1080p decoding capability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compression and Recording 
+ H.265+ compression effectively reduces the storage space by up to 75% 
+ Full channel IP cameras connection 
+ Compatible with third-party network cameras 
+HD Video Output 
+ Provide independent HDMI and VGA outputs 
+ HDMI video output at up to 4K resolution 
+Storage and Playback 
+ Up to 8 SATA interfaces for HDD connection 
+ 16-ch synchronous playback 
+Smart & POS Function 
+ Support multiple VCA (Video Content Analytics) events 
+ Smart search for the selected area in the video, and smart playback to improve the playback efficiency 
+ POS information overlay on live view and playback 
+ POS triggered recording and alarm 
+ 
+ 
+DS-8632NXI-I8/S (E) 
+AcuSense Series NVR 
+ 
+ 
+ 
+ 
+ 
+ 
+Network & Ethernet Access 
+ 2 self-adaptive 10/100/1000 Mbps Ethernet interfaces 
+ Hik-Connect & DDNS (Dynamic Domain Name System) for easy network management 
+Typical Application  
+Facial Recognition and Face Picture Comparison 
+Modeling and analyzing face pictures captured by cameras. Realize blacklist alarm and stranger alarm via face picture library. 
+Search target people by picture and name features. 
+ 
+Perimeter Protection 
+Adopt deep learning algorithm to reduce false alarm, effectively reduces the false alarm caused by tree branches, leaves, shadow, 
+light, vehicles, small animals, etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Specification 
+Intelligent Analytics 
+AI by NVR 
+Facial recognition, perimeter protection, motion detection 2.0 
+AI by Camera 
+Facial recognition, perimeter protection, video structuralization, throwing objects from 
+building, motion detection 2.0, ANPR, people counting, VCA 
+Engine 
+1, engine mode is adjustable 
+Facial Recognition 
+Facial Detection and Analytics 
+Face picture comparison, human face capture, face picture search 
+Face Picture Library 
+Up to 16 face picture libraries, with up to 50,000 face pictures in total (each picture ≤ 
+512 KB, total capacity ≤ 1 GB) 
+Face 
+Picture 
+Comparison 
+(Captured from Camera) 
+8-ch 
+Facial Detection and Analytics 
+Performance 
+4-ch human face capture (HD network camera, up to 8 MP, H.264/H.265)  
+Motion Detection 2.0 
+By NVR 
+All channels for Hikvision cameras 
+By Camera 
+All channels 
+Perimeter Protection 
+By NVR 
+4-ch, 2 MP (H.264/H.265) video analysis for human and vehicle recognition to reduce 
+false alarm; 
+Up to 12 rules in total 
+By Camera 
+All channels 
+ANPR 
+By Camera 
+All channels 
+Vehicle Attributes 
+Plate number, license plate color, license plate type 
+Plate Attributes 
+Vehicle brand, vehicle color, vehicle type 
+Video and Audio 
+IP Video Input 
+32-ch 
+Incoming Bandwidth 
+320 Mbps 
+Outgoing Bandwidth 
+256 Mbps 
+HDMI 1 Output 
+4K (3840 × 2160)/30 Hz, 2K (2560 × 1440)/60 Hz, 1920 × 1080/60 Hz, 1600 × 1200/60 
+Hz, 1280 × 1024/60 Hz, 1280 × 720/60 Hz, 1024 × 768/60 Hz 
+HDMI 2 Output 
+4K (3840 × 2160)/30 Hz, 2K (2560 × 1440)/60 Hz, 1920 × 1080/60 Hz, 1600 × 1200/60 
+Hz, 1280 × 1024/60 Hz, 1280 × 720/60 Hz, 1024 × 768/60 Hz 
+VGA 1 Output 
+1920 × 1080/60 Hz, 1600 × 1200/60 Hz, 1280 × 1024/60 Hz, 1280 × 720/60 Hz, 1024 × 
+768/60 Hz 
+ 
+ 
+ 
+VGA 2 Output 
+1920 × 1080/60 Hz, 1600 × 1200/60 Hz, 1280 × 1024/60 Hz, 1280 × 720/60 Hz, 1024 × 
+768/60 Hz 
+Video Output Mode 
+HDMI1/VGA1 simultaneous output, HDMI2/VGA2 simultaneous output,HDMI1/HDMI2 
+independent output 
+CVBS Output 
+1-ch, BNC (1.0 Vp-p, 75 Ω), resolution: PAL: 704 × 576, NTSC: 704 × 480 
+Audio Output 
+2-ch, RCA (Linear, 1 KΩ) 
+Two-Way Audio 
+1-ch, RCA (2.0 Vp-p, 1 KΩ) 
+Decoding 
+Decoding Format 
+H.265+/H.265/H.264+/H.264 
+Recording Resolution 
+32 MP/24 MP/12 MP/8 MP/6 MP/5 MP/4 MP/3 MP/1080p/UXGA/720p/VGA 
+/4CIF/DCIF/2CIF/CIF/QCIF 
+*: The NVR supports up to 4-ch 32 MP/24 MP IP video inputs. 
+Synchronous Playback 
+16-ch 
+Live View Window Division 
+1/2/4/6/8/9/16/25/32/36 
+Aux Port Window Division 
+1/2/4/6/8/9/16/25/32/36 
+Decoding Capability 
+Enable AI by NVR: 20-ch@1080p (30 fps) 
+Disable AI by NVR: 32-ch@1080p (30 fps) 
+Dual-Stream Recording 
+Support 
+Stream Type 
+Video, Video & Audio 
+Audio Compression 
+G.711ulaw/G.711alaw/G.722/G.726/AAC/MP2L2/PCM 
+Network 
+Network Interface 
+2, RJ-45 10/100/1000 Mbps self-adaptive Ethernet interface 
+Remote Connection 
+128 
+Network Protocol 
+TCP/IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, NFS, iSCSI, ISUP, 
+UPnP™, HTTP, HTTPS 
+API 
+ONVIF (profile S/G); SDK; ISAPI 
+Compatible Browser 
+IE11, Chrome V57, Firefox V52, Safari V12, Edge V89, or above version 
+RAID 
+RAID Type 
+RAID0, RAID1, RAID5, RAID6, RAID10 Support global hot spare 
+Auxiliary Interface 
+Serial Interface 
+1 RS-485 (full-duplex), 1 RS-232 
+SATA 
+8 SATA interfaces 
+Capacity 
+Up to 14 TB capacity for each disk 
+eSATA 
+1 eSATA interface 
+Alarm In/Out 
+16/9 
+USB Interface 
+Front panel: 2 × USB 2.0; Rear panel: 2 × USB 3.0 
+ 
+ 
+ 
+General 
+GUI Language 
+English, Russian, Bulgarian, Hungarian, Greek, German, Italian, Czech, Slovak, French, 
+Polish, Dutch, Portuguese, Spanish, Romanian, Turkish, Japanese, Danish, Swedish 
+Language, Norwegian, Finnish, Korean, Traditional Chinese, Thai, Estonian, Vietnamese, 
+Croatian, Slovenian, Serbian, Latvian, Lithuanian, Uzbek, Kazakh, Arabic, Ukrainian, 
+Kyrgyz , Brazilian Portuguese, Indonesian, Hebrew 
+Power Supply 
+100 to 240 VAC, 50 to 60 Hz 
+Consumption 
+≤ 30 W (without HDD) 
+Working Temperature 
+-10 °C to 55 °C (14 °F to 131 °F) 
+Working Humidity 
+10% to 90% 
+Chassis 
+2U chassis 
+Dimension (W × D × H) 
+440 × 457 × 94 mm ( 17.4"× 18.0" × 3.7") 
+Weight 
+≤ 7.1 kg (without HDD, 15.7 lb.) 
+Certification 
+Obtained Certification 
+CE, CB, REACH, WEEE, UKCA, LOA 
+CE 
+EN 55032:2015, EN 61000-3-2, EN 61000-3-3, EN 50130-4 
+ 
+ 
+ 
+Note: 
+Facial recognition, motion detection 2.0 and perimeter protection cannot be enabled at the same time. Enable one 
+function will make the others unavailable. 
+ 
+ 
+ 
+ 
+Dimension 
+ 
+ 
+ 
+ 
+ 
+Physical Interface 
+ 
+ 
+No. 
+Description 
+No. 
+Description 
+1 
+eSATA interface 
+8 
+VGA 2 interface and RS-232 serial interface 
+2 
+LAN 1 and LAN 2 interfaces 
+9 
+USB 3.0 interfaces 
+3 
+Audio in and out 
+10 
+Alarm in 
+4 
+Audio out and video out 
+11 
+Alarm out, RS-485 serial interface, Ctrl 12V 
+and DC 12V 
+5 
+HDMI 1 interface 
+12 
+GND 
+6 
+HDMI 2 interface 
+13 
+Power switch 
+7 
+VGA 1 interface 
+14 
+Power supply 
+ 
+Available Model 
+ DS-8632NXI-I8/S (E) 
+ 
+ 

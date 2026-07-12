@@ -1,0 +1,10 @@
+{
+  "name": "personal-coach-pdf",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@pdfme/cli": "^6.0.0",
+    "@pdfme/schemas": "^6.0.0",
+    "@pdfme/common": "^6.0.0"
+  }
+}

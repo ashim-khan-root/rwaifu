@@ -1,0 +1,414 @@
+FILE: agent.py
+  class CoachAgent
+    method __init__(self)
+    method _load_config(self)
+    method call_model(self, system, user)
+    method discover_tools(self, query)
+    method process_input(self, user_input)
+  fn main_loop()
+  fn parse_command(text)
+
+FILE: anki_export.py
+  fn export_cards(cards, out_file)
+  fn export_cards_to_apkg(cards, out_file)
+
+FILE: memory_manager.py
+  class MemoryManager
+    method __init__(self, max_items)
+    method _load_lightrag(self)
+    method read_md(self, file_path)
+    method get_context_for_query(self, query)
+    method search(self, query, limit)
+    method store_session(self, skill, duration_min, rating, notes, decisions)
+
+FILE: prompts.py
+
+FILE: tools\add_goal.py
+  fn main()
+
+FILE: tools\add_habit.py
+  fn main()
+
+FILE: tools\ask_memory.py
+  fn load_index()
+  fn load_config()
+  fn ask_ollama(query, context_chunks, config, timeout)
+  fn main()
+
+FILE: tools\autofix.py
+  fn run_with_autofix(command, max_retries)
+
+FILE: tools\backup_memory.py
+  fn log(msg, quiet)
+  fn _ensure_git_config()
+  fn git_commit_and_push(quiet)
+  fn create_zip_archive(quiet)
+  fn prune_old_backups(quiet)
+  fn main()
+
+FILE: tools\content_factory.py
+  fn generate_article(keyword)
+
+FILE: tools\daily_review.py
+  fn today_str()
+  fn tomorrow_str()
+  fn daily_path(date_str)
+  fn parse_tasks(content)
+  fn parse_sessions(content)
+  fn scan_inbox()
+  fn archive_old_dails()
+  fn run_review(extra_notes)
+  fn main()
+
+FILE: tools\debate.py
+  fn run_debate(proposal, topic)
+
+FILE: tools\deep_research.py
+  class Source
+  class Contradiction
+  class Finding
+  class MindMap
+    method add_finding(self, topic, content, sources, confidence)
+    method log_contradiction(self, topic, claim_a, claim_b, source_a, source_b)
+    method get_summary(self)
+    method get_gaps(self)
+    method source_count(self)
+    method get_citation(self, url)
+    method record_source(self, url, title, snippet)
+    method to_markdown(self)
+  class ResearchState
+    method create(cls, query, max_iterations)
+    method increment(self)
+    method is_over_budget(self)
+  fn call_ollama(prompt, model, max_tokens)
+  fn _extract_next_query(text)
+  fn _clean_query(q)
+  fn _extract_topic(query)
+  fn _parse_action(text)
+  fn _coerce_value(v)
+  fn _short_args(a)
+  fn _ollama_available()
+  fn _detect_provider(override)
+  fn _llm_call_factory(provider, model)
+  fn _generate_report(state, provider, model, pages_data)
+  fn _build_raw_report(state, pages_data)
+  fn _build_llm_report(query, synthesis, sources)
+  fn slugify(text)
+  fn _generate_variations(query)
+  fn _dedup_urls(results)
+  fn _build_simple_raw(topic, pages)
+  fn _save_report(topic, brief)
+  fn main()
+
+FILE: tools\evolve_skill.py
+  fn parse_insights()
+  fn cluster_for_evolution(insights, min_confidence, min_cluster)
+  fn skill_exists(name)
+  fn write_suggestions(suggestions)
+  fn main()
+
+FILE: tools\export_anki.py
+  fn main()
+
+FILE: tools\extract_insights.py
+  fn load_sessions()
+  fn extract_patterns(sessions)
+  fn deduplicate_insights(insights)
+  fn write_insights(insights)
+  fn write_observation(action, details)
+  fn main()
+
+FILE: tools\find_leads.py
+  fn find_leads(niche, location, max_leads)
+
+FILE: tools\inbox_processor.py
+  fn categorize_item(filepath)
+  fn show_inbox()
+  fn auto_process()
+  fn _create_session_from_capture(filepath, content)
+  fn _add_to_daily_task(filepath, content)
+  fn _add_to_habits(filepath, content)
+  fn _add_to_goals(filepath, content)
+  fn main()
+
+FILE: tools\index_memory.py
+  fn _read_file(path)
+  fn _strip_yaml(text)
+  fn _extract_date(text, filename)
+  fn _chunk_sessions()
+  fn _chunk_daily()
+  fn _chunk_conversations()
+  fn _chunk_simple(source, filename)
+  fn collect_entries()
+  class TfidfIndex
+    method __init__(self)
+    method _tokenize(self, text)
+    method _term_freq(self, tokens)
+    method build(self, entries)
+    method search(self, query, k)
+    method save(self, path)
+    method load(cls, path)
+  fn build_index()
+  fn load_index()
+  fn get_index_info()
+  fn main()
+
+FILE: tools\index_memory_lightrag.py
+  fn _read_file(path)
+  fn _strip_yaml(text)
+  fn _extract_date(text, filename)
+  fn _chunk_sessions()
+  fn _chunk_daily()
+  fn _chunk_conversations()
+  fn _chunk_simple(source, filename)
+  fn collect_entries()
+  class TfidfIndex
+    method __init__(self)
+    method _tokenize(self, text)
+    method _term_freq(self, tokens)
+    method build(self, entries)
+    method search(self, query, k)
+    method save(self, path)
+    method load(cls, path)
+  fn _ollama_running()
+  fn _build_lightrag()
+  fn build_index()
+  fn load_index()
+  fn search_index(query, k, mode)
+  fn get_index_info()
+  fn main()
+
+FILE: tools\insight_ledger.py
+  fn _load()
+  fn _save(entries)
+  fn log_insight(event, payload)
+  fn query_insights(event, since, limit)
+  fn get_stats()
+  fn main()
+
+FILE: tools\learn_quotation.py
+  fn load_rates(path)
+  fn save_rates(path, data)
+  fn detect_moi(filename)
+  fn categorize_product(model, description)
+  fn generate_key(model, price)
+  fn find_product_in_rates(rates, model, price)
+  fn extract_items(xlsx_path)
+  fn analyze_items(items, rates, is_moi)
+  fn display_analysis(xlsx_name, items, customer, system_desc, is_moi, matched, new_products, category_totals)
+  fn find_all_quotations()
+  fn update_rates_with_new(rates, new_products, dry_run)
+  fn main()
+
+FILE: tools\load_context_snapshot.py
+  fn main()
+
+FILE: tools\make_quotation.py
+  fn load_rates()
+  fn save_rates(rates)
+  fn list_rates()
+  fn parse_input(text)
+  fn select_nvr(cam_count, cameras, rates)
+  fn _cam_res_order(cam_type)
+  fn select_hdd(cameras, nvr_key, rates)
+  fn select_switch(cam_count, rates)
+  fn select_rack(cam_count, rates)
+  fn build_quotation(cameras, customer, discount_pct)
+  fn fn(n)
+  fn print_quotation(q)
+  fn _find_item_image(item, rates)
+  fn _add_logo(ws, rates)
+  fn _add_prod_img(ws, row, img_file, col)
+  fn export_excel(q, filename)
+  fn update_rates_from_excel(filepath)
+  fn interactive_mode()
+  fn main()
+
+FILE: tools\mcp_server.py
+  fn _read_file(path)
+  fn _get_checkpoint_text()
+  fn _get_goals_text()
+  fn _get_recent_sessions(n)
+  fn _get_context_summary()
+  fn run_stdio()
+  fn run_interactive()
+  fn main()
+
+FILE: tools\memory_search.py
+  fn _vector_search(query, limit)
+  fn search_files(query, limit, use_vector)
+  fn _score_file(filepath, query_lower)
+  fn _extract_context(filepath, query_lower, context_lines)
+  fn main()
+
+FILE: tools\morning_plan.py
+  fn today_str()
+  fn daily_path(date_str)
+  fn load_context()
+  fn show_today()
+  fn create_or_update(brain_dump)
+  fn main()
+
+FILE: tools\new_plan.py
+  fn main()
+
+FILE: tools\read_checkpoint.py
+
+FILE: tools\read_context.py
+  fn read_md(file)
+  fn main(max_items)
+
+FILE: tools\read_goals.py
+
+FILE: tools\read_habits.py
+
+FILE: tools\recap.py
+  fn load_recent_sessions(days)
+  fn load_recent_conversations(days)
+  fn load_recent_decisions(days)
+  fn generate_recap(days)
+  fn main()
+
+FILE: tools\repo_map.py
+  fn get_signatures(file_path)
+  fn generate_repo_map(root_dir, exclude_dirs)
+
+FILE: tools\restore_memory.py
+  fn rebuild_index()
+  fn list_backups()
+  fn restore_from_git()
+  fn restore_from_zip(zip_path)
+  fn main()
+
+FILE: tools\save_context_snapshot.py
+  fn main()
+
+FILE: tools\seo_audit.py
+  fn fetch_soup(url)
+  fn check_robots(base_url)
+  fn check_sitemap(base_url)
+  fn categorize_url(url, base_domain)
+  fn check_backlinks(domain)
+  fn check_backlinks_fast(domain)
+  fn check_pagespeed(url)
+  fn check_meta(soup)
+  fn check_headings(soup)
+  fn check_schema(soup)
+  fn check_social_tags(soup)
+  fn check_images(soup, base_url)
+  fn check_internal_links(soup, base_domain, base_url)
+  fn check_content(soup)
+  fn check_page_quality(soup)
+  fn audit_url(url, with_crawl, max_pages, with_backlinks, with_speed)
+  fn format_report(r)
+  fn main()
+
+FILE: tools\serve.py
+  class QuietHandler
+    method log_message(self, format)
+  fn find_free_port(start)
+  fn get_local_ip()
+  fn start_server(directory, port, open_browser)
+  fn watch_and_restart(directory, port)
+  fn list_work_files()
+  fn main()
+
+FILE: tools\session_analytics.py
+  fn load_sessions(days)
+  fn compute_skill_breakdown(sessions)
+  fn compute_ledger_events(ledger, days)
+  fn generate_chart_html(analytics)
+  fn main()
+
+FILE: tools\session_hooks.py
+  fn _load_evolution_suggestions()
+  fn _top_insights(n)
+  fn pre_session()
+  fn post_session(skill, duration, rating, notes)
+  fn main()
+
+FILE: tools\setup_new_pc.py
+  fn run(cmd, desc, check)
+  fn main()
+
+FILE: tools\site_survey.py
+  fn _ensure_file()
+  fn _load_all()
+  fn _parse(lines)
+  fn _save_all(surveys)
+  fn _next_id(surveys)
+  fn cmd_add(client, location, contact, notes)
+  fn cmd_list(filter_mode)
+  fn cmd_view(survey_id)
+  fn cmd_close(survey_id, summary)
+  fn main()
+
+FILE: tools\store_session.py
+  fn extract_decisions_from_notes(notes)
+  fn log_decision_to_file(skill, decisions)
+  fn main()
+
+FILE: tools\task_manager.py
+  fn _ensure_file()
+  fn _load_tasks()
+  fn _parse_task(lines)
+  fn _save_tasks(tasks)
+  fn _next_id(tasks)
+  fn cmd_add(title, priority, notes)
+  fn cmd_list(filter_mode)
+  fn cmd_done(task_id)
+  fn cmd_delete(task_id)
+  fn main()
+
+FILE: tools\thinking_partner.py
+  fn load_context()
+  fn load_recent_decisions(limit)
+  fn load_related_sessions(topic, limit)
+  fn load_past_conversations(topic, limit)
+  fn save_conversation(statement, questions, topic_guess)
+  fn log_decision(topic, decision)
+  fn thinking_partner(statement)
+  fn main()
+
+FILE: tools\web_fetch.py
+  fn fetch_url(url, selector, max_chars)
+
+FILE: tools\web_search.py
+  fn search_web(query, max_results, site)
+
+FILE: tools\weekly_synthesis.py
+  fn last_7_days()
+  fn load_daily_notes(days)
+  fn load_sessions(days)
+  fn analyze(daily_notes, sessions)
+  fn main()
+
+FILE: tools\write_checkpoint.py
+  fn main()
+
+FILE: work\scripts\_extract_images.py
+
+FILE: work\scripts\_map_images.py
+  fn add_images_to_rates(filepath)
+
+FILE: work\scripts\analyze_xlsx.py
+
+FILE: work\scripts\create_calc.py
+
+FILE: work\scripts\decode_all_ways.py
+
+FILE: work\scripts\decode_debug.py
+
+FILE: work\scripts\enrich_secuview_catalog.py
+  fn get_soup(url, retries)
+
+FILE: work\scripts\fix_xlsx.py
+
+FILE: work\scripts\fix_xlsx2.py
+
+FILE: work\scripts\scrape_secuview.py
+  fn get_soup(url, retries)
+  fn find_product_urls()
+  fn extract_categories(body_class)
+  fn scrape_product(url)
+  fn main()

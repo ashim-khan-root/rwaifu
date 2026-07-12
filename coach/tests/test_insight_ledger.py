@@ -2,6 +2,8 @@ import sys, json, datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
+from db import init_db
+init_db()
 import insight_ledger
 
 

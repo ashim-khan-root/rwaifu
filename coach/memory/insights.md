@@ -3,7 +3,7 @@ type: Insight
 id: memory-insights
 version: 1
 created: 2026-06-01
-updated: 2026-07-08
+updated: 2026-07-12
 references:
   - patterns.md
 tags: [memory, insights, patterns]
@@ -14,11 +14,29 @@ tags: [memory, insights, patterns]
 
 Auto-extracted patterns from session history.
 
-- id: 4363789b395f
+- id: ede76bd48617
+  pattern: struggles_with_fix
+  category: struggle
+  confidence: 0.8
+  evidence_count: 3
+  sessions: [97d59273-c691-4996-bc3f-f213901db54c, b771a838-552f-4bb5-84c2-67011ed0a9c2, b8a2e659-e39a-4b1e-80c6-4133679b9118]
+  summary: Rated fix avg 4.3/10 across 3 sessions (2 struggle keywords)
+  suggestion: Review fix fundamentals, practice with simpler exercises
+
+- id: bd9f6956fdd2
   pattern: topic_coding
   category: recurring_topic
-  confidence: 0.7
-  evidence_count: 3
-  sessions: [c91e5664-1c16-491e-a465-cb4e4c959baf, 23a37818-2cd1-48af-ac63-6c224e7562f7, 8e02d8dd-44c4-4b51-b3b5-b66132109e1f]
-  summary: Topic 'coding' appeared in 3 sessions
+  confidence: 0.8
+  evidence_count: 4
+  sessions: [97d59273-c691-4996-bc3f-f213901db54c, c91e5664-1c16-491e-a465-cb4e4c959baf, 23a37818-2cd1-48af-ac63-6c224e7562f7]
+  summary: Topic 'coding' appeared in 4 sessions
   suggestion: Create dedicated skill or resource collection for coding
+
+- id: 482392638545
+  pattern: frequent_fix
+  category: frequency
+  confidence: 0.75
+  evidence_count: 3
+  sessions: [97d59273-c691-4996-bc3f-f213901db54c, b771a838-552f-4bb5-84c2-67011ed0a9c2, b8a2e659-e39a-4b1e-80c6-4133679b9118]
+  summary: Practiced fix 3 times — most practiced skill
+  suggestion: Consider setting a mastery goal for fix

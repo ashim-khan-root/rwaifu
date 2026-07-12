@@ -1,0 +1,482 @@
+ 
+ 
+ 
+DS-9632NXI-I8/S 
+32-ch 2U 4K AcuSense NVR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ H.265+/H.265/H.264+/H.264 video formats 
+ Intelligent analytics based on deep learning algorithm 
+ Up to 4-ch perimeter protection 
+ Up to 1-ch facial recognition for video stream, or up to 4-ch facial recognition for face picture 
+ Up to 32-ch IP camera inputs 
+ Up to 16-ch 1080p decoding capability 
+ Up to 320 Mbps incoming bandwidth 
+  Up to  8-ch IP speakers can be connected 
+*Compression and Recording 
+*
+ 
+H.265+ compression effectively reduces the storage space by up to 75% 
+*
+ 
+Full channel IP cameras connection 
+*
+ 
+Compatible to third-party network cameras  
+*HD Video Output 
+*
+ 
+Provide independent HDMI and VGA outputs 
+*
+ 
+HDMI video output at up to 4K resolution 
+*Storage and Playback 
+*
+ 
+Up to 8 SATA interfaces for HDD connection 
+*
+ 
+16-ch synchronous playback 
+*Smart ＆ POS Function 
+*
+ 
+Support multiple VCA (Video Content Analytics) events 
+*
+ 
+Smart search for the selected area in the video, and smart playback to improve the playback efficiency 
+*
+ 
+POS information overlay on live view and playback 
+*
+ 
+POS triggered recording and alarm 
+*Network ＆ Ethernet Access 
+*
+ 
+2 self-adaptive 10/100/1000 Mbps Ethernet interfaces 
+*
+ 
+Hik-Connect ＆0 DDNS (Dynamic Domain Name System) for easy network management 
+ 
+ Specification 
+Intelligent Analytics 
+AI by NVR 
+DS-9632NXI-I8/S:Facial recognition, perimeter protection, motion detection 2.0 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Facial recognition, perimeter 
+protection, motion detection 2.0 
+AI by Camera 
+DS-9632NXI-I8/S:Facial recognition, perimeter protection, video structuralization, 
+throwing objects from building, motion detection 2.0, ANPR, people counting, VCA 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Facial recognition, perimeter 
+protection, video structuralization, throwing objects from building, motion detection 
+2.0, ANPR, people counting, VCA 
+Engine 
+DS-9632NXI-I8/S:1, engine mode is adjustable 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):1, engine mode is adjustable 
+Perimeter Protection 
+Human/Vehicle Analysis 
+DS-9632NXI-I8/S:Up to 4-ch 2 MP (H.264/H.265) video analysis for human and vehicle 
+recognition; 
+Up to 12 rules in total 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):N/A 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:Up to 4-ch 2 MP (H.264/H.265) video analysis for human and vehicle recognition; 
+Up to 12 rules in total 
+By NVR 
+DS-9632NXI-I8/S:4-ch, 2 MP (H.264/H.265) video analysis for human and vehicle 
+recognition to reduce false alarm; 
+Up to 12 rules in total 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):4-ch, 2 MP (H.264/H.265) video 
+analysis for human and vehicle recognition to reduce false alarm; 
+Up to 12 rules in total 
+By Camera 
+DS-9632NXI-I8/S:All channels 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):All channels 
+ 
+Facial Recognition 
+Facial Detection and Analytics 
+DS-9632NXI-I8/S:Face picture comparison, human face capture, face picture search 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Face picture comparison, human 
+face capture, face pictu 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:Face picture comparison, human face capture, face picture search 
+Face Picture Library 
+DS-9632NXI-I8/S:Up to 16 face picture libraries, with up to 10,000 face pictures in total 
+(each picture ≤ 15KB, total capacity ≤ 150 MB) 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Up to 16 face picture libraries, 
+with up to 50,000 face pictures in total (each picture ≤ 512 KB, total capacity ≤ 1 GB) 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:Up to 16 face picture libraries, with up to 10,000 face pictures in total (each 
+picture ≤ 15KB, total capacity ≤ 150 MB) 
+Facial Detection and Analytics 
+Performance 
+DS-9632NXI-I8/S:1-ch human face capture (HD network camera, up to 8 MP, 
+H.264/H.265)  
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:1-ch human face capture (HD network camera, up to 8 MP, H.264/H.265)  
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):4-ch human face capture (HD 
+network camera, up to 8 MP, H.264/H.265) 
+Face Picture Comparison 
+DS-9632NXI-I8/S:4-ch face picture comparison alarm 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):8-ch 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:4-ch face picture comparison alarm 
+Motion Detection 2.0 
+Human/Vehicle Analysis 
+DS-9632NXI-I8/S:32-ch 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):N/A 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:32-ch 
+By NVR 
+DS-9632NXI-I8/S:All channels for Hikvision cameras 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):All channels for Hikvision cameras 
+By Camera 
+DS-9632NXI-I8/S:All channels 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):All channels 
+ 
+ANPR 
+By Camera 
+DS-9632NXI-I8/S:All channels 
+Support Countries & Regions:  
+1. Myanmar, Philippines, Indonesia, Vietnam, Pakistan, New Zealand, Australia, Sri 
+Lanka, Singapore, Malaysia 
+2. Turkey, Croatia, Slovakia, Czech Republic, Bulgaria,  Macedonia, Hungary, Greece, 
+Poland, France, Netherlands, Switzerland, Spain, The United Kingdom, Ireland, 
+Germany, Italy, Austria, Palestine, Latvia, Lithuania, Estonia, Belgium, Luxembourg, 
+Ukraine, Uzbekistan, Kazakhstan, Mongolia, Moldova, Kyrgyzstan, Azerbaijan, Georgia, 
+Armenia, Albania, Kosovo, Belarus, Cyprus, Denmark, Finland, Malta, Portugal, 
+Romania, Slovenia, Sweden, Israel, Bosnia and Herzegovina, Turkmenistan, 
+Montenegro, Serbia, Tajikistan, Iceland, Liechtenstein 
+3. Argentina, Brazil, Chile, Colombia, Peru, Ecuador, Paraguay, Uruguay, Salvador, 
+Bolivia,  
+Canada, Algeria, Mexico, Panama, Costa Rica, Nigeria, Kenya, Mauritius, Tanzania, Cote 
+d'Ivoire, South Africa, Tunisia, Sierra Leone, Zambia, Ghana, Zimbabwe, Uganda, 
+Angola, Ethiopia, Republic of Trinidad and Tobago, Dominica, Guatemala, Senegal, 
+Algeria, Cameroon 
+4. Qatar, Kuwait, Oman, Jordan, Lebanon, Iraq, United Arab Emirates, Saudi Arabia, 
+Bahrain, Egypt, Libya 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):All channels 
+Vehicle Attributes 
+DS-9632NXI-I8/S:Vehicle brand, vehicle color, vehicle type 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Plate number, license plate color, 
+license plate type 
+Plate Attributes 
+DS-9632NXI-I8/S:Plate number, license plate color, license plate type  
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Vehicle brand, vehicle color, 
+vehicle type 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+Video and Audio 
+IP Video Input 
+DS-9632NXI-I8/S:32-ch 
+Up to 12 MP resolution 
+*: 32 MP and 24 MP is only available for channel 1 when ultra HD resolution mode is 
+enabled. 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):32-ch 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:32-ch 
+Up to 12 MP resolution 
+*: 32 MP and 24 MP is only available for channel 1 when ultra HD resolution mode is 
+enabled. 
+ 
+Incoming Bandwidth 
+DS-9632NXI-I8/S:320 Mbps 
+320 Mbps 
+Outgoing Bandwidth 
+256 Mbps 
+HDMI 1 Output 
+DS-9632NXI-I8/S:4K (3840 × 2160)/60Hz, 4K (3840 × 2160)/30Hz, 2K (2560 × 
+1440)/60Hz, 1920 × 1080/60Hz, 1600 × 1200/60Hz, 1280 × 1024/60Hz, 1280 × 
+720/60Hz, 1024 × 768/60Hz 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:4K (3840 × 2160)/60Hz, 4K (3840 × 2160)/30Hz, 2K (2560 × 1440)/60Hz, 1920 × 
+1080/60Hz, 1600 × 1200/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):4K (3840 × 2160)/30 Hz, 2K (2560 
+× 1440)/60 Hz, 1920 × 1080/60 Hz 
+HDMI 2 Output 
+DS-9632NXI-I8/S:1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 
+768/60Hz 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):4K (3840 × 2160)/30 Hz, 2K (2560 
+× 1440)/60 Hz, 1920 × 1080/60 Hz 
+VGA 1 Output 
+DS-9632NXI-I8/S:1-ch, 1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 
+768/60Hz 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:1-ch, 1920 × 1080/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):1920 × 1080/60 Hz 
+VGA 2 Output 
+DS-9632NXI-I8/S:1920 × 1080/60 Hz, 1600 × 1200/60 Hz, 1280 × 1024/60 Hz, 1280 × 
+720/60 Hz, 1024 × 768/60 Hz 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):1920 × 1080/60 Hz 
+Video Output Mode 
+DS-9632NXI-I8/S:HDMI1/VGA simultaneous output, HDMI2/VGA independent output 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:HDMI1/VGA simultaneous output, HDMI2/VGA independent output 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):HDMI1/VGA1 simultaneous 
+output, HDMI2/VGA2 simultaneous output,HDMI1/HDMI2 independent output 
+CVBS Output 
+DS-9632NXI-I8/S:1-ch, BNC (1.0 Vp-p, 75 Ω), resolution: PAL: 704 × 576, NTSC: 704 × 
+480 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):1-ch, BNC (1.0 Vp-p, 75 Ω), 
+resolution: PAL: 704 × 576, NTSC: 704 × 480 
+ 
+Audio Output 
+DS-9632NXI-I8/S:2-ch, RCA (Linear, 1 KΩ) 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):2-ch, RCA (Linear, 1 KΩ) 
+Two-Way Audio 
+1-ch, RCA (2.0 Vp-p, 1 KΩ) 
+Decoding 
+Recording Resolution 
+DS-9632NXI-I8/S:32 MP/24 MP/12 MP/8 MP/6 MP/5 MP/4 MP/3 
+MP/1080p/UXGA/720p/VGA /4CIF/DCIF/2CIF/CIF/QCIF 
+*: The NVR supports up to 4-ch 32 MP/24 MP IP video inputs. 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):32 MP/24 MP/12 MP/8 MP/6 
+MP/5 MP/4 MP/3 MP/1080p/UXGA/720p/VGA /4CIF/DCIF/2CIF/CIF/QCIF 
+*: The NVR supports up to 4-ch 32 MP/24 MP IP video inputs. 
+Live View Window Division 
+DS-9632NXI-I8/S:1/2/4/6/8/9/16/25/32/36 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):1/2/4/6/8/9/16/25/32/36 
+Aux Port Window Division 
+DS-9632NXI-I8/S:1/2/4/6/8/9/16/25/32/36 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):1/2/4/6/8/9/16/25/32/36 
+Dual-Stream Recording 
+DS-9632NXI-I8/S:Support 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Support 
+Audio Compression 
+DS-9632NXI-I8/S:G.711ulaw/G.711alaw/G.722/G.726/AAC/MP2L2/PCM 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中
+性)(E):G.711ulaw/G.711alaw/G.722/G.726/AAC/MP2L2/PCM 
+Decoding Format 
+DS-9632NXI-I8/S:H.265+/H.265/H.264+/H.264/MPEG4 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):H.265+/H.265/H.264+/H.264 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:H.265+/H.265/H.264+/H.264/MPEG4 
+Decoding Capability 
+DS-9632NXI-I8/S:16-ch@1080p (30 fps) 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:16-ch@1080p (30 fps) 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Enable AI by NVR: 20-ch@1080p 
+(30 fps) Disable AI by NVR: 32-ch@1080p (30 fps) 
+ 
+Synchronous Playback 
+DS-9632NXI-I8/S:32-ch 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:32-ch 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):16-ch 
+Stream Type 
+Video, Video & Audio 
+Network 
+API 
+DS-9632NXI-I8/S:ONVIF (profile S/G); SDK; ISAPI 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):ONVIF (profile S/G); SDK; ISAPI 
+Compatible Browser 
+DS-9632NXI-I8/S:IE11, Chrome V57, Firefox V52, Safari V12, Edge V89, or above 
+version 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):IE11, Chrome V57, Firefox V52, 
+Safari V12, Edge V89, or above version 
+Network Protocol 
+DS-9632NXI-I8/S:TCP/IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, 
+NFS, iSCSI, ISUP, UPnP™, HTTP, HTTPS, ONVIF(Version 2.2), OTAP 
+TCP/IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, NFS, iSCSI, ISUP, 
+UPnP™, HTTP, HTTPS 
+Remote Connection 
+128 
+Network Interface 
+DS-9632NXI-I8/S:2, RJ-45 10/100/1000 Mbps self-adaptive Ethernet interface 
+2, RJ-45 10/100/1000 Mbps self-adaptive Ethernet interface 
+Camera Access Protocol 
+ONVIF(Version 2.5), RTSP 
+RAID 
+RAID Type 
+DS-9632NXI-I8/S:RAID0, RAID1, RAID5, RAID6, RAID10 
+RAID and AI functions are mutually exclusive. 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):RAID0, RAID1, RAID5, RAID6, 
+RAID10 Support global hot spare 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:RAID0, RAID1, RAID5, RAID6, RAID10 
+Auxiliary Interface 
+SATA 
+8 SATA interfaces  
+eSATA 
+1 eSATA interface 
+Capacity 
+DS-9632NXI-I8/S:Up to 16 TB capacity for each disk 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Up to 14 TB capacity for each disk 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:Up to 10 TB capacity for each disk 
+Serial Interface 
+DS-9632NXI-I8/S:RS-485 (full-duplex), RS-232, Keyboard 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:RS-485 (full-duplex), RS-232, Keyboard 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):1 RS-485 (full-duplex), 1 RS-232 
+ 
+USB Interface 
+DS-9632NXI-I8/S:Front panel: 2 × USB 2.0; Rear panel: 1 × USB 3.0 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Front panel: 2 × USB 2.0; Rear 
+panel: 2 × USB 3.0 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:Front panel: 2 × USB 2.0; Rear panel: 1 × USB 3.0 
+Alarm In/Out 
+DS-9632NXI-I8/S:16/8 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):16/9 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:16/8 
+Ctrl 12V 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:NA 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):Controllable 12 VDC, 1 A power 
+output for external alarm device; The power will be turned on when the alarm output 
+is triggered.  
+*: The Ctrl 12V power is controlled by alarm output 9. 
+DC 12V 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):12 VDC, 1 A power output 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:NA 
+General 
+GUI Language 
+DS-9632NXI-I8/S:English, Russian, Bulgarian, Hungarian, Greek, German, Italian, Czech, 
+Slovak, French, Polish, Dutch, Portuguese, Spanish, Romanian, Turkish, Japanese, 
+Danish, Swedish Language, Norwegian, Finnish, Korean, Traditional Chinese, Thai, 
+Estonian, Vietnamese, Croatian, Slovenian, Serbian, Latvian, Lithuanian, Uzbek, 
+Kazakh, Arabic, Ukrainian, Kyrgyz , Brazilian Portuguese, Indonesian, Hebrew 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:N/A 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):English, Russian, Bulgarian, 
+Hungarian, Greek, German, Italian, Czech, Slovak, French, Polish, Dutch, Portuguese, 
+Spanish, Romanian, Turkish, Japanese, Danish, Swedish Language, Norwegian, Finnish, 
+Korean, Traditional Chinese, Thai, Estonian, Vietnamese, Croatian, Slovenian, Serbian, 
+Latvian, Lithuanian, Uzbek, Kazakh, Arabic, Ukrainian, Kyrgyz , Brazilian Portuguese, 
+Indonesian, Hebrew 
+Power Supply 
+100 to 240 VAC, 50 to 60 Hz 
+Consumption 
+DS-9632NXI-I8/S:≤ 30 W 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:≤ 30 W 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):≤ 30 W (without HDD) 
+Working Temperature 
+-10 °C to 55 °C (14 °F to 131 °F) 
+Working Humidity 
+10% to 90% 
+Chassis 
+2U chassis 
+ 
+Dimension (W × D × H) 
+DS-9632NXI-I8/S:442 × 459 × 92 mm (17.4"× 18" × 3.6") 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):445 × 460 × 93 mm (17.5"× 18.1" 
+× 3.7") 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:442 × 459 × 92 mm (17.4"× 18" × 3.6") 
+Weight 
+DS-9632NXI-I8/S:≤ 8.7 kg (19.2 lb.) 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):≤ 8.3 kg (18.3lb.) 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:≤ 8.7 kg (19.2 lb.) 
+Certification 
+FCC 
+DS-9632NXI-I8/S:Part 15 Subpart B, ANSI C63.4-2014 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):N/A 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:Part 15 Subpart B, ANSI C63.4-2014 
+CE 
+DS-9632NXI-I8/S:EN 55032:2015, EN 61000-3-2, EN 61000-3-3, EN 50130-4 
+EN 55032:2015, EN 61000-3-2, EN 61000-3-3, EN 50130-4 
+Obtained Certification 
+DS-9632NXI-I8/S:CE, FCC, IC 
+DS-9632NXI-I8/S(标配)(C),DS-9632NXI-I8/S(中性)(C),DS-9632NXI-I8/S(标配)(C)/阿联酋
+SIRA:CE, FCC, IC 
+DS-9632NXI-I8/S(标配)(E),DS-9632NXI-I8/S(中性)(E):CE, CB, REACH, WEEE, UKCA, LOA 
+ 
+ Physical Interface 
+No. 
+Description 
+No. 
+Description 
+1 
+eSATA interface 
+8 
+USB 3.0 interface 
+2 
+LAN1/LAN2 interface 
+9 
+ALARM IN 
+3 
+AUDIO IN/OUT 
+10 
+ALARM OUT, RS-485, Ctrl 12 
+V and DC 12 V 
+4 
+AUDIO/VIDEO OUT 
+11 
+GND 
+5 
+HDMI1/HDMI2 interface 
+12 
+100 to 240 VAC power 
+supply 
+6 
+VGA1/VGA2 Interface 
+13 
+Power switch 
+7 
+RS-232 interface 
+ 
+ 
+ 
+ 
+ Dimension 
+ 
+ 
+ Accessory 
+ 
+ 
+ 

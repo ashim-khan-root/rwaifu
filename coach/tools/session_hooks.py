@@ -155,6 +155,28 @@ def _read_open_conversation():
     return None
 
 
+def _read_telos_summary():
+    telos_path = COACH_DIR / "user" / "telos.md"
+    identity_path = COACH_DIR / "user" / "identity.md"
+    parts = []
+    if identity_path.exists():
+        text = identity_path.read_text(encoding="utf-8")
+        for line in text.splitlines():
+            if line.strip().startswith("- **"):
+                parts.append(line.strip().strip("- **").replace(":**", ":"))
+    if telos_path.exists():
+        text = telos_path.read_text(encoding="utf-8")
+        in_goals = False
+        for line in text.splitlines():
+            if line.startswith("## Goals"):
+                in_goals = True
+            elif line.startswith("## "):
+                in_goals = False
+            elif in_goals and line.strip() and (line.strip().startswith("- ") or line.strip()[0].isdigit()):
+                parts.append(line.strip())
+    return parts
+
+
 def _read_patterns_summary():
     insights = _top_insights(3)
     if not insights:
@@ -198,6 +220,10 @@ def pre_session():
     conv = _read_open_conversation()
     if conv:
         ctx_parts.append(conv)
+
+    telos = _read_telos_summary()
+    if telos:
+        ctx_parts.extend(telos)
 
     patterns = _read_patterns_summary()
     if patterns:

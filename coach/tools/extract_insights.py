@@ -138,8 +138,22 @@ def deduplicate_insights(insights):
     return unique
 
 
+OKF_FRONTMATTER = """---
+type: Insight
+id: memory-insights
+version: 1
+created: 2026-06-01
+updated: {updated}
+references:
+  - patterns.md
+tags: [memory, insights, patterns]
+---
+
+"""
+
 def write_insights(insights):
     lines = [
+        OKF_FRONTMATTER.format(updated=datetime.date.today().isoformat()),
         "# Insights\n",
         "Auto-extracted patterns from session history.\n",
     ]

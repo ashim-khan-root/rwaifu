@@ -43,3 +43,21 @@ coach/memory/insight_ledger.json
 coach/memory/coach.db
 coach/memory/coach.db-wal
 coach/memory/coach.db-shm
+
+# Separate git repos (not submodules)
+safehome/
+portfolio/
+freetoolz/
+stct/
+sim-shield/
+
+# Temp / generated files
+test_error.py
+ov_server.*
+openvino_server.py
+kernel.errors.txt
+*.html
+dropdown-menu-overlapping.png
+freetoolz-dropdown.png
+freetoolz-initial.png
+portfolio-screenshot*.png
