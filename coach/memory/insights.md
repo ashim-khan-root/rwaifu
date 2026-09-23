@@ -3,7 +3,7 @@ type: Insight
 id: memory-insights
 version: 1
 created: 2026-06-01
-updated: 2026-07-12
+updated: 2026-09-23
 references:
   - patterns.md
 tags: [memory, insights, patterns]
@@ -14,7 +14,7 @@ tags: [memory, insights, patterns]
 
 Auto-extracted patterns from session history.
 
-- id: ede76bd48617
+- id: 84c84aa71025
   pattern: struggles_with_fix
   category: struggle
   confidence: 0.8
@@ -23,7 +23,7 @@ Auto-extracted patterns from session history.
   summary: Rated fix avg 4.3/10 across 3 sessions (2 struggle keywords)
   suggestion: Review fix fundamentals, practice with simpler exercises
 
-- id: bd9f6956fdd2
+- id: cb47d18ca652
   pattern: topic_coding
   category: recurring_topic
   confidence: 0.8
@@ -32,7 +32,7 @@ Auto-extracted patterns from session history.
   summary: Topic 'coding' appeared in 4 sessions
   suggestion: Create dedicated skill or resource collection for coding
 
-- id: 482392638545
+- id: a23dcc9d9fac
   pattern: frequent_fix
   category: frequency
   confidence: 0.75
