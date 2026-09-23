@@ -14,7 +14,7 @@ tags: [memory, insights, patterns]
 
 Auto-extracted patterns from session history.
 
-- id: 0a3f4e5be25d
+- id: eaaa507b6098
   pattern: struggles_with_fix
   category: struggle
   confidence: 0.8
@@ -23,7 +23,7 @@ Auto-extracted patterns from session history.
   summary: Rated fix avg 4.3/10 across 3 sessions (2 struggle keywords)
   suggestion: Review fix fundamentals, practice with simpler exercises
 
-- id: 52f2c90aa0a8
+- id: 4ed7802da8db
   pattern: topic_coding
   category: recurring_topic
   confidence: 0.8
@@ -32,7 +32,7 @@ Auto-extracted patterns from session history.
   summary: Topic 'coding' appeared in 4 sessions
   suggestion: Create dedicated skill or resource collection for coding
 
-- id: 8f1da576cbc7
+- id: 0eda0cdbc361
   pattern: frequent_fix
   category: frequency
   confidence: 0.75
